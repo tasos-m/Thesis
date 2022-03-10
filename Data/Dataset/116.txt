@@ -1,0 +1,10 @@
+The user must be able to search for a book by title.
+The user must be able to rate a book.
+The user must be able to select a book.
+The system must be able to show recommended books to the user.
+The user must be able to add his personal information.
+The user must be able to change his personal information.
+The user must be able to see book ratings.
+The user must be able to search for a book by categories.
+The user must be able to edit his wishlist.
+The system must be able to show related books to the user.

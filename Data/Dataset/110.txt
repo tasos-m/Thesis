@@ -1,0 +1,14 @@
+The user must be able to select the route starting point
+The user must be able to select the route starting time
+The user must be able to set the route parameters
+The system must be able to create routes
+The user must be able to save routes
+The user must be able to edit saved routes
+The user must be able to rate routes
+The system must be able to create history
+The user must be able to edit history
+The system must be able to inform user about point of interest status
+The system must be able to remind user of their scheduled routes
+The user must be able to share routes and ratings with other users
+The user must be able to share routes and ratings on Social Media
+The user must be able to search shared routes and ratings

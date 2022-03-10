@@ -1,0 +1,16 @@
+The user must be able to add their personal info
+The user must be able to edit their personal info
+The coach must be able to create a team
+The coach must be able to add athletes to team
+The athlete must be able to accept and reject the team invitation
+The athlete must be able to leave the team
+The coach must be able to add the next training
+The coach must be able to cancel the next training
+The athlete must be able to see when and where the next training is
+The user must be able to upload a photo with the result of the test
+The coach must be able to download the photos of the athletes
+The user must be able to see nearby tests
+The user must be able to see the test duration
+The notification system must be able to notify the user that the test has expired
+The notification system must be able to notify Team Users for positive test and cancel the next training
+The user must be able to see their team info

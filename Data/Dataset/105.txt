@@ -1,0 +1,13 @@
+The user must be able to login to the application.
+The user must be able to sign up to the application.
+The user must be able to edit their user information.
+The owner must be able to evaluate the provider.
+The provider must be able to see their evaluations.
+The owner must be able to search for a provider.
+The owner must be able to select the provider they want.
+The provider must be able to post a service they provide.
+The provider must be able to delete a service they have posted.
+The owner must be able to pay the provider.
+The user must be able to upload photos.
+The provider must be able to see their order
+The provider must be able to delete their order

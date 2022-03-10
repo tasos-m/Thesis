@@ -1,0 +1,10 @@
+The client must be able to search offerings for a route.
+The client must be able to buy an offering.
+The client must be able to sort offerings by price/date-to-be-delivered.
+The client must be able to edit his/her profile.
+The system must be able to send an email to the client with his/her order receipt
+The manager must be able to view all company's offerings.
+The manager must be able to add an offering.
+The manager must be able to update an offering.
+The manager must be able to edit the company's profile.
+The manager must be able to view sales reports.

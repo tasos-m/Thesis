@@ -1,0 +1,11 @@
+The system must be able to manage news feeds
+Signed-in users must be able to upload posts depending on their popularity
+The system must be able to read the user's location data
+The user must be able to browse their feeds
+Signed-in users must be able to make comments
+Signed-in users must be able to add tags to their posts
+The user must be able to search for posts
+Signed-in users must be able to vote on relevant posts
+The system must be able to filter older news out of feeds
+Signed-in users must be able to follow other users
+The system must be able to promote popular posts to broader feeds

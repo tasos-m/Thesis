@@ -1,0 +1,13 @@
+The user must be able to upload a post.
+The user must be able to request an exchange for a specific post.
+The user must be able to exchange messages with other users.
+The user must be able to cancel an exchange request.
+The system must be able to notify the user when another user requests an exchange for one of his posts or when another user messages him.
+The user must be able to accept or decline a request for one of his posts.
+The user must be able to edit or delete one of his posts.
+The user must be able to rate other users.
+The user must be able to contact the developers.
+The user must be able to report anothere user.
+The user must be able to add or delete an item from his wishlist.
+The user must be able to search for an object using keywords
+The user must be able to select a post

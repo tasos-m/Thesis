@@ -1,0 +1,12 @@
+The doctor must be able to edit their scheduled appointments
+The doctor must be able to review their schedule
+The doctor must be able to create a new patient history file
+The doctor must be able to search a patient
+The doctor must be able to request access to view and modify a patients medical history
+The doctor must be able to modify their assigned patient's medical history
+The registered patient must be able to share their medical history with a doctor
+The registered patient must be able to request an appointment at an available time and date
+The doctor must be able to accept and reject a request for appointment
+The system must be able to notify the doctor/registered patient before their appointment
+The doctor/registered patient must be able to edit their notification method for their appointment
+The registered patient must be able to see their scheduled appointments

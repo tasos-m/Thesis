@@ -1,0 +1,14 @@
+An Administrator must be able to add project.
+A Procurement Creator must be able to create a procurement for a project.
+A Procurement Creator must be able to add products to his procurement.
+A Procurement Creator must be able to edit and delete products from his procurement.
+A Procurement Approver must be able to approve and reject a procurement.
+A Procurement Executor must be able to execute an approved procurement.
+A Procurement Creator must be able to register the invoices of his executed procurement.
+An Administrator must be able to add a supplier.
+A Procurement Creator must be able to add a product from a supplier.
+An Administrator must be able to search a procurement by project, date and Code ELKE.
+An Administrator must be able to view monthly cost per project.
+An Administrator must be able to view procurement status.
+A Procurement Creator must be able to view pending products for his procurements.
+A Procurement Creator must be able to search products by name, supplier, CPV, category, supplier product ID, description.

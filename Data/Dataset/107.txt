@@ -1,0 +1,10 @@
+The customer must be able to choose a language.
+The customer must be able to add a product to the cart.
+The customer must be able to remove a product from the cart.
+The system must be able to alert the customer if a product has expired.
+The customer must be able to add a bag or not.
+The customer must be able to view their total.
+The customer must be able to enter a discount code.
+The customer must be able to cancel their cart.
+The customer must be able to pay.
+The manager must be able to review the purchases.

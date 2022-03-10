@@ -1,0 +1,13 @@
+The user must be able to manage his information.
+The organisation must be able to manage its information.
+The user must be able to search for users/organisations/volunteer events based on their information.
+The organisation must be able to search for users/organisations/volunteer events based on their information.
+The user must be able to view user/organisation/event information.
+The organisation must be able to view user/organisation/event information.
+The organisation must be able to create a volunteer event and manage its information.
+The system must be able to suggest current volunteer events to a user based on their information.
+The user must be able to become or unbecome a member of an organisation.
+The system must be able to notify a member of an organisation about current volunteer events of the latter.
+The user must be able to become or unbecome a volunteer of a volunteer event.
+The system must be able to notify a volunteer about changes of the volunteer event.
+The user must be able to donate to an organisation with a number of payment methods.

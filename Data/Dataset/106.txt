@@ -1,0 +1,11 @@
+The user must be able to insert his personal information.
+The user must be able to edit his information.
+The user must be able to search for universities, schools and teams.
+The user must be able to access the profiles of universities, schools and teams.
+The user must be able to post a review in the profiles of universities, schools and teams.
+The user must be able to interact with preexisting user reviews.
+The user must be able to follow the universities, schools and teams he is interested in.
+The system must be able to notify the user for new reviews in the universities, schools and teams he is following.
+The system must be able to recommend to the user universities, schools and teams based on his interests.
+The user must be able to contact the system's developers.
+The user must be able to view his notification history.

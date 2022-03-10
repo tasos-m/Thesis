@@ -1,0 +1,11 @@
+The user must be able to enter their personal details in the Profile page.
+The user must be able to edit their personal details in the Profile page
+The user must be able to create a post in the Profile page or in the Feed page
+The user must be able to edit and delete their posts
+The user must be able to view their Profile page
+The user must be able to view other users' Profile pages
+The user must be able to view other users' posts in the Feed page
+The user must be able to interact with other users' posts
+The system must be able to notify the user if another user has interacted with one of their posts
+The user must be able to search other users by their name
+The user must be able to view filtered posts in the Feed page by selecting a location filter

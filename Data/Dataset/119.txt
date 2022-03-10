@@ -1,0 +1,11 @@
+The user must be able to connect their car to their account
+The user must be able to manage their connected cars
+The user must be able to view charging stations on the map
+The user must be able to rate a charging station after use
+The user must be able to check on Station availability
+The user must be able to ask for the fastest and safest route to a destination
+The user must be able to view the health of the vehicle
+The user must be able to call for roadside assistance
+The system must be able to query the car API for information
+The system must be able to track the user's location.
+The system must be able to display information over the map.

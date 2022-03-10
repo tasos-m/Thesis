@@ -1,0 +1,12 @@
+The user must be able to search for books
+The user must be able to select a book
+The user must be able to add book to shelf
+The user must be able to remove book from shelf
+The user must be able to select book category
+The system must be able to show the user books
+The user must be able to manage rating on book
+The user must be able to manage review on book
+The user must be able to insert number of books for his/her annual reading target
+The system must be able to notify the user about his/her target progress
+The user must be able to see ratings and reviews of other users.
+The user must be able to view shelves

@@ -1,0 +1,12 @@
+The user must be able to put his pin on the map
+The user must be able to add an undiscovered country to his list of discovered countries
+The user must be able to remove a discovered country from his list of discovered countries
+The user must be able to add a comment to a discovered country's profile
+The user must be able to edit/delete his comment
+The system must be able to show questions to the user
+The user must be able to answer system's questions
+The system must be able to suggest a list of undiscovered countries to the user based on his answers to the questions
+The system must be able to open the county's profile that the user has put his pin on
+The system must be able to color a discovered country on the map
+The user must be able to select an undiscovered country from the suggestion page
+The user must be able to navigate on the map

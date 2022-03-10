@@ -1,0 +1,10 @@
+The registered user must be able to login to the system.
+The registered user must be able to edit his/her personal or company profile.
+The Provider must be able to announce an available working position on his/her company.
+The Seeker must be able to search for any available working position.
+The Seeker must be able to apply for any available working position.
+The Provider must be able to make an interview request to any Seeker.
+The registered user must be able to search every user's profile .
+The registered user must be able to preview every user's profile.
+The system must be able to send notifications to any user.
+The registered user must be able to follow other users.

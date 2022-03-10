@@ -1,0 +1,11 @@
+The user must be able to fill in their personal details.
+The user must be able to edit their personal details.
+The user must be able to import a new product in the system.
+The user must be able to administrate any of their products in the system.
+The user must be able to see the available products in the system.
+The user must be able to search for a product in the system.
+The user must be able to view all the details of a product.
+The user must be able to communicate with another user.
+The user must be able to rate another user.
+The user must be able to send a message to the system administrators.
+The user must be able to view all the products that he/she has imported.

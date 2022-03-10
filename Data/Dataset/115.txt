@@ -1,0 +1,14 @@
+The user must be able to edit their profile.
+The user must be able to manage sets.
+The user must be able to manage the flashcards of a set.
+The user must be able to import and export sets.
+The user must be able to set a set as public or private.
+The user must be able to search sets.
+The system must be able to show flashcards of a set after user selection.
+The user must be able to save public sets of other users to their profile.
+The system must be able to recommend to the user public sets of other users.
+The user must be able to train on a set of flashcards.
+The system must be able to show the answer of a flashcard.
+The user must be able to select for a flashcard one of the two options: "Known" or "Unknown".
+The system must be able to modify dynamically the flashcards of a set that will be trained.
+The system must be able to show the performance of a user for a set.

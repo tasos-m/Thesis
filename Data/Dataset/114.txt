@@ -1,0 +1,10 @@
+The user must be able to create and edit an account.
+The user must be able to search my ingredients.
+The user must be able to search for recipes.
+The user must be able to select a recipe.
+The user must be able to select certain filters.
+The user must be able to edit the list of favourites.
+The user must be able to rate a recipe.
+The user must be able to comment on a recipe.
+The user must be able to add a new recipe.
+The user must be able to remove the ingredients that were used in a recipe.

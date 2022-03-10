@@ -1,0 +1,10 @@
+User must be able to sign up with his phone number
+User must be able to choose the type of store and service he wishes
+User must be able to perform a search
+User must be able to sort stores and services
+User must be able to choose filters and tags according to the specified type
+User must be able to make an appointment
+User must be able to see his closed appointments
+User must be able to cancel an appointment
+User must be able to get notifications
+User must be able to rate stores

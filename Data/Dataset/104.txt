@@ -1,0 +1,11 @@
+The logged-in user must be able to manage their personal information.
+The system must be able to suggest locations to exercise.
+The logged-in user must be able to search for other users.
+The logged-in user must be able to send sport request.
+The logged-in user must be able to accept and reject the sport request.
+The logged-in user must be able to send message.
+The logged-in user must be able to project locations on map.
+The system must be able to send a notification to logged-in user for a sport request.
+The system must be able to send a notification to logged-in user for a message.
+The logged-in user must be able to rate the application.
+The logged-in user must be able to register new locations to database.

@@ -1,0 +1,10 @@
+The user must be able to see a list of the suggested movies
+The user must be able to vote a suggested movie
+The user must be able to suggest a movie
+The system must be able to notify the user
+The user must be able to sort the suggested movies alphabetically, by suggestion date, by votes
+The cinema must be able to set a screening
+The user must be able to search movies by name
+The user must be able to see a list of the screenings
+The system must be able to complete the title of the movie automatically
+The cinema must be able to remove a screening

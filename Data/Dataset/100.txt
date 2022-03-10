@@ -1,0 +1,12 @@
+A Guest must be able to create an account
+A User must be able to Sign in
+A user must be able to see accounts from other users
+A User must be able to update their account information
+A User/Guest must be able to set Search Tags
+A User must be able to post walk requests
+A User must be able to post reviews
+A User must be able to manage his/her reviews
+A User/Guest must be able to view Posts
+A User must be able to contact other users
+The System must be able to notify Users
+A User must be able to see other users reviews
