@@ -1,7 +1,4 @@
-# Thesis
-
-## Title 
-Employing Machine Learning and Intelligent Information Management Techniques for efficient Software Requirements Elicitation
+# Employing Machine Learning and Intelligent Information Management Techniques for efficient Software Requirements Elicitation
 
 ## Abstract 
 Proper definition of functional requirements is a prerequisite for succesful software project development. Inaccurate and/or missing functional requirements are among the top reasons that lead to failure of the software development process, since incomplete definition of functional requirements results in erroneous scheduling of necessary tasks and subsequently failure in the implementation of the software project.
