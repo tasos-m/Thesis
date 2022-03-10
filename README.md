@@ -10,14 +10,26 @@ This dissertation initially builds a dataset of functional requirements of softw
 
 In the next step, machine learning algorithms are employed in order to extract recommendations for better software requirements elicitation.  For the evaluation of their performance the models are fed with take a new software project with incomplete functionality as input and the extracted recommendations are evaluated.
 
-_Anastasios Mouratidis
-Electrical and Computer Engineering School,
-Aristotle University of Thessaloniki, Greece
-February 2022_
+_Anastasios Mouratidis_
+
+_Electrical and Computer Engineering School,_
+
+_Aristotle University of Thessaloniki, Greece_
+
+_February 2022_
 
 ## Dependencies 
 ```
 pip install pandas
+pip install numpy
 pip install spacy
-
+python -m spacy download en_core_web_lg
+pip install apyori
+pip install regex
+pip install gensim
+pip install pyLDAvis
+pip install scikit-learn
+pip install matplotlib
+pip install scipy
 ```
+
