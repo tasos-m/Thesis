@@ -29,4 +29,15 @@ pip install scikit-learn
 pip install matplotlib
 pip install scipy
 ```
-
+## Code Run
+### Ontology extraction
+* Extract the Ontology from the Functional Requirements Dataset using the /Ontology Extraction/extractOntology.ipynb notebook 
+### Associtation Rules
+* Extract the Association Rules for the dataset using the /Apriori/apriori.ipynb notebook
+* Extraxt the Association Rules for the tesing project using the /Apriori/aprioriTestProject.ipynb notebook
+### LDA
+* Calculate the Topic Coherence using the /LDA/lda_select_model.ipynb notebook
+* Train the LDA models for different number of topics using the /LDA/lda_topics_iterations.ipynb notebook
+* Visualize the LDA results using the /LDA/lda_vis.ipynb notebook
+### Clustering
+* Implement Hierarchical Text Clustering with TFIDF using the /Text Clustering/clustering.ipynb notebook 
