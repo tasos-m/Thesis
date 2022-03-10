@@ -1,0 +1,1 @@
+A user must be able to login. A user must be able to create an account by providing an email and a password.  A user must be able to add a song to his playlist. A user must be able to add personal info to his profile. A user must be able to create a playlist. A user must be able to follow a user. A user must be able to search using a keyword.
