@@ -1,0 +1,89 @@
+A Developer must be able to get a Data Package into Node . 
+A Developer must be able to start using the data for doing analysis and visualizations . 
+A Researcher must be able to get a Data Package into Julia in seconds . 
+A Publisher must be able to add type information to his data . 
+A Publisher must be able to provide a visualization of data in the Data Package . 
+A Publisher must be able to provide his analysis and show his work to users of the data . 
+A Researcher must be able to save new visualizations . 
+A Researcher must be able to share them with others or include them in the Data Package . 
+A ResearcherPublisher must be able to know that his data conforms to its Data Package profile . 
+A ResearcherPublisher must be able to feel trust in the validity and usefulness of the data . 
+A ResearcherPublisher must be able to understand the ways in which his data is invalid . 
+A Researcher must be able to get a Data Package into R in seconds . 
+A Researcher must be able to get a Data Package into Excel in seconds . 
+A Researcher must be able to get a Data Package into SPSS in seconds . 
+A Researcher must be able to get a Data Package into STATA in seconds . 
+A Researcher must be able to translate his EML dataset to a Data Package . 
+A Researcher must be able to get a Data Package into LibreOffice or OpenOffice in seconds . 
+A Researcher must be able to start using the data for doing analysis and visualizations . 
+A Developer must be able to get a Data Package into Python in seconds . 
+A Developer must be able to have a jQuery plugin for Core Data Packages . 
+A Developer must be able to use it to apply to form control That uses a core dataset for autocompletion . 
+A Researcher must be able to get his Excel spreadsheet into a Data Package . 
+A Developer must be able to do exploratory data analysis in R and operationalize that analysis in Python . 
+A Developer must be able to get a Data Package into Clojure in seconds . 
+A Developer must be able to get a Data Package into Julia in seconds . 
+A Developer must be able to get a Data Package into C++ in seconds . 
+A Developer must be able to start using the data in doing analysis and visualizations . 
+"A Machine Learning expert must be able to easily import them into his ML platform ,so A Machine Learning expert must be able to start using the data in doing analysis . "
+A Developer must be able to have an Elasticsearch integration . 
+A Developer must be able to have an SPSS integration . 
+A Developer must be able to have an EPrints integration . 
+A Developer must be able to have a Mongo integration . 
+A Developer must be able to have a DAT integration . 
+A ResearcherGovernment Publisher must be able to add general reference data to his narrow dataset . 
+A ResearcherGovernment Publisher must be able to add general country names to his dataset that only contains country codes . 
+A ResearcherGovernment Publisher must be able to add reference data on inflation to his spending dataset . 
+A ResearcherGovernment Publisher must be able to map lines in his dataset using geographic data in his dataset . 
+A Researcher must be able to reference a remote . 
+A developer must be able to have an DSpace integration . 
+A Developer must be able to have Feather integration . 
+A Developer must be able to have HDF5 integration . 
+A Researcher working with data must be able to have an Microsoft Power BI integration. 
+A Researcher must be able to import datasets without downloading them locally . 
+A ResearcherPublisher must be able to have an integration with Zenodo . 
+A Publisher must be able to have an integration with Open Refine . 
+A Publisher must be able to Output cleaned Data Packages . 
+A ResearcherPublisher must be able to publish Data Packages to CKAN . 
+A ResearcherDeveloper must be able to import and export from MS . 
+A Researcher working with data in NetCDF must be able to have a NetCDF integration . 
+A Researcher must be able to store his data in plaintext while still retaining its metadata . 
+A Researcher must be able to have an integration with https://data.mendeley.com/ . 
+A Researcher must be able to validate his data upon ingest the service . 
+A Publisher must be able to have an integration with Excel . 
+A Publisher must be able to Output cleaned Data Packages . 
+A Publisher must be able to store his data quickly and easily online . 
+A Repository Manager must be able to have a tool that makes it easy for researchers/ users add basic metadata their research data . 
+A ResearcherPublisher must be able to have validate his data with a minimum of clicks . 
+A ResearcherPublisher must be able to feel trust in the validity and usefulness of the data . 
+A publisher must be able to check that every time he updates his data it is still good . 
+A publisher must be able to catch errors early and store reliable data . 
+A DeveloperWrangler must be able to use a command line tool that allows met to validate data . 
+A DeveloperWrangler must be able to feel trust in the validity and usefulness of the data quickly and in the context of his command line workflow . 
+A developer must be able to have an online service that is connected to his data repository that validates data on update . 
+A developer must be able to delegate data validation a third party . 
+A government Publisher must be able to make it easy to prove that our published data is valid . 
+A Civic Tech Activist must be able to make it easy to assess the quality of data stored by the government . 
+A Civic Tech Activist must be able to make sure Government is living up to its transparency commitments . 
+A publisher must be able to embed an interactive preview of his data on his site . 
+A publisher must be able to embed a preview button on his site . 
+Users must be able to preview the data and be encouraged This is the correct data for them . 
+A Publisher must be able to know how many users has previewed a dataset . 
+A Developer must be able to customize an existing wizard for his specific type of data . 
+A Developer must be able to give his users a great user experience . 
+"A publisher must be able to package reproducible steps to get a certain data state ,so his methodology is transparent and can be rerun by others . "
+A DeveloperDataWrangler must be able to store his Data Package in GitHub and has it automatically stored into CKAN . 
+A DeveloperDataWrangler must be able to get a data API and his dataset is listed in a relevant catalog . 
+A Researcher must be able to have a tool that can generate basic statistics about a dataset . 
+A Researcher must be able to get a quick preview of the data . 
+A DeveloperPublisher must be able to have a tool create an embeddable data summary via iframe . 
+A DeveloperPublisher must be able to embed data summaries across sites . 
+A Researcher must be able to have an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package . 
+A Researcher must be able to have an app that create proxy Data Packages for well know and reliable data . 
+A Researcher must be able to load high quality data using Data Package tooling . 
+A RepositoryManagerResearcher must be able to have an app that acts as a match . 
+A developer must be able to create a web socket protocol for Frictionless data tools . 
+A developer must be able to easily use data packages with additional data analysis tools . 
+A Publisher must be able to have a tool check data availability persistence after publication . 
+A ResearcherPublisher must be able to specify the funding that contributed to the creation of a given dataset . 
+A ResearcherPublisher must be able to add a DOI to a dataset . 

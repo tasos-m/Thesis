@@ -1,0 +1,15 @@
+The system must be able to have internet access.
+The visitor must be able to apply for an account.
+The visitor must be able to connect to his account.
+The system administrator must be able to confirm new accounts.
+The user must be able to apply for new expenses.
+The system must be able to confirm every application for expenses automatically, if the expense is lower than the credit limit of the issuer.
+The economic administrator must be able to decide on the expenses that have not been automatically approved by the system.
+The system must be able to automatically pay the approved expenses.
+The system must be able to store the expenses in the expense list.
+The economic administrator must be able to store incomes in the income list.
+The registered user must be able to ask for Thevote poll.
+The user must be able to vote during a vote poll.
+The registered user must be able to view the complaints.
+The user must be able to declare any expense as illegitimate.
+The user must be able to search in files through a search field.

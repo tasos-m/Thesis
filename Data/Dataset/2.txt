@@ -1,0 +1,10 @@
+This application must be able to read barcode.
+This application must be able to create a user profile.
+This application must be able to save a user profile.
+This application must be able to retrieve name of product and contents and other info.
+This application must be able to flag food and products with ingredients the user wishes to avoid according to profile.
+This application must be able to provide information about household chemicals, possible risks and how to handle.
+This application must be able to give the user reviews so that the user knows other people opinions.
+This application must be able to make a product comparison according to the amount of certain ingredients.
+This application must be able to create a report of smust be able toned products and send it to your email.
+User must be able to browse for chemical ingredients effects.

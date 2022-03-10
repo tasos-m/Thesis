@@ -1,0 +1,28 @@
+The user must be able to see the map of the environment
+The user must be able to select the mode of operation (SLAM or localization)
+The user must be able to select a single point in the map for the robot to go
+The user must be able to set multiple waypoints in the map for the robot to go
+The user must be able to zoom-in or zoom-out the map
+The user must be able to provide a rough estimation of the current pose of the robot, so as to assist the localization process
+The user (admin) must be able to set the maximum speed of the robot
+The user must be able to store routines (places or points that robot must go to) using names
+The user must be able to set deploy times for a routine
+The user must be able to edit the elements of a routine
+The user must be able to delete a routine
+The user must be able to drop the current map and ask for remapping
+The user must be able to define regions on the map (living room, kitchen etc.)
+The user must be able to command the robot to perform full exploration
+The user must be able to command the robot to perform full coverage of the whole map
+The user must be able to command the robot to perform full coverage of a specific region
+The user must be able to stop the current procedure (SLAM or motion)
+The user must be able to see the robot's pose in the map
+The user must be able to see the robot's desired path in the map
+The user must be able to see the local path in the map generated from local navigator
+The user must be able to teleoperate the robot
+The user must be able to see lidar scans on demand
+The user must be able to see image from a camera on demand
+The user must be able to see depth images from a depth camera on demand
+The user must be able to select what components they will see in their dashboard
+The robot must be able to reach the charger
+The user must be able to command the robot to reach the target
+The robot must be able to reach the target when battery is below X%

@@ -1,0 +1,7 @@
+The system must be able to have http://maps.example.com as entry point.
+The system must be able to return a map of Thessaloniki, when the user navigates to the entry point.
+The user must be able to navigate North, South, West, East.
+The user must be able to search for a POI by name or by coordinates.
+The system must be able to return a list of POIs with the given name or show the map if only one exists.
+The user must be able to perform search for a POI advanced search using one or more of the following tags constraining the area of search: 'continent:' for continent, 'country:' for countries and 'city:' for cities.
+The system must be able to always provide a search box.

@@ -1,0 +1,13 @@
+User must be able to create an account
+User must be able to login to his account
+User must be able to logout from his account
+User must be able to find available pharmacy
+User must be able to find available hospital
+System must be able to notify a vulnerable user in case of existing virus cases inside a radius
+System must be able to create a specific diet plan
+System must be able to make a diagnosis
+User must be able to order pharmacy products through the web app
+User must be able to book appointment at clinics and private doctors
+User must be able to call a doctor at home
+User must be able to read health articles
+User must be able to search with a keyword through systems database

@@ -1,0 +1,10 @@
+The user must be able to login to the system.
+The user must be able to view their calendar with the respective events.
+The user must be able to view information about their events.
+The system must be able to send notifications to the user.
+The user must be able to add and delete events from their calendar.
+The user must be able to manage their notifications.
+The user must be able to sort their events and subjects by filters.
+The user must be able to access subject resources.
+The user must be able to redirect to other academic websites.
+The user must be able to view their profile.

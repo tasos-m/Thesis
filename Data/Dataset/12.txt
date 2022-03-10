@@ -1,0 +1,31 @@
+The system must be able to notify the user to take his medication.
+The system must be able to provide a panic button to the user.
+The system must be able to have a forum.
+The user must be able to create an account.
+The system must be able to authenticate the user before activating the account.
+The user must be able to insert a username and password in order to validate.
+The administrator must be able to add new polls.
+The user must be able to propose new polls.
+The user must be able to vote on the proposed polls.
+The administrator must be able to delete proposed polls that are not favoured.
+The user must be able to electronically sign polls.
+The user must be able to add articles.
+The user must be able to delete own articles.
+The user must be able to edit own articles.
+The administrator must be able to reject articles after justification.
+The system must be able to store the results of the polls.
+The user must be able to comment on a poll or an article.
+The administrator must be able to create categories.
+The administrator must be able to edit categories.
+The administrator must be able to delete categories.
+The user must be able to evaluate an article.
+The user must be able to sort articles based on date and score.
+The user must be able to search for people based on specific criteria.
+The user must be able to store the results of the query.
+The system must be able to assign many social network account to one person.
+The system must be able to authenticate the users.
+The user must be able to perform statistical analysis on the data.
+The system must be able to perform behavioral analysis to user categories.
+The system must be able to visualize results.
+The user must be able to add a new social network account to his profile.
+The system must be able to create the social graph of a user.

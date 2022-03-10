@@ -1,0 +1,29 @@
+The logged-in user must be able to upload a file
+The logged-in user must be able to copy a file
+The logged-in user must be able to delete a file
+The logged-in user must be able to create request file
+The logged-in user must be able to create a shared file
+The logged-in user must be able to share a file
+The logged-in user must be able to add a comment on a file
+The logged-in user must be able to rename a file
+The logged-in user must be able to download a file
+The logged-in user must be able to see version history of a file
+The logged-in user must be able to add a star on a file
+The logged-in user must be able to move a file
+The logged-in user must be able to pin a file into the same folder
+The logged-in user must be able to pin a file into other folder
+The logged-in user must be able to open a file
+The logged-in user must be able to upload a folder
+The logged-in user must be able to copy a folder
+The logged-in user must be able to delete a folder
+The logged-in user must be able to create a new folder
+The logged-in user must be able to create a shared folder
+The logged-in user must be able to share a folder
+The logged-in user must be able to add a comment on a folder
+The logged-in user must be able to rename a folder
+The logged-in user must be able to download a folder
+The logged-in user must be able to see version history of a folder
+The logged-in user must be able to add a star on a folder
+The logged-in user must be able to move a folder
+The logged-in user must be able to pin a folder into Dropbox
+The logged-in user must be able to open a folder

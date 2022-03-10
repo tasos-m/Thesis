@@ -1,0 +1,22 @@
+The user must be able to define price range
+The user must be able to search for products
+The user must be able to search for product categories
+The user must be able to select a product
+The user must be able to select a product category
+The user must be able to become a Skroutz member
+The user must be able to login
+The user must be able to sort results based on popularity or price
+The user must be able to view product specifications
+The user must be able to rate a product.
+The user must be able to compare products*
+The user must be able to select a store to buy the product from
+The user must be able to comment on a product
+The user must be able to rate a store
+The user must be able to comment on a store
+The user must be able to store a product to his/her favorites
+The user must be able to select a product in a comparison list
+The user must be able to delete a comparison list
+The user must be able to view products relative to the ones selected
+The admin must be able to delete a store from the Skroutz database
+The store owner must be able to upload his/her products to the Skroutz database.
+The user must be able to add a product to her wishlist

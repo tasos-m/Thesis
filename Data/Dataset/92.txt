@@ -1,0 +1,11 @@
+The user must be able to switch the lights off in bedroom 1 using vocal commands to Alexa.
+The user must be able to low the lights in the living room using vocal commands to Alexa, if the user wants to see a movie.
+the user must be able to turn the thermostat in bedroom 1 off when the temperature is over 22 degrees C.
+the user must be able to turn the thermostat in bedroom 1 on when the temperature is under 20 degrees C.
+The user must be able to have a vocal reminder by Alexa about an organized activity.
+The user must be able to have the water valve open when he enters the bathroom.
+The user must be able to have the lights switch on, on bedroom 1, as soon as he enters in bedroom 1
+The user must be able to have Pink Floyd:Another Brick in the Wall song from Youtube as an alarm clock in a day and hour set by the user and played by Alexa
+The user must be able to hear an alarm, if he forgets to turn the lights off when leaving bedroom and is on the kitchen.
+The user must be able to turn the kitchen device off as soon as there is gas in the air.
+The user must be able to have a football game on TV played by Alexa, in a day and time he chooses.

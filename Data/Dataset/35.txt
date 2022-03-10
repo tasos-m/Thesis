@@ -1,0 +1,88 @@
+A Data Publishing User must be able to edit a dataset he has published . 
+A Data Publishing User must be able to correct or enhance existing data . 
+A Data Publishing User must be able to edit the model of data he has already imported . 
+A Data Publishing User must be able to fix bugs or make enhancements in the API built for his data . 
+A Data Publishing User must be able to delete a dataset he has published . 
+A Data Publishing User must be able to remove unwanted data from OpenSpending . 
+A Platform Administrator must be able to Hide any dataset already added as Public . 
+A Platform Administrator must be able to maintain Public / Hidden status for other users . 
+A Platform Administrator must be able to have a view on all datasets published by all users . 
+A Platform Administrator must be able to perform management actions on any dataset . 
+A Platform Administrator must be able to delete any dataset published . 
+"A Platform Administrator must be able to deal with takedown requests ,or clean up test datasets . "
+A Data Publishing User must be able to edit the data source of data he has already imported . 
+A Data Publishing User must be able to fix bugs or make enhancements in the API built for his data . 
+A Data Publishing User must be able to have the Packager support Constants . 
+A Data Publishing User must be able to model dimensions that may not exist in the source file . 
+A Data Publishing User must be able to import data in Excel . 
+A Data Publishing User must be able to visualise his dataon a map . 
+A Data Publishing User must be able to import data in JsoN . 
+A Data Publishing User must be able to import data from a Google Spreadsheet . 
+A Data Publishing User must be able to import data from Fiscal Data Package descriptor file . 
+A Data Publishing User must be able to provide the Platform Administrator with additional GeoJsoN sources . 
+A Data Publishing User must be able to improve the map - based visualisations of his data . 
+A Data Consuming User must be able to filter sort and aggregate data by multiple dimensions and measures.
+A Data Consuming User must be able to get more granular views on the data . 
+A Data Consuming User must be able to download a CSV of the data that is used in any visualisation he is viewing . 
+A Data Consuming User must be able to use the data in other tools . 
+A Data Consuming User must be able to change the display of all monetary measures across a set of currencies . 
+A Data Consuming User must be able to understand localised amounts in non - localised figures . 
+A Data Consuming User must be able to see textual descriptions that accompany embedded visualisations . 
+A Data Consuming User must be able to share a view state as a URL to social networks . 
+A Data Consuming User must be able to download an image ofa particular view state . 
+A Data Consuming User must be able to share an image of a particular view state to the social networks that support this . 
+A Data Consuming User must be able to have stepped zoom on map visualisations . 
+A Data Consuming User must be able to have better control over the navigation experience inside a map view . 
+A Data Consuming User must be able to have consistent use of colour on map visualisations . 
+A Data Consuming User must be able to better understand the visual logic of the map view . 
+A Developer must be able to customise the Brand Name and Icon . 
+A Developer must be able to customise the branding for his own needs . 
+An API User must be able to understand if a user is a Publisher . 
+An API User must be able to offer functionality based on Dataset Publisher privileges . 
+An API User must be able to understand if a user is an Administrator . 
+An API User must be able to offer functionality based on Platform Administration privileges . 
+An API User must be able to get bordering regions or cities when he querys a region or city . 
+An API User must be able to provider wider visual context for mapping visualisations . 
+An API User must be able to dynamically request polygons based on the query made . 
+An API User must be able to provide maps that match the query . 
+An API User must be able to have a flexible API using HASC codes for countries . 
+An API User must be able to visualise budget data on maps . 
+An API User must be able to get a CSV output of any cube - based query . 
+An API User must be able to use work with tools that read CSV . 
+An API User must be able to get a set of monetary measures transferred to different currencies . 
+An API User must be able to use this in scenarios that might enable comparison by normalisation . 
+An API User must be able to use metadata to get results from multiple datasets . 
+An API User must be able to build user experiences based on more than one dataset more easily . 
+An API User must be able to use data to get results from multiple datasets . 
+An API User must be able to build user experiences based on more than one dataset more easily . 
+An API User must be able to normalise measures by population . 
+An API User must be able to normalise measures by geographical area . 
+"An API User must be able to normalise measures by GDP ,so he works with datasets in reference to their contextual constraints . "
+An API User must be able to normalise measures by GINI and related socioeconomic indexes . 
+An API User must be able to get a relative percentage of a measure to the total of the dataset it comes from . 
+An API User must be able to build alternative displays of the data . 
+An API User must be able to persistently store visualisation state in the database . 
+A Data Publishing User must be able to have his dataset update automatically as the source file / files changes . 
+An OpenSpending Community Member must be able to have a blog that highlights any and all projects in the open fiscal space . 
+An OpenSpending Community Member must be able to relate to openspending.org as the central hub of fiscal openness . 
+A User must be able to set his own username . 
+A Data Publishing User must be able to add a dataset in a Hidden state . 
+A Data Publishing User must be able to work on a dataset before having It discoverable via OpenSpending user interfaces . 
+A Data Publishing User must be able to Hide a dataset that he has already added as Public . 
+A Data Publishing User must be able to fix his mistakes or has a dataset primarily for his own use . 
+A Data Publishing User must be able to have a view on all the datasets he has published . 
+A Data Publishing User must be able to perform management actions on his own datasets . 
+A Data Publishing User must be able to have a functioning Python Client . 
+A Data Publishing User must be able to add data to the datastore in bulk from the command line or his own programs . 
+An OpenSpending Community Member must be able to have an app where he can find examples of use of fiscal data visualisations . 
+An OpenSpending Community Member must be able to find guidance in creating his own with Open Spending . 
+A Data Publishing User must be able to know if his CSV file is valid . 
+A Data Publishing User must be able to fix possible data issues before publishing it on Open Spending . 
+A Data Consuming User must be able to search any dataset published and publicly accessible by their title and metadata . 
+A Data Consuming User must be able to find the datasets he is interested in . 
+A Data Consuming User must be able to visualize by default in treemap . 
+An API user must be able to change the colors of the embedded visualisations in his own platform . 
+An API user must be able to customize the visualisations . 
+An API user must be able to change some of the styling of the embedded Viewer in his own platform . 
+An API user must be able to brand it to his own organisation 's color scheme . 
+A Platform administrator must be able to translate the data types hierarchies of the Viewer while in embed mode . 

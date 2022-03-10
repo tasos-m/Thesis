@@ -1,0 +1,18 @@
+The user must be able to login providing his password and username
+The user must be able to logout.
+The user must be able to search for a lesson.
+The user must be able to view the categories.
+The user must be able to view his viewlist (also referred as my lessons).
+The user must be able to view a lesson.
+The user must be able to view the lesson's description.
+The user must be able to view a lesson's rating.
+The user must be able to add lessons to his viewlist.
+The user must be able to remove lessons from his viewlist.
+The user must be able to view lesson's files
+The user must be able to rate a lesson.
+The professor must be able to create a lesson.
+The professor must be able to view his created lessons.
+The professor must be able to delete a lesson.
+The professor must be able to upload lesson's files
+The professor must be able to delete lesson files.
+The professor must be able to view the statsistics of a lesson.

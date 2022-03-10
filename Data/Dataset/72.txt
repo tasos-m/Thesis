@@ -1,0 +1,13 @@
+The sytem must be able to certify the user.
+The user must be able to search for events.
+The user must be able to create events.
+The user must be able to view an event's rides.
+The user must be able to book a seat on an event's ride.
+The driver must be able to create a ride for an event.
+The driver must be able to manage the seat applications of the passengers.
+The user must be able to rate the other users that participated in a ride.
+The system must be able to suggest the cost of a ride.
+The user must be able to view another user's profile.
+The user must be able to exchange messages with other users.
+The system must be able to perform financial transactions.
+The system must be able to send notifications.

@@ -1,0 +1,25 @@
+The user must be able to login into the system at first.
+The user must be able to edit his profile.
+The business must be able to publish its location, language and contact information.
+The business must be able to show its products.
+The company must be able to upload photographs of its products.
+The user must be able to publish his profession, language, location and contact information.
+The user must be able to write his curriculum vitae on an online form.
+The system must be able to group users into businesses, unemployed and students.
+The user must be able to search for businesses according to different criteria.
+The user shpuld be able to communicate with the administrators through an email.
+The system must be able to have a help page.
+The users must be able to post messages.
+The user must be able to login first.
+The user must be able to recall its username and password, if he forgets it.
+The user must be able to search the shop list according to city.
+The user must be able to search in the offers list.
+The user must be able to search for shops according to some key values.
+The user must be able to search for products.
+The user must be able to sort the result lists according to different criteria.
+The user must be able to view search results on a map.
+The user must be able to tag different shops.
+The administrator must be able to confirm the tags.
+The user must be able to communicate with the administrator through an email.
+The system must be able to store all activities.
+The system must be able to keep the statistics of the program.

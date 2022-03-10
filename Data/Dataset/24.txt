@@ -1,0 +1,17 @@
+The user must be able to login into the system.
+The user must be able to register into the system.
+The system must be able to trace the user's location.
+The user must be able to input his destination. 
+The system must be able to provide the alternative routes to the destination.
+The user must be able to select the route from the alternatives.
+The user must be able to change the selected route. 
+The system must be able to return the kinetic energy spent dyring slow-down.
+The system must be able to return the energy stored to the engine during slow-down. 
+The system must be able to deactivate the fuel-engine, when stored energy is available.
+The system must be able to deactivate the fuel-engine, when the system is stopped at a traffic light.
+The system must be able to project the top 5 routes of the logged user.
+The system must be able to collect information on the city traffic and provide the information to the user upon request.
+The system must be able to store energy produced by the car's photovoltaic columns.
+The system must be able to connect to the traffic service database in order to get speeding limits info.
+The system must be able to override the user, if the speed limit is violated.
+The system must be able to perform a self-check when the user logs in.

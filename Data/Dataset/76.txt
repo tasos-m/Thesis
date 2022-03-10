@@ -1,0 +1,11 @@
+The user must be able to create an account
+The user must be able to open the map
+The user must be able to control the map
+The user must be able to have access to the news about epidemics globally
+The user must be able to select an epidemic
+The user must be able to select a country
+The user must be able to add a country to his/her Favourites list
+The user must be able to select a filter
+The user must be able to compare multiple epidemics
+The user must be able to access prediction diagrams
+The user must be able to have access to phone numbers and emails of hospitals or help centers of a chosen country

@@ -1,0 +1,21 @@
+The user must be able to create a pin
+The user must be able to follow other users
+The user must be able to search for pins
+The user must be able to create boards of pins
+The user must be able to send a message
+The user must be able to comment on pin
+The user must be able to follow boards
+The user must be able to login
+The user must be able to delete a pin
+The user must be able to update a pin
+The user must be able to delete board
+The user must be able to update board
+The user must be able to search for other users
+The user must be able to search for boards
+The user must be able to sign up
+The user must be able to view the list of users he/she follows
+The user must be able to delete a message of his
+The user must be able to update his/her profile data
+The user must be able to delete a comment of his
+The user must be able to unfollow other users
+The user must be able to unfollow boards

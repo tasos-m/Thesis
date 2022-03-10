@@ -1,0 +1,8 @@
+Users of all profiles must be able to log into the system.
+The system must be able to inform user, if the user enters wrong data during login.
+The system must be able to accept new Hotspots to the Hotspots Network.
+The Administrator must be able to access the Manager accounts in order to fulfill their tasks.
+New end users must be able to create accounts.
+End users must be able to delete their accounts.
+The system must be able to provide the user with the features related to the hotspot where the user is logged-in.
+The user must be able to change his account information.

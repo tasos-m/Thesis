@@ -1,0 +1,63 @@
+A depositor must be able to deposit and maintain datasets through a simple web interface . 
+A depositor must be able to have a user interface that is familiar to him . 
+A depositor must be able to deposit and maintain datasets through Pure . 
+A depositor must be able to have a single onestop shop for managing his research outputs . 
+A depositor must be able to deposit and maintain datasets through Virtual Research Environments and other workflow tools . 
+A depositor must be able to deposit the files that he has . 
+A depositor must be able to place data under an embargo . 
+A depositor must be able to apply licenses to datasets . 
+A depositor must be able to allow his collaborators privileged access to datasets . 
+A depositor must be able to deposit arbitrarily large files . 
+A depositor must be able to link datasets to publications in Opus . 
+A depositor must be able to mint DOIs for his data . 
+A depositor must be able to have metadata automatically filled from other University systems and remembered from previous deposits . 
+A depositor must be able to link to data stored in external repositories . 
+A depositor must be able to specify a disposal policy for his data . 
+A depositor must be able to track downloads of his data . 
+A depositor must be able to demonstrate the impact of his work . 
+A depositor must be able to track citations of his data . 
+A depositor must be able to have guarantees about data integrity . 
+A depositor must be able to attach subject specific discoverability metadata to records . 
+A depositor must be able to link datasets with the project DMP . 
+A depositor must be able to manage and share . 
+A depositor must be able to manage multiple versions of the same dataset . 
+A depositor must be able to allow others to deposit on his behalf . 
+A depositor must be able to delegate research data management tasks appropriately . 
+A data reuser must be able to search the archive through the web . 
+A data reuser must be able to easily find data relevant to his needs . 
+A data reuser must be able to access the system in his native language . 
+A data reuser must be able to examine and identify deposited files . 
+A data reuser must be able to view an example citation for a dataset . 
+A data reuser must be able to view a DOI for a dataset . 
+A data reuser must be able to get a persistent URL for a dataset . 
+A data reuser must be able to search the archive through Primo . 
+"A data reuser must be able to search books ,articles and data all in one place . "
+A data reuser must be able to see different versions of a dataset at a glance . 
+An external collaborator must be able to gain privileged access to data for projects in which he is involved . 
+An external coordinator must be able to have guarantees that his IP rights will not be breached . 
+An external coordinator must be able to access data from Bath collaborators off campus . 
+An external coordinator must be able to collaborate effectively . 
+A research facility manager must be able to deposit data from his facility directly into the archive on behalf of researchers . 
+A Bath Data Archive administrator must be able to make some checks on deposited datasets before they are made public . 
+A Bath Data Archive administrator must be able to require a minimum set of metadata . 
+A Bath Data Archive administrator must be able to approve scheduled disposal of data . 
+A Bath Data Archive administrator must be able to query the entire archive . 
+A Bath Data Archive administrator must be able to report on particular aspects of the archive holdings . 
+A Bath Data Archive administrator must be able to import Bath data from an external data centre wholesale . 
+A Bath Data Archive administrator must be able to encourage and promote the use of open standards for deposit . 
+A Research Information manager must be able to integrate the archive with CRIS . 
+A Research Information manager must be able to analyse impact of research data publication he must be able to link funding to all of the outputs It produces . 
+A Research Information manager must be able to include records for externally held data complete . 
+A Research Information manager must be able to track citation counts for published datasets . 
+A Research Information manager must be able to segment the view and download statistics by country and sector . 
+A Research Information manager must be able to have datasets linked to metadata about projects . 
+A Research Information manager must be able to report on projects depositing datasets in relation to funder requirements . 
+An UnivITservice must be able to store archived data on existing storage systems . 
+An UnivITservice must be able to integrate the archive with existing university systems such as LDAP . 
+An UnivITservice must be able to store archived data directly on the HCP object store . 
+An UnivITservice must be able to export all data to a different system . 
+A developer must be able to deposit and maintain datasets via an API such as SWORD2 . 
+An academic publisher must be able to make persistent web links between his articles and underlying datasets . 
+A fundingbody must be able to be reassured that researchers he funds has robust archival plans for their data . 
+A fundingbody must be able to harvest metadata on outputs from research he funds . 
+A fundingbody must be able to analyse effectiveness of funding strategy and encourage cross fertilisation of research outputs . 

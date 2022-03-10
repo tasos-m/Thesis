@@ -1,0 +1,10 @@
+The user must be able to search flights.
+The user must be able to choose the sort of results. 
+The user must be able to choose filters of the results.
+The user must be able to choose a flight. 
+The user must be able to connect with the travel agencies, who provide him/her the tickets he/she chose.
+The logged-in user must be able to evaluate airlines and travel agencies.
+The user must be able to see the evaluation of airlines and travel agencies.
+The user must be able to search travel based on a budget.
+The logged-in user must be able to watch the variation of prices. 
+The logged-in user must be able to watch travel recommendations based on his/her preferences. 

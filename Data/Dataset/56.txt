@@ -1,0 +1,30 @@
+The logged-in user must be able to create an email.
+The logged-in user must be able to write the sending adress of his/her email.
+The logged-in user must be able to select from his/her contact list the sending adress of an email.
+The logged-in user must be able to refer to a first/last name from his/her contact list to the recipient of an email.
+The logged-in user must be able to send to any sending adress an email.
+The logged-in user must be able to edit and delete the sending address of his/her email.
+The logged-in user must be able to have a warning for an invalid sending address of his/her email.
+The logged-in user must be able to send his/her email to multiple adresses.
+The logged-in user must be able to write a subject for his/her email.
+The logged-in user must be able to edit and delete the subject of his/her email.
+The logged-in user must be able to write a text on an email.
+The logged-in user must be able to edit and delete a text on his/her email.
+The logged-in user must be able to correct his/her text on his/her email automatically.
+The logged-in user must be able to write a text in multiple languages on his/her email.
+The logged-in user must be able to undo and redo the actions of his/her email.
+The logged-in user must be able to signed digitally automatically his/her email.
+The logged-in user must be able to insert emoticons on his/her email.
+The logged-in user must be able to insert a hyperlink on his/her email.
+The logged-in user must be able to insert an image on his/her email.
+The logged-in user must be able to insert a file on his/her email.
+The logged-in user must be able to make references to his/her email.
+The logged-in user must be able to have a warning for the limits of the size of his/her file that wants to send on an email.
+The logged-in user must be able to save his/her email.
+The logged-in user must be able to insert files from google drive on his/her email.
+The logged-in user must be able to print his/her email.
+The logged-in user must be able to schedule when he/she wants to send an email.
+The logged-in user must be able to reject an already typed email.
+The logged-in user must be able to minimize an email.
+The logged-in user must be able to see in full screen his/her email.
+The logged-in user must be able to enable and disable the confidentiality of his/her email.

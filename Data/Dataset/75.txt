@@ -1,0 +1,13 @@
+The User must be able to create a Workspace.
+The User must be able to enter via HomeScreen any Workspace, in which they are a Member of.
+The System must be able to delete a Workspace automatically when its last Admin User leaves from it.
+The Admin User must be able to manage the Members of the Workspace.
+The Admin User must be able to create a new Public Channel.
+The System must be able to create automatically, when a User joins a Workspace, private Channels between this User and the rest of the Members of this Workspace.
+The System must be able to delete automatically, when a User leaves a Workspace, all private Channels of this User in this specific Workspace.
+The User must be able to answer any Invitation to become Member of a Workspace.
+The User must be able to leave any Workspace, in which he/she is a Member of.
+The System must be able to display the Channels and the Members of a Workspace at the HomePage of this Workspace.
+The User must be able to post a Message at any Workspace, in which he/she is a Member of.
+The User must be able to load all Messages sent in public Channels or private Channels involving this User of any Workspace, in which he/she is a Member of.
+The User must be able to edit all Messages sent by them in any Workspace, in which he/she is a Member of.

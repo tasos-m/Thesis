@@ -1,0 +1,31 @@
+The user must be able to enter his current blood glucose level.
+The user must be able to enter the amount of carbohydrates he is about to eat.
+The user must be able to enter if they are ill and how much on a scale of 1 to 10.
+The user must be able to enter the exercise he is about to do.
+The user must be able to log his alcohol consumption.
+The user must be able to log his caffeine consumption.
+A female user must be able to log her menstruation.
+The software must be able to keep a history of all users inputs.
+The software must be able to calculate the impact proteins and fats have on the blood glucose. 
+The software must be able to calculate the amount of bolus insulin the user has to inject during a meal. 
+The software must be able to calculate the amount of bolus insulin the user has to inject during a meal based on illness, exercise and more. 
+The software must be able to calculate the carbohydrates to insulin ratio.
+The software must be able to calculate the carb sensitivity. 
+The software must be able to calculate the insulin sensitivity. 
+The software must be able to calculate different carbohydrates to insulin ratios and insulin sensitivities for different times in the day.
+The software must be able to calculate the amount of basal insulin based on the morning's blood glucose.
+The software must be able to calculate the amount of basal insulin based on other factors like illness, exercise, mood, inflammation, food choices, hormonal instabilities. 
+The software must be able to calculate the carbohydrates per km ratio in each type of exercise that the user does as well as the intensity on each ratio.
+The software must be able to calculate the amount of carbohydrates the user has to consume in the case of exercising.
+The software must be able to calculate the amount of carbohydrates the user has to consume in the case of hypoglycemia. 
+The software must be able to calculate the amount of carbohydrates the user has to consume in the case of alcohol consumption. 
+The software must be able to calculate the impact caffeine has to insulin sensitivity.
+The software must be able to adjust all insulin ratios based on the logged menstruation, in the case of a female user . 
+The software must be able to calculate the amount of carbohydrates the user has to eat before he gets to bed. 
+The software must be able to predict blood glucose trend.
+The software must be able to calculate the amount of carbohydrates the user has to eat between meals.
+The software must be able to alert the user 2 hours after the meal in order to log a blood glucose.
+The software must be able to alert the user to check his blood glucose when exercising.
+The software must be able to alert the user to check his morning blood glucose.
+The software must be able to alert the user to change his CGM transmitter site.
+The software must be able to alert the user to change his insulin pump site.

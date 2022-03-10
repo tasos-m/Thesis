@@ -1,0 +1,10 @@
+The user must be able to add their personal details.
+The user must be able to edit their personal details.
+The user must be able to add their daily water consumption.
+The user must be able to edit their daily water consumption.
+The system must be able to notify the user when to drink water.
+The user must be able to add their medication.
+The user must be able to edit/delete their medication.
+The system must be able to notify the user when it is time to take a medication.
+The user must be able to view their medication progress.
+The user must be able to contact the application's developers.

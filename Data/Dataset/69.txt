@@ -1,0 +1,11 @@
+The user must be able to insert his address.
+The system must be able to display a list of restaurants.
+The user must be able to choose a restaurant.
+The user must be able to add or remove products from their basket.
+The user must be able to submit their order.
+The restaurant must be able to accept an order.
+The system must be able to inform the restaurant about the progress of an electronic payment.
+The user must be able to search for a restaurant.
+The user must be able to filter the restaurant's list.
+The user must be able to sort the restaurant's list.
+The restaurant must be able to edit its information.

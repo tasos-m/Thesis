@@ -1,0 +1,8 @@
+Staff member must be able to add restaurants.
+Staff member must be able to update restaurants.
+Staff member must be able to remove restaurants.
+Staff member must be able to add or update information about seat availability, menu and dishes, news about restaurant.
+Staff member must be able to update information about seat availability, menu and dishes, news about restaurant.
+Administrator must be able to add restaurant staff members.
+Administrator must be able to update restaurant staff members.
+Administrator must be able to remove restaurant staff members.

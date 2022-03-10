@@ -1,0 +1,14 @@
+Web Server must  be able to check if the message is a spam.
+User must be able to browse all products in the system.
+User must be able to add, modify quantify and remove products from the shopping list.
+User must be able to add and update information about a product, including its price and the store where the product is located.
+User must be able to get suggestions of stores according to his shopping list and selected criteria (products' price or store distance).
+User must be able to browse stores nearby on map.
+Mobile application must be able to store list of products and nearby stores in memory for fast access.
+Mobile application must be able to update the products and stores nearby on startup or on user demand.
+Mobile application must be able to store user shopping list with quantity of products.
+Mobile application must be able to display a single product's details (price in different stores).
+Mobile application must be able to display the cheapest or the closest stores containing products in the list.
+Server must be able to automatically collect products and prices from available store's web site (web scraper).
+Server must be able to communicate with mobile applications across different platforms.
+Server must be able to automatically insert the stores and their locations into database (store loader).

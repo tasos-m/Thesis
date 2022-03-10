@@ -1,0 +1,61 @@
+A camp administrator must be able to add campers . 
+A camp administrator must be able to keep track of each individual camper . 
+A camp administrator must be able to remove campers if they don't attend the camp anymore . 
+A camp administrator must be able to keep the records organized . 
+A camp administrator must be able to keep camper records from previous years . 
+A camp administrator must be able to upload consent forms . 
+Campers or their parents must be able to easily access the forms . 
+A camp administrator must be able to keep track of which camper submitted which forms . 
+A camp administrator must be able to schedule activities for campers . 
+A camp administrator must be able to automatically create nametags for campers . 
+A camp administrator must be able to suspend a camper who had behavioral problems . 
+A camp administrator must be able to set a reminders related to specific tasks that has to be done . 
+A camp administrator must be able to assign different positions to the staff members . 
+A camp administrator must be able to warn a camp worker who he thinks did his / her job inappropriate . 
+"A camp administrator must be able to create and modify rules that campers and camp workers have to follow . "
+A camp administrator must be able to keep track of the usage of internal camp facilities . 
+A camp administrator must be able to create an avenue .
+Parents must be able to submit feedback and general concerns .
+A camp administrator must be able to store campers ' emergency information in a database . 
+A camp administrator must be able to easily notify the necessary parties in case of an emergency . 
+A camp administrator must be able to store camper 's immediate parent or guardian 's information . 
+A camp administrator must be able to provide bi - weekly feedback to camper 's parents . 
+A camp administrator must be able to make nametags faster . 
+A camp administrator must be able to create a registration form for both staff and kids . 
+A camp administrator must be able to keep his information in one place . 
+A camp administrator must be able to see medical forms . 
+A camp administrator must be able to notify parents all at once . 
+A camp administrator must be able to be quickly log attendance everyday . 
+A camp administrator must be able to add parents . 
+A camp administrator must be able to create groups and add campers to the groups . 
+A camp administrator must be able to see all his camp groups and the events scheduled for each camp group . 
+A camp administrator must be able to schedule tasks and activities for a specific camp group . 
+A camp administrator must be able to track each groups daily, weekly and monthly activities . 
+A camp administrator must be able to delete tasks and activities he scheduleds . 
+A camp administrator must be able to modify tasks and events he scheduleds in case there is a change . 
+A camp administrator must be able to always keep the schedule up to date . 
+A camp administrator must be able to modify the information of enrolled campers . 
+A camp administrator must be able to delete campers from the database . 
+A camp administrator must be able to modify the information of added parents . 
+A camp administrator must be able to delete parents from the database . 
+A camp administrator must be able to modify a group 's information . 
+A camp administrator must be able to see only events for a specific group or groups on the event calendar . 
+A parent must be able to see which consent forms he has submitted . 
+A parent must be able to track his child 's activity and schedule at camp . 
+A parent must be able to submit various type of forms to the camp management . 
+A parent must be able to create an account . 
+A parent must be able to sign up his kids for camp online . 
+A parent must be able to see which counselors are assigned to his kids . 
+A parent must be able to message his child 's counselors . 
+A parent must be able to sign and submit consent forms online . 
+A parent must be able to see if he mades all the necessary payments . 
+A parent must be able to share any photos the camp has taken of his child . 
+A parent must be able to connect with the staff in case of an emergency . 
+A parent must be able to enroll his children . 
+A parent must be able to see and edit his enrolled children to the camp year . 
+A parent must be able to see a schedule of the activities his children are involved in at camp . 
+A camp worker must be able to submit a completion report for the tasks which was assigned to him . 
+A camp worker must be able to report a camper the manager with an inappropriate behavior . 
+A camp worker must be able to report a list of supplies to the manager that the camp is short of . 
+A camp worker must be able to report necessary repairs to the manager that the camp is needed of . 
+A camp counselor must be able to take attendance of his assigned kids . 

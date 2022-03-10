@@ -1,0 +1,18 @@
+The user must be able to login.
+The user must be able to logout.
+The system must be able to validate the user.
+The user must be able to add new web sites.
+The user must be able to update web sites.
+The system must be able to connect to various databases.
+The user must be able to contact other users.
+The administrator must be able to add announcements.
+The administrator must be able to edit announcements.
+The administrator must be able to delete announcements.
+The user must be able to add articles.
+The user must be able to delete own articles.
+The user must be able to edit own articles.
+The user must be able to add interests.
+The user must be able to edit own interests.
+The user must be able to delete own interests.
+The user must be able to search for users, announcements and articles.
+The user must be able to evaluate articles.

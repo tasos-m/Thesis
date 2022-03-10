@@ -1,0 +1,38 @@
+The user must be able to create a YouTube account
+The user must be able to login to the system.
+The user must be able to navigate available videos
+The user must be able to submit a review
+The user must be able to like a video
+The user must be able to dislike a video
+The user must be able to read video reviews
+The user must be able to see likes in videos
+The user must be able to see dislikes in videos
+The user must be able to search for a video
+The user must be able to see previous searches
+The user must be able to navigate in other accounts
+The system must be able to provide recommendations to the user
+The system must be able to show advertisements
+The system must be able to provide video trends
+The user must be able to subscribe in other accounts
+The user must be able to take notifications when an account upload a video
+The user must be able to see views in a video
+The up-loader must be able to upload a video
+The up-loader must be able to provide information about the upload video
+The up-loader must be able to deny users to make comments
+The up-loader must be able to see statistical information about the upload video
+The user must be able to comment a video
+The administrator must be able to delete a user
+The administrator must be able to delete a video
+The administrator must be able to forbid in underage users to watch a video
+The administrator must be able to remove a video when the up-loader does not own the copyrights.
+The user must be able to adjust the volume in a video
+The user must be able to adjust the video quality
+The user must be able to adjust the video dimensions.
+The user must be able to pause a video
+The user must be able to restart a video
+The up-loader must be able to see the subscribers
+The user must be able to adjust the playback speed
+The system must be able to create a new administrator
+The system must be able to delete an administrator
+The user must be able to update a comment
+The user must be able to delete a comment

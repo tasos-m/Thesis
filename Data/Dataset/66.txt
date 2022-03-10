@@ -1,0 +1,11 @@
+A user must be able to enter their basic information for their trip.
+A user must be able to activate their location.
+A user must be able to enter their country's currency.
+A user must be able to choose filters.
+A user must be able to evaluate the system.
+A logged-in user must be able to organise a trip plan.
+The system must be able to organise a trip plan.
+A logged-in user must be able to share an organised trip plan or a map's shot.
+A logged-in user must be able to save a map.
+A logged-in user must be able to use a saved map offline.
+A logged-in user must be able to register new locations to the system database.

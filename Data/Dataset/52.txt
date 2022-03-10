@@ -1,0 +1,153 @@
+A faculty member must be able to access a collection within the repository . 
+A faculty member must be able to obtain research materials . 
+A faculty member must be able to direct students to an item within the repository . 
+A faculty member must be able to facilitate his teaching ( i.e. desires ability to link to content ) . 
+A Cornell faculty member must be able to upload data to the repository and associate it with a publication . 
+A Cornell faculty member must be able to receive attribution for his data as well as his publications . 
+A patron must be able to know which reports / datasets are coming out when . 
+A patron must be able to access latest report / dataset . 
+"A patron must be able to select and deselect reports / datasets to be emailed ,possibly many at one time ,when new versions are available . "
+A DB / IR administrator must be able to mark report / dataset not to be emailed / viewable due to error being discovered . 
+A DB / IR administrator must be able to manage report / dataset name changes . 
+A Cornell faculty member must be able to see clearly what reuse rights he has to files discovered in the repository . 
+A library staff member must be able to apply or remove an access embargo to an item when asked to do this by an item author . 
+A faculty member must be able to easily collect his publications . 
+A faculty member must be able to raise the profile of his work . 
+"A crossdeptprojteammember must be able to have a better place to collect and share project materials ,with a range of organization / tagging and access options ,including private ( internal group use only ) ,University and public . "
+A Cornell faculty member must be able to upload data and provide a cut and paste formatted citation for people who use it . 
+A Cornell faculty member must be able to receive proper attribution for his work . 
+"A patron must be able to view and upload content in multiple formats ,including old formats such as Lotus Works . "
+A Cornell faculty member must be able to search the repository and browse through its contents on his phone . 
+A Cornell faculty member must be able to login remotely to the repository using Shibboleth . 
+A Cornell faculty member must be able to get remote access to Cornell campus - only content . 
+A Cornell faculty member must be able to have some control over how items within his collection sort in collection contents lists . 
+An administrator must be able to use systems such as Symplectic Elements and Activity Insight to properly track faculty scholarly output in the repositories . 
+An administrator must be able to facilitate personnel decisions . 
+A library staff member must be able to access useful and comprehensive usage statistics and analytics . 
+A library staff member must be able to assess the results of this service . 
+An administrator must be able to see comprehensive tracking statistics that can be presented to faculty in a digestible way . 
+An administrator must be able to increase buy - in for contributing their work . 
+A Cornell faculty member must be able to be notified if someone downloads any of his items or files . 
+A Cornell faculty membe must be able to follow usage and see what Others are most interested in reading . 
+A DB / IR administrator must be able to see list of subscribers for specified report in order research missing report complaints . 
+An administrator must be able to disseminate the aforementioned works in a digital space that is strongly branded . 
+A faculty member must be able to upload his scholarly work to the repository . 
+A faculty member must be able to have a persistent URL for his personal web page and CV . 
+A library staff member must be able to create collections which highlight rare . 
+A library staff member must be able to preserve and provide access to this material . 
+An Extension Administrator must be able to have easy . 
+A faculty member must be able to maintain versioning of Extension brochures . 
+A Cornell faculty member must be able to upload a data file and put a CC . 
+A library staff member must be able to tell the researchers he is helping with DMPs that Cornell has a repository system he can use for archiving and sharing results of their research . 
+A library staff member must be able to easily meet the needs of funder DMP requirements . 
+A Cornell faculty member must be able to create a collection for his documents . 
+"A Cornell faculty member must be able to promote his work ,or of his organization . "
+"A Cornell faculty member must be able to easily find all the items in the repository that he has authored ,by searching on his name ( author name authority and/or identification issue ) ,because he keepss his publications in the repository up - to - date and points people tithe repository . "
+"A Cornell faculty member must be able to see items he has deposited in the repository appear high up in Google search results ,because that 's his ticket to stardom . "
+"A repository support team member must be able to alias ( or map ) an item from one collection to another ( so the item will appear to belong to both collections ) ,because the collection owner has asked them to . "
+A researcher must be able to discover items in the repository through the library 's discovery system and Google . 
+A researcher must be able to facilitate his easy use of the content . 
+A researcher must be able to see descriptive metadata for the item whether he comes to the item through the repository or directly to the PDF . 
+A researcher must be able to correctly identify the source of the content . 
+A researcher must be able to contact the author of a work that interests him . 
+A researcher must be able to receive updates when new works are published in a given collection or by a given author . 
+A researcher must be able to search within a repository or collection in an effective manner . 
+A researcher must be able to facilitate his use of the collection . 
+An academicresearcher must be able to find the works of a particular author in one easily sortable spot . 
+An academicresearcher must be able to see the evolution of their scholarship over time . 
+An academicresearcher must be able to the thesis paper of an influential judge or legal thinker to gain insight into how their initial scholarship got started . 
+A patron must be able to search for report / dataset with keywords or a partial or complete title to locate needed report / dataset . 
+A patron must be able to browse content by author or subject area to locate needed resources . 
+A DB / IR administrator must be able to manage subject classifications for ease of patron browsing and searching . 
+A DB / IR administrator must be able to manage customizable relationship groups in support of patron see also option . 
+"A Cornell faculty member must be able to search for the dissertations in the repository for which he has been a thesis committee member ,to quickly find work by a former student . "
+A library staff member must be able to make digital items held in trusted external system searchable within our system . 
+A library staff member must be able to provide seamless access to disparate collections . 
+A researcher must be able to have information that will help him identify other faculty he might partner / collaborate with . 
+"An externaluser must be able to find research and educational materials from Cornell faculty related to a particular topic ,which he can use to develop stronger research / evidence based programming ,grant proposals ,community policy ,or business practices . "
+A student must be able to learn who at Cornell has or is engaged in research related to a particular topic . 
+"A student must be able to find an appropriate advisor ,choose which courses to enroll in ,and identify work / internship opportunities . "
+"A teachingfacultymember must be able to identify timely and relevant research suitable for use in his curriculum ,and be notified of new research / content . "
+A patron must be able to view multiple versions of a report / dataset to get both timely and historical information . 
+A faculty member must be able to upload his scholarly work to the repository . 
+"A faculty member must be able to reach a non - academic audience ,expand his influence within his academic community ,and use it for teaching . "
+A library staff member must be able to upload material to the repository on the author 's behalf . 
+A library staff member must be able to fulfill a service obligation . 
+"A library staff member must be able to create metadata for items within the repository that includes document title ,description ,author ,document type ,status ,file locations ,subscribable flag ,subject area ,release frequency ,and keywords for searching . "
+A library staff member must be able to upload large batches of items simultaneously . 
+A library staff member must be able to offer service to authors efficiently . 
+A library staff member must be able to upload an item to the repository that will only become visible after a specific embargo period has expired . 
+A library staff member must be able to comply with author or publisher requirements . 
+A library staff member must be able to include supplementary files such as datasets . 
+A library staff member must be able to provide a robust image of the work in question . 
+A library staff member must be able to deliver streaming media from within the repository . 
+An administrator must be able to have a platform that can support a variety of media file and text . 
+A library staff member must be able to assign an item to more than one collection . 
+A library staff member must be able to add custom metadata fields for deposits he makes on behalf of researchers to allow for better search capabilities . 
+A DB / IR administrator must be able to upload revised report / dataset due to error in report / document . 
+A DB / IR administrator must be able to upload new version of report / dataset while retaining previous versions for patron use . 
+A DB / IR administrator must be able to have the system recognize / categorize document type . 
+A Cornell faculty member must be able to easily assign a CC license to the files he are depositing . 
+"A repository support team member must be able to export a set of records and associated files ,manipulate this data set ,and reload into the system ,because he is aware of a uniform error in a collection . "
+A Cornell faculty member must be able to associate a researcherID or ORCID with a submission . 
+A student must be able to upload to the repository the data that is associated with his embargoed dissertation to meet requirements of a DMP he submitteds with his NSF DDIG . 
+A library staff member must be able to have customizable metadata fields . 
+A faculty member must be able to associate files with his scholarly works such that someone accessing the latter also receives access to the former . 
+A faculty member must be able to deliver the fullest picture of his research . 
+A library staff member must be able to use content and metadata from the repository in other systems and/or web pages easily . 
+An Extension Administrator must be able to make resources that were developed for specific projects and geographic areas available to other faculty and educators across NYS . 
+"An Extension Administrator or Staff Content Manager must be able to get periodic IR reminders ,including when something needs attention ( including next ingestion / approval steps ) ,or something that might must be able to move from a current knowledge collection to Historical . "
+A researcher must be able to promote . 
+A researcher must be able to display the range and extent of his work graphically . 
+"An Extension Educator must be able to have a place to store a variety of documents ,presentations and datasets . "
+A patron must be able to know other reports / datasets that are related ( e.g. see also ) to report / dataset being viewed for the purpose finding other related information . 
+A patron must be able to know previous names . 
+A patron must be able to know what historical Versions are available and how current more recent Version is . 
+A patron must be able to create a personal account to request email notification when new version of report / dataset is available . 
+A patron must be able to download report / dataset release calendar to load into own calendar . 
+A library discovery operator must be able to harvest useful metadata from the repository via OAI . 
+A library discovery operator must be able to make Cornell Publications discoverable in his repository . 
+A library staff member must be able to quickly correct errors in uploaded metadata . 
+A library staff member must be able to present correct versions of content and to locate points of error . 
+A library staff member must be able to receive a quick response and a reasonable resolution to tech support issues . 
+Service must be able to proceed with minimal interruption . 
+A Cornell faculty member must be able to share on the repository files that are larger than 1 GB in a way that still allows users to download them if he must be able to use them . 
+A Cornell faculty member must be able to meet funder requirements . 
+A DB / IR administrator must be able to login to personal account with access to authorized functions . 
+A DB / IR administrator must be able to have a personal account with the ability to change passwords to make them more secure or to retrieve forgotten ones . 
+A DB / IR administrator must be able to set up or delete accounts for other administrators with various levels of permission . 
+A DB / IR administrator must be able to see a list of all administrators for ease of administering accounts . 
+A DB / IR administrator must be able to have robust searching and tracking features for existing and newly created patron accounts . 
+A DB / IR administrator must be able to unpublish a report / dataset if requested to do so by USDA agency . 
+A DB / IR administrator must be able to add future release dates of reports / datasets to calendar for patron FYI . 
+A faculty member must be able to recommend a digital collection be built in the repository . 
+A DB / IR administrator must be able to search for administrator accounts using full / partial email or name . 
+"A DB / IR administrator must be able to administrate patron accounts for purpose of closing accounts ,viewing subscriptions ,changing subscriptions ,resetting passwords ,changing email address ,etc . "
+A library staff member must be able to create custom metadata fields for certain collections . 
+A library staff member must be able to reflect and deliver diverse content . 
+A repository support team member must be able to move a collection . 
+A repository support team member must be able to fulfill the collection owner 's request . 
+A repository support team member must be able to rename a collection . 
+An asset manager must be able to be assured that the digital copy he deposits is stored redundantly . 
+An asset manager must be able to be assured that threats to copies in one repository are not automatically incurred by the redundant copies . 
+"An asset manager must be able to be assured that the redundant copies are continuously monitored for unwanted changes ,and that if / when changes do occur ,there is a mechanism by which he can determine the original object and restore it to all copies . "
+"An asset manager must be able to be assured that the assets can be taken out of the repository ,and that the assets taken out are the same as those that are put in . "
+An asset manager must be able to know what the intellectual value of the asset is to the institution at the time of deposit . 
+An asset manager must be able to obtain guidance in the evaluation of it for current value for the institution . 
+"An asset manager must be able to have a mechanism to obtain a listing or understanding of all the assets that has been deposited ,and their current status . "
+An asset manager must be able to be assured that funding and staffing of the IR has a commitment to longevity of the repository through published plans and/or explicit contract clauses . 
+A stakeholder must be able to have files adequately described . 
+A library staff member must be able to preserve both the content and the metadata within the repository in a robust manner . 
+"A library staff member must be able to provide stable ,long - term access to this material . "
+"A data curator must be able to upload a new version of an item that has changed ,while still allowing old versions to be accessed . "
+A library staff member must be able to preserve the scholarship of the law school by using sustainable links that will not succumb to link rot . 
+A library staff member must be able to create a permanent digital archive for the scholarship of his institution . 
+A library staff member must be able to create a collection . 
+A library staff member must be able to house digital material for wider distribution . 
+A library staff member must be able to trace the list of revisors to determine who uploaded an item to the repository . 
+A library staff member must be able to confirm proper procedures were followed . 
+An asset manager must be able to be assured that there is a formal plan for the disposition of assets if the IR should cease . 
+An asset manager must be able to have mechanism to pass ownership / management of the assets to a successor . 
+A patron must be able to have email system provider report issues and ask questions . 
+A data curator must be able to have a mechanism to allow for records scheduling for items that do not must be able to be stored indefinitely . 
+"A data curator must be able to upload a new version of an item that has changed ,while still allowing old versions to be accessed . "

@@ -1,0 +1,37 @@
+The user must be able to identify a song on the network.
+The user must be able to search an Artist on the network.
+The user must be able to use the camera to identify an album.
+The user must be able to swipe to different tabs.
+The user must be able to view the new Shazam Charts.
+The user must be able to view his song library.
+The user must be able to enable AutoShazam song search.
+The user must be able to disable AutoShazam song search.
+The user must be able to view his Shazams history.
+The user must be able to view his Shazam history songs sorted by Date.
+The user must be able to view his Shazam history songs sorted by Album Artist.
+The user must be able to listen to his Shazam history song individually.
+The user must be able to listen to his Shazam history song individually sorted by Album Artist.
+The user must be able to listen all his Shazam history songs in order.
+The user must be able to share his Shazam history song.
+The user must be able to share his Shazam history song sorted by Album Artist.
+The user must be able to delete his Shazam history song.
+The user must be able to delete his Shazam history song sorted by Album Artist.
+The user must be able to download his Shazam history song from the Apple Music Store.
+The user must be able to view Similar Songs based in his Shazam history song.
+The user must be able to view Similar Songs based in his Shazam history song Album Artist.
+The user must be able to download Similar Songs based in his Shazam history song.
+The user must be able to download Similar Songs based in his Shazam history song Album Artist.
+The user must be able to check the new Shazam updates.
+The user must be able to change the appearance of Shazam.
+The user must be able to use Shazam when using other applications.
+The user must be able to enable the Shazams vibrations once shazaming finishes.
+The user must be able to disable the video preview of a song when using mobile data.
+The user must be able to store in Shazams memory a song without an internet connection for future identification.
+The user must be able to use Shazams identifier for a song he stored when was without internet connection.
+The user must be able to create a downloading list using song from the library.
+The user must be able to create a downloading list using songs from the library sorted by Album Artist
+The user must be able to view his song downloading list.
+The user must be able to update the downloading list using songs from the library.
+The user must be able to update the downloading list using songs from the library sorted by Album Artist.
+The user must be able to delete a song from his downloading list.
+The user must be able to delete a song from his downloading list sorted by Album Artist

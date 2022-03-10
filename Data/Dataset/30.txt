@@ -1,0 +1,6 @@
+The patient must be able to fill in the questionnaire via a web interface on a desktop or mobile device.
+The patient must be able to fill in the questionnaire in a printed form.
+The nurse must be able to interview patient over the phone and fill in the questionnaire on his/her behalf.
+The patient must be able to review the answers before authorizing the data for further analysis.
+The physician must be able to review the patient questionnaire and related risk factors.
+The physician must be able to suggest further treatment.

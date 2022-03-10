@@ -1,0 +1,24 @@
+The user must be able to sign up
+The system must be able to encrypt the communications
+User must be able to send messages
+The user must be able to delete own account
+The user must be able to write text in messages
+The user must be able to record voice and send if desire
+The user must be able to send text
+The user must be able to validate own account through phone verification
+The user must be able to search for another user
+The user must be able to edit own profile picture
+The user must be able to create favourites lists
+The user must be able to backup own account
+The user must be able to edit own status
+Admin must be able to create, update or delete user if desire
+The system must be able to require a verification password for every login attempt on another device
+The system must be able to notify the user when a new message has been received
+The system must be able to compress files sent
+The user must be able to make a call to another user
+The system must be able to have access to cameras and data of devices
+The system must be able to sync communications through all validated devices
+Admin must be able not to have access to communications and data sent
+User must be able to authenticate with the biometric sensors of the validated device
+The user must be able to search for specific text
+System must be able to authorize creation of super admins

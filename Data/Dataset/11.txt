@@ -1,0 +1,14 @@
+The system must be able to provide a forum.
+The system must be able to provide a library.
+The user must be able to create projects.
+The user must be able to join projects.
+The user must be able to edit own projects.
+The user must be able to evaluate projects.
+The administrator must be able to delete projects.
+The system must be able to provide a glossary for terms related to technology.
+The user must be able to register to the system.
+The user must be able to upload personal data.
+The user must be able to connect to friends through the system.
+The user must be able to send messages to friends.
+The user must be able to have a video conference or a call with two or more friends.
+The user must be able to play online games with other users.

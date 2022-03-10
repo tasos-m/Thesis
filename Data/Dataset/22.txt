@@ -1,0 +1,21 @@
+The user must be able to start the system by pressing the ON button.
+The user must be able to login.
+The user must be able to logout.
+The system must be able to validate the user.
+The system must be able to request fingerprint, if user validation fails.
+The system must be able to perform an alcohol test on the user.
+The system must be able to locate the vehicle position from the GPS.
+The system must be able to project the position of the vehicle on the map.
+The user must be able to input the desired destination.
+The system must be able to calculate all possible routes to the destination.
+The system must be able to inform the user on fuel consumption.
+The system must be able to select the shortest route.
+The user must be able to control the system through voice calls.
+The system must be able to identify parking spots.
+The system must be able to compare the size of the vehicle to the parking spot.
+The system must be able to read license plates through the camera.
+The system must be able to inform the user, if the user exceeds speed limits.
+The system must be able to read speed limits.
+The system must be able to get user pulse through sensors.
+The system must be able to call 911 and stop the vehicle, if user pulse exceeds normal limits. 
+The system must be able to read traffic signs.

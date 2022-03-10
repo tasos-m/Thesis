@@ -1,0 +1,54 @@
+A researcher must be able to view a finding aid for a particular collection / Resource . 
+An Application Administrator must be able to reset a User 's password for them . 
+A user must be able to have backend changes for managing enum lists . 
+An Archivist must be able to import EAD files that were exported by Archon . 
+An Archivist must be able to assign a component unique identifier to a Resource Component . 
+A User must be able to authenticate using LDAP . 
+A migration specialist must be able to store the AT or Archon source record ids in each ASpace record to support data migration integrity testing . 
+An Archivist must be able to associate a standard identifier string with a Subject heading . 
+An Archivist must be able to import Accessions data in CSV . 
+An Archivist must be able to import Resources from MARCXML records . 
+A user must be able to have frontend changes for managing enum lists . 
+An Authenticated User must be able to get access to links to contextual help . 
+An Archivist must be able to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects . 
+An Archivist must be able to import Agent information from EAC - CPF records . 
+A user must be able to have backend changes support loading enum value lists from the database . 
+A user must be able to have backend changes for bulk updating one enum value another . 
+An Archivist must be able to export agent records as EAC - CPF . 
+An Archivist must be able to import only Agent and Subject information from MARCXML records . 
+An Application Administrator must be able to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced . 
+An Application Administrator must be able to configure the help center URL and topic mappings . 
+A user must be able to add additional properties for repositories . 
+An Archivist must be able to add Notes to other record types . 
+An Administrator must be able to create a new User account for someone else . 
+An Archivist must be able to add administrative data about the archival description and finding aid - related data to a top - level Resource . 
+A developer must be able to use a configuration that is not prepackaged within a built version of application . 
+An Archivist must be able to import EAD files that were exported by the Archivists ' Toolkit . 
+A systems administrator must be able to control the location of the demo database and have it to be backed up . 
+An archivist must be able to search within a repository for resource and accession and digital object records . 
+An archivist must be able to create and edit a Collection Management subrecord . 
+An Archivist must be able to rearrange the Resource and/or Digital Object hierarchy using keyboard - based navigation . 
+An Archivist must be able to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy . 
+An Archivist must be able to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component . 
+An Archivist must be able to export a description as EAD . 
+An Archivist must be able to create and edit Event records . 
+An Archivist must be able to manage Digital Objects . 
+An Archivist must be able to associate an Instance with a Resource and/or Resource Component . 
+An Archivist must be able not to inadvertently overwrite someone else 's changes to a record that he is editing . 
+An Archivist must be able to create and edit Rights Management statements . 
+An Archivist must be able to upload an EAD for import from within the frontend application . 
+An Archivist must be able to import EAD data . 
+"A Repository Manager must be able to create ,update and delete archival descriptions in his repository . "
+A Developer must be able to develop a custom importer . 
+A Basic Data Entry user must be able to create and update basic archival description information . 
+"A Repository Manager must be able to create ,update and delete any records in his repository . "
+A ReadOnly user must be able to view archival descriptions in his repository . 
+An System Administrator must be able to declare that a user is has the Repository Manager role for a given Repository . 
+An Archivist must be able to specify the Source for a Name Form of an Agent and add new Sources and edit existing Sources . 
+An Archivist must be able to create and edit Agent records . 
+An Archivist must be able to create and edit a Resource record . 
+An Archivist must be able to associate a Subject record with a Resource description . 
+A User must be able to authenticate locally . 
+User must be able to login . 
+An Archivist must be able to associate an Instance with a Container . 
+An Archivist must be able to assign Location information to a Container . 

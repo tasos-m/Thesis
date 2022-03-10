@@ -1,0 +1,138 @@
+"An OlderPerson must be able to know exactly what ALFRED does with his personal data ,and share it only on his specific permission . "
+An OlderPerson must be able to receive information from ALFRED by speech technology . 
+An OlderPerson must be able to use only well - visible buttons . 
+An OlderPerson must be able to use ALFRED as much as possible with speech interaction . 
+An OlderPerson must be able to always keep control on the activities of ALFRED . 
+An OlderPerson must be able to manage his privacy and data settings . 
+An OlderPerson must be able to have everything preinstalled . 
+An OlderPerson must be able to have a small ALFRED device that is wearable and easy to carry with him . 
+"An OlderPerson must be able to have ALFRED on all his computers ,tablets and phone . "
+An OlderPerson must be able to have ALFRED on a bracelet or a necklace . 
+An OlderPerson must be able to have clear instructions and service after sales that guide him if he has trouble in using ALFRED . 
+An OlderPerson must be able to have an ALFRED device that speaks very slowly and clearly . 
+An OlderPerson must be able to have an ALFRED device that only reacts to him . 
+An OlderPerson must be able to have an ALFRED device that only listens to him when he asks it to . 
+An OlderPerson must be able to have an introduction conversation with ALFRED . 
+An OlderPerson must be able to buy ALFRED in a senior shop with special client support . 
+An OlderPerson must be able to buy ALFRED for a low price . 
+"An OlderPerson must be able to receive visual support ,especially when looking at a list ,map or agenda . "
+An OlderPerson must be able to use ALFRED pay for small amounts . 
+An OlderPerson must be able to have a very good battery for ALFRED . 
+An OlderPerson must be able to have an ALFRED device that informs him about a low battery when leaving the house . 
+An OlderPerson must be able to have an ALFRED device that can be easily adapted for user that has visual or hearing troubles . 
+An OlderPerson must be able to have an ALFRED device that can be easily adapted for user that has visual troubles . 
+An OlderPerson must be able to have an ALFRED device that can be easily adapted for user that has hearing trouble . 
+An OlderPerson must be able to have an ALFRED device that repeats the last phrase . 
+An OlderPerson must be able to zoom into visual content . 
+An OlderPerson must be able to have an ALFRED device that responds to the changing demand of the users by offering new Apps in the ALFREDO platform . 
+An OlderPerson must be able to have an ALFRED device that helps him to communicate with his friends and family . 
+An OlderPerson must be able to have video conversation with others . 
+A MedicalCaregiver must be able to have videophone . 
+An OlderPerson must be able to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT tools . 
+An OlderPerson must be able to have an ALFRED device that provides him with information about existing apps that corresponds to his interests . 
+An OlderPerson must be able to customize his preferences in the different functionalities of the solution . 
+A MedicalCaregiver must be able to have a simple ALFRED unit that is expandable in is functions . 
+An OlderPerson must be able to have his data stored directly on the phone . 
+An OlderPerson must be able to receive a wake up call from ALFRED in the morning checking on him if he is ok . 
+An OlderPerson must be able to receive day and night rythm support with agenda reminders . 
+An OlderPerson must be able to receive support to use the public transport . 
+An OlderPerson must be able to use ALFRED for navigation . 
+An OlderPerson must be able to use ALFRED for touristic walks and indications with explanations on historical and cultural sights . 
+An OlderPerson must be able to receive support to have a taxi on time . 
+An OlderPerson must be able to use ALFRED see who is standing at his door and open the door . 
+An OlderPerson must be able to use ALFRED pick the phone sooner up when he is at home . 
+An OlderPerson must be able to use ALFRED turn on / off the lights . 
+An OlderPerson must be able to use ALFRED control the heating . 
+An OlderPerson must be able to use ALFRED control the TV and radio . 
+An OlderPerson must be able to use ALFRED watch movies . 
+An OlderPerson must be able to use ALFRED hear about the news . 
+An OlderPerson must be able to use ALFRED contact help in case of an emergency . 
+A MedicalCaregiver must be able to use video calls in case of emergency . 
+An OlderPerson must be able to have ALFRED contact the nearest caregiver when he asks ALFRED for urgent help . 
+An OlderPerson must be able to receive a message when his home care nurse is on her way . 
+An OlderPerson must be able to receive a medicine reminder from ALFRED . 
+An OlderPerson must be able to see whether he already has taken his pills . 
+An OlderPerson must be able to avoid an overdose . 
+A MedicalCaregiver must be able to see if the patient has taken her medicine . 
+An OlderPerson must be able to use ALFRED do his grocery shopping . 
+An OlderPerson must be able to use ALFRED send messages . 
+An OlderPerson must be able to have ALFRED detect falls and send an emergency to a specific contact . 
+An OlderPerson must be able to have ALFRED suggest healthy recipes . 
+An OlderPerson must be able to have ALFRED ask spontaneous questions but it would be better to programme it during certain times of the day . 
+"An OlderPerson must be able to have ALFRED initiate questions ,but it should be in the domains of his interest such as cinema ,exhibitions ,cooking . "
+An OlderPerson must be able to call someone with ALFRED . 
+An OlderPerson must be able to activate the vocal interaction mode of ALFRED by pushing a specific button . 
+An OlderPerson must be able to use ALFRED maintain his contact list in his phone . 
+An OlderPerson must be able to use ALFRED manage his agenda . 
+An OlderPerson must be able to insert his meetings into ALFRED using speech . 
+An OlderPerson must be able to receive reminders on his appointments . 
+An OlderPerson must be able to receive a reminder from ALFRED on all the things he must be able to bring with him when he leaves the house . 
+A SocialCaregiver must be able to have ALFRED remind him of the things he must be able to bring to the person he cares for . 
+An OlderPerson must be able to use ALFRED set up social groups of people with similar diseases . 
+An OlderPerson must be able to use ALFRED contact people from his own circle . 
+An OlderPerson must be able to use ALFRED learn about art expositions or a museum . 
+An OlderPerson must be able to use ALFRED learn about all the social activities that are organized in his neighborhood . 
+An OlderPerson must be able to use ALFRED get a personalized invitation to a social event . 
+An OlderPerson must be able to use ALFRED navigate to an event or concert and help him when he is lost . 
+An OlderPerson must be able to use ALFRED help him navigate despite his mild cognitive impairments . 
+An OlderPerson must be able to pay for small amounts . 
+An OlderPerson must be able to use ALFRED organize a meeting with a group of friends at a certain place . 
+An OlderPerson must be able to play online games together with other users . 
+An OlderPerson must be able to get suggestions for sports classes in his neighbourhood . 
+An OlderPerson must be able to have ALFRED provide him face to face contacts as well . 
+An OlderPerson must be able to help him to control his body weight . 
+An OlderPerson must be able to just press one button to call his caregiver . 
+An OlderPerson must be able to decide who has access to his vital data . 
+An OlderPerson must be able to have the wearables with integrated sensors to look good and not to be stigmatizing . 
+An OlderPerson must be able to see his vital parameters himself on the phone . 
+An OlderPerson must be able to have the ALFRED shirt to look good . 
+An OlderPerson must be able to have the ALFRED shirt has to be non stigmatizing . 
+A MedicalCaregiver must be able to have ALFRED determine the user 's blood pressure . 
+A MedicalCaregiver must be able to have ALFRED determine the user 's body temperature . 
+A MedicalCaregiver must be able to have ALFRED determine the user 's heart rate . 
+A MedicalCaregiver must be able to have ALFRED determine the user 's breathing frequency . 
+A MedicalCaregiver must be able to have feedback on the activity level of the user . 
+A MedicalCaregiver must be able to locate the ALFRED user . 
+A SocialCaregiver must be able to have ALFRED be able to recognize pain and or stress by using skin conduction sensors . 
+A SocialCaregiver must be able to have a step counter included into ALFRED . 
+An OlderPerson must be able to have ALFRED give him goals and missions that encourage him to do new activities and exercises and to go out . 
+An OlderPerson must be able to have ALFRED set limits in the games duration as he gets bored easily . 
+An OlderPerson must be able to play games where he can use his Imagination . 
+An OlderPerson must be able to do guided exercises with ALFRED .
+ALFRED must be able to use sensors to capture health data . 
+An OlderPerson must be able to have games that include his favourite sports . 
+An OlderPerson must be able to receive suggestions about local sport Classes . 
+An OlderPerson must be able to have ALFRED remind him to keep a good body posture . 
+A MedicalCaregiver must be able to have ALFRED remind people to exercise regularly . 
+An OlderPerson must be able to receive specific tips how to reduce his health impairments without medication . 
+An OlderPerson must be able to have some games that show him how good his memory and physical health is . 
+An OlderPerson must be able to have training for specific muscle Groups . 
+A MedicalCaregiver must be able to have ALFRED offer training for specific muscle groups . 
+An OlderPerson must be able to see his training Performance . 
+"An OlderPerson must be able to have ALFRED help to motivate him during the week to do exercise that should change daily ,as the constant change motivates him . "
+"A MedicalCaregiver must be able to have ALFRED propose him games that require the combination of mental and physical exercise ,such as opposing motion exercises of the arms and legs . "
+"An OlderPerson must be able to have games that require the combination of mental and physical exercise ,such as opposing motion exercises of the arms and legs . "
+A MedicalCaregiver must be able to control if the user does the exercise correct . 
+A MedicalCaregiver must be able to have a regular summary on how much exercise is performed by the user . 
+An InformalCaregiver must be able to have a game that the carer could play together with the user . 
+A MedicalCaregiver must be able to have ALFRED propose training that promotes complex thinking . 
+"A MedicalCaregiver must be able to give corrective feedback if exercises are performed wrong ,too much or in any other way harmful to the user . "
+A developer must be able to present his app to as many people as Possible . 
+A developer must be able to have the accounting to be as simple and clear as Possible . 
+A developer must be able to easily create and to maintain his apps within the market place . 
+A developer must be able to enable customers to provide feedback about his App and must be able to have an easy way watch this feedback . 
+A developer must be able to have an easy way to manage the pricing modality of his Apps . 
+A developer must be able to have the API to be well defined and well documented . 
+A developer must be able to obtain Apps development support . 
+A developer must be able to know the fees the provider of the market place charges for using the platform . 
+A developer must be able to have detailed information of what happened when his App crashes on the user ’s device . 
+A developer must be able to present his App in several ways . 
+A developer must be able to design his App on his own - though there will be a few rules he has to stand to . 
+A developer must be able to have an easy way to define questions the user can ask and perform . 
+A developer must be able to have his App to be granted access to several operating system features . 
+A developer must be able to have the API components to be on a high level . 
+A developer must be able to have an easy way to read data from health sensors the user is wearing . 
+A serious games developer must be able to take control over some functions to provide the desired user experience . 
+A developer must be able to provide an easy way to manage the user Settings . 
+A developer must be able to have the ALFRED API reduce the work to achieve his goals . 
+A developer must be able to have the ALFRED API reduce the work to achieve his goals . 

@@ -1,0 +1,82 @@
+A Publisher must be able to publish a dataset . 
+A Publisher must be able to share the dataset publicly with everyone . 
+A Publisher must be able to sign up for an account . 
+A Publisher must be able to publish his data package to the registry and to have a publisher account to publish his data package under . 
+A Visitor must be able to sign up via github or google . 
+A Publisher must be able to know what do next after signing up . 
+An Admin must be able to invite someone to join the platform . 
+A Publisher must be able to import his data package into the registry . 
+A Publisher must be able to configure his client . 
+A Publisher must be able to start publishing data packages . 
+A Publisher must be able to use a publish command to update a data package that is already in the registry . 
+A Publisher must be able to unpublish a data package . 
+A Publisher must be able to permanently delete a data package . 
+A Publisher must be able to validate the data he is about to publish to the registry . 
+A Publisher must be able to data to be validated when he publishs it . 
+A Consumer must be able to know that the data he is downloading is good and can be relied on . 
+A Publisher must be able to publish a data package where its resource data is stored on his servers but the registry caches a copy of that data . 
+A Consumer must be able to get the data for a data package even if the original data has been moved or removed . 
+A Publisher must be able to publish a data package in the UI . 
+A Publisher must be able to create a data package in the UI . 
+A Publisher must be able to restore the deleted data package via cli . 
+A Publisher must be able to undelete the deleted data packages . 
+A Publisher must be able to preview the views of the current data package using cli prior to publishing . 
+A Publisher must be able to refine the json declarations of datapackage view section to achieve a great looking result . 
+A Consumer must be able to view a data package online . 
+A Consumer must be able to get a sense of whether This is the dataset A Consumer must be able to have . 
+A publisher must be able to show the world how his published data is . 
+A consumer must be able to view the data package . 
+A Publisher must be able to preview a datapackage he has prepared . 
+A Consumer must be able to see how much the data has been downloaded . 
+A Publisher must be able to see real examples of published packages . 
+A Consumer must be able to see some example data packages quickly . 
+A Consumer must be able to search data packages . 
+A Consumer must be able to find package Which related to some key words . 
+A Consumer must be able to download the data package in one file . 
+A Developer must be able to use data package as a node lib in his project . 
+A Consumer must be able to load a Data Package from R . 
+A Data Analyst must be able to download a data package . 
+A Data Analyst must be able to update previously downloaded data package . 
+A Data Analyst must be able to work with the most recent data . 
+A Consumer must be able to download a DataPackage 's data one coherent SQLite database . 
+A Data Analyst must be able to compare different versions of some datapackage locally . 
+A Data Analyst must be able to see schema changes clearly and adjust his analytics code to the desired schema version . 
+A Web Developer must be able to install multiple versions of the same datapackage separately . 
+A Developer must be able to list all DataPackages requirements for his project in the file and pin the exact versions of any DataPackage that his project depends on . 
+A Publisher must be able to tag datapackage to create a snapshot of data on the registry server . 
+A Publisher must be able to be warned that a tag exists when he trys to overwrite it . 
+A Publisher must be able to overwrite the previously tagged datapackage . 
+A Publisher must be able to version his Data Package and keep multiple versions around including older versions . 
+A Publisher must be able to get access to a previous version he taggeds . 
+A Publisher must be able to return to it and review it . 
+A Consumer must be able to know full details of how the data package schema has changed . 
+A Consumer must be able to adjust his scripts to handle it . 
+A Consumer must be able to get a sense of the age of the datapackage that he has downloaded before . 
+A Consumer must be able to view a Datapackage at a particular version online . 
+A Consumer must be able to present and discuss the particular data timeslice of interest with other people . 
+A Consumer must be able to download a Data package at a particular version . 
+A Consumer must be able to be notified of changes to a package he cares about . 
+A Consumer must be able to see how active the site is . 
+A Consumer must be able to decide if he should get involved . 
+A Consumer must be able to browse and find publishers . 
+A Consumer must be able to see a publisher 's profile . 
+A Consumer must be able to discover their packages and get a sense of how active and good They are . 
+A Consumer must be able to view a publisher 's profile . 
+A Consumer must be able to see who is behind a particular package or to see what other packages They produce . 
+A Consumer must be able to search among all data packages owned by a publisher . 
+An Owner must be able to edit his profile . 
+An Owner must be able to invite an existing user . 
+An owner must be able to invite someone using their email to sign up and become a member of his Publisher . 
+An owner must be able to remove someone from membership in his publisher . 
+An owner must be able to view all the people in his organization and what roles they have . 
+An owner must be able to make a user an owner . 
+An owner must be able to remove a user as an owner . 
+An Admin must be able to set key configuration parameters for his site deployment . 
+An Admin must be able to change key information like the site title . 
+An Admin must be able to see key metrics about usage such as users . 
+An Admin must be able to have a pricing plan and billing system . 
+An Admin must be able to charge users and make his Platform sustainable . 
+A Publisher must be able to know if this site has a pricing plan and what the prices are . 
+A Publisher must be able to sign up for a given pricing plan . 
+A Publisher must be able to have private data packages . 
+A Publisher must be able to share data packages just with his team . 

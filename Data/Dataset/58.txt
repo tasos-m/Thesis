@@ -1,0 +1,33 @@
+The admin must be able to create a new admin
+The admin must be able to create a user
+The admin must be able to update admins profile
+The admin must be able to update admins profile
+The admin must be able to delete an admin
+The admin must be able to delete a user
+The admin must be able to delete comments on a video
+The admin must be able to create recommended video list
+The admin must be able to update recommended video list
+The admin must be able to delete recommended video list
+The user must be able to login to the webpage
+The logged-in user must be able to logged out from webpage
+The logged-in user must be able to delete his video
+The logged-in user must be able to open recommended video page
+The logged-in user must be able to see the recent viewed videos
+The logged-in user must be able to change to dark view of webpage
+The logged-in user must be able to search for a video
+The logged-in user must be able to select a video
+The logged-in user must be able to upload a video
+The logged-in user must be able to like a video
+The logged-in user must be able to dislike a video
+The logged-in user must be able to share a video
+The logged-in user must be able to create a comment on a video
+The logged-in user must be able to read a comment on a video
+The logged-in user must be able to edit and update his comment on a video
+The logged-in user must be able to delete his comment on a video
+The logged-in user must be able to subscribe to a channel
+The logged-in user must be able to pause a video
+The logged-in user must be able to control the audio volume of a video
+The logged-in user must be able to play a video
+The logged-in user must be able to enable subtitles on a video
+The logged-in user must be able to disable subtitles on a video
+The logged-in user must be able to select full screen view on a video

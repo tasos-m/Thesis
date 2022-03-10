@@ -1,0 +1,103 @@
+A system administrator must be able to run a script that installs the Neurohub node onto a virgin Ubuntu operating system . 
+A system administrator must be able to run a script that tests to see if a Neurohub installation is functioning correctly . 
+A release engineer must be able to call a script to execute acceptance tests against a Neurohub installation and report back the results . 
+An investigator must be able to view the acceptance test results . 
+An MRI operator must be able to digitally record the responses that subjects make when completing paper - based forms . 
+A user must be able to navigate forwards and backwards between log books and log book pages without having to use his browser 's back button . 
+A lab administrator must be able to theme the Web interface graphics / colours . 
+A researcher must be able to create a log book page for an experiment and attach a file to this page . 
+A researcher must be able to create a log book page for an experiment and attach a directory that contains multiple files . 
+A researcher must be able to upload files prior to having them attached to a log book page . 
+A researcher must be able to upload files prior to having them attached to a log book page using the web interface . 
+A researcher must be able to upload files prior to having them attached to a log book page using a mapped network drive . 
+A researcher must be able to attach currently non - attached files to a log book page . 
+A researcher must be able to receive an alert of any unattached files that are in his workspace . 
+A researcher must be able to download files attached to an experiment using his Web browser . 
+"A researcher must be able to access files stored in his Neurohub workspace ,using a network drive attached to his workstation . "
+A researcher must be able to create a log book page . 
+"A release engineer must be able to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system ,execute tests and report back results ,without requiring any manual input / interaction . "
+A supervisor must be able to view what his researchers were doing on a given date or period of time . 
+A user must be able to upload large files of over 1 GB in size . 
+A user must be able to assign tags to files that he has uploaded . 
+A user must be able to assign bespoke information to a file dependent on its type . 
+A user must be able to filter the files he gets from search results based on their  type . 
+A user must be able to use the tags that he uses are part of a controlled vocabulary . 
+A user must be able to make uploaded data files to be non - modifiable . 
+A user must be able to make predicated links between files . 
+A user must be able to restrict what can be entered to a metadata field . 
+A user must be able to have files he might accidentally delete to be restorable . 
+A user must be able to revert to an older version of an uploaded file . 
+A user must be able to have a visual way of viewing particular files uploaded over a time period . 
+A user must be able to associate together files involved in a experiment . 
+A system administrator must be able to have a managed backup protocol for the system . 
+A user must be able to enter metadata / describe an experiment protocol before a file is even created . 
+A lab administrator must be able to have increased access to the system to support regular users . 
+A user must be able to link together experimental runs to build an experiment . 
+A lab administrator must be able to create page templates with bespoke metadata fields . 
+A user must be able to capture the same metadata for each file created in an experimental run . 
+A lab administrator must be able to have a way of managing worm strain stocks that is integrated with Wormbase . 
+A user must be able to search for and download human - readable experimental protocols . 
+"A user must be able to modify or branch an experimental protocol ,whilst retaining the original . "
+A user must be able to view how an experimental protocol has evolved over time . 
+A user must be able to create a protocol and assign metadata to any stag . 
+A user must be able to prove definitively that he createds a page on a certain date . 
+A user must be able to manage the references / papers he has investigated . 
+A user must be able to search specifically for files rather than log book pages . 
+A user must be able to limit his search to a particular set of log books . 
+A user must be able to limit his search results to one or more log book sections from one or more log books . 
+A user must be able to download files directly from the search results page . 
+A user must be able to see the provenance of the page as part of the search results . 
+A user must be able to attach multiple files at once to a log book page . 
+A user must be able to download multiple files from the search results in one go . 
+A user must be able to draw tables using HTML tags as part of the content of a log book page . 
+A lab member must be able to view events and equipment bookings within the group . 
+A user must be able to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James . 
+A system administrator must be able to migrate data from an older version of NeuroHub to the current version . 
+A user must be able to have the system to also forward important news items to an external mailing list . 
+A user must be able to view and update an inventory of of the equipment and consumables that are present in the centre . 
+A user must be able to have a spreadsheet hosted within the Neurohub Web page . 
+A user must be able to edit and calculate costs collaboratively with others while working on the proposal . 
+"A supervisor must be able to create feedback forms within Neurohub ,that his students can fill in and submit ,in order to provide him with feedback about the course that they attended . "
+A user must be able to have the option to tell Neurohub to push posted content to his Twitter feed at the same time . 
+A user must be able to either keep a logbook entry private or share it with individuals rather than groups . 
+A user must be able to have the details of the workflow execution to be recorded in a neurohub log book while executing a workflow . 
+A user must be able to have that his Twitter Tweets to appear in Neurohub . 
+A user must be able to view the group 's shared calendars via the Neurohub Nodes ' Web page as well as on his mobile device . 
+A user must be able to sync events created in NeuroHub with a web - based Calendar such as Google Calendar . 
+A researcher must have the ability to insert Greek symbols into his logbook entries . 
+A user must have the ability to move multiple files around and rearrange them using the Neurohub file browser while processing data . 
+A researcher must be able to point his Mendeley client at a group - wide shared repository of research papers and get notifications via Mendeley when new content is added . 
+A researcher must be able to have electronic support for keeping track of which data sets were used, output or modified as part of a particular experiment . 
+A user must be able to have a mechanism for electronically sharing papers and notes with other researchers . 
+A researcher must be able to have services to support the long term curation of data . 
+A researcher must be able to have a timeline display of multiple data files and their associated images . 
+A researcher must be able to compare the data taken from experiments on particular dates . 
+A researcher must be able to have remote access to his data for off . 
+A researcher must be able to share post - experiment write . 
+"A researcher must be able to collect data as a library of data ,which can then be used by one or multiple experiments that are defined at a later stage . "
+"A researcher must be able to indicate within his electronic log book which experimental data is good / bad ,hide the bad data ,but still keep it in the system just in case it is useful in the future . "
+A researcher must be able to have the system to provide standard metadata . 
+A researcher must be able to have physiology images to be annotated with standard meta data . 
+A researcher must have the ability to attach standard meta data for behavioural observations . 
+A researcher must have the ability to attach standard meta data for drug responses . 
+A researcher must have the ability to search for images of cells using standard meta data . 
+A researcher must be able to have at least some meta data to be automatically inserted when new data is added to the system . 
+A researcher must have the ability to attach detailed meta data to the data and entries that he creates . 
+A researcher must have the ability to select a partially pre - populated template that already contains commonly entered meta data while adding new data to the system . 
+A researcher must have the ability to form links between objects . 
+"A researcher must have the ability to locate experiment files using meta data ,regardless of where those files are located . "
+A researcher must be able to have any data that he has written to the VRE to be protected from modification or deletion . 
+"A user must have the ability to keep his data private on the system ,and only share data that he deems should be shared . "
+A researcher must have the ability to store all the inputs for an experiment . 
+A researcher must have the ability to search for files by file type and format . 
+A researcher must have the ability to upload directories and files with minimal effort . 
+A researcher must be able to associate meta data to the group as a whole at some point in time after the bulk upload has completed . 
+A user must have the ability to change the sharing and ownership of multiple files . 
+A researcher must have the ability to restrict the data he shares to certain researchers or groups of researchers . 
+A researcher must have the ability to locate and access data that colleagues must be able to share . 
+A researcher must have the ability to interact with a revision control system . 
+A researcher must be able to keep track of changes to files over time . 
+A JuniorResearcher must have the ability to harvest knowledge from within the group . 
+A researcher must be able to secure remote access to the Neurohub node when working away from the laboratory 
+A researcher must be able to have a group - level repository for sharing papers, reviews and comments with other researchers . 
+A researcher must be able to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow. 

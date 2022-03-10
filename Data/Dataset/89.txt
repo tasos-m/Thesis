@@ -1,0 +1,26 @@
+The user must be able to login.
+The user must be able to navigate through the channels list.
+The user must be able to select a channel to watch.
+The user must be able to see the tv guide of every channel.
+The user must be able to see a list with every channel's programs of the past 7 days.
+The user must be able to see a list of sports tv programs.
+The user must be able to see a list of documentaries.
+The user must be able to see a list of children tv programs.
+The user must be able to select a tv program to watch.
+The user must be able to see a list of favorite programs.
+The user must be able to add a tv program in the favourites list.
+The user must be able to delete a tv program from the favourites list.
+The user must be able to evaluate a tv program.
+The user must be able to block access to a tv program for his account.
+The user must be able to navigate through a movies for renting list.
+The user must be able to rent a movie.
+The user must be able to add payment method.
+The user must be able to remove payment method.
+The user must be able to select the menu language.
+The user must be able to choose the streaming quality of the program.
+The user must be able to choose the audio language of the tv program.
+The user must be able to see a list of frequently asked questions about the service.
+The administrator must be able to add a channel to the channel list.
+The administrator must be able to delete a channel from the channel list.
+The administrator must be able to add a movie to the movies for renting list.
+The administrator must be able to delete a movie from the movies for renting list.

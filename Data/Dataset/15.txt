@@ -1,0 +1,14 @@
+The user must be able to login to the system.
+The user must be able to logout from the system.
+The user must be able to interact in the virtual space.
+The administrator must be able to access the profiles of the users.
+The users must be able to communicate with the administrator.
+The administrator must be able to login into the system with all types of profiles.
+The administrator must be able to upload files to the system.
+The administrator must be able to add a new user to the system.
+The administrator must be able to delete a user from the system.
+The player must be able to have a profile.
+The supervisor must be able to have an avatar.
+The player must be able to communicate with the supervisor.
+The user must be able to stop the communication with other players.
+The user must be able to change game level.

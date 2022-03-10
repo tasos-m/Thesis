@@ -1,0 +1,27 @@
+Client application must be able to check if it is connected to the Internet.
+User must be able to log into the application using Facebook account.
+User must be able to log out, with the logout being noted on the server as well.
+Client application must be able to retrieve a prioritized friends list (difference is made between friends/contacts who are GiftCase users and those who aren't).
+GiftCase users must  be able tobe highlighted based on birthday and Facebook life events.
+Client app must be able to have an indicator of whether a GiftCase user is presently online or not.
+The user must be able to search the friends list.
+The user must be able to send an invitation mail to friends who are not GiftCase users when the user taps on their name.
+The user must be able to select a GiftCase-user friend to send a gift to.
+The user must be able to select a gift category.
+The user must be able to select his gift choice and send it to back-end.
+The user must be able to preset notification preference which specifies how much in advance the user wants to be notified of an event (birthday for example).
+Content that fails the filter must be able to be grayed out and unselectable.
+Prioritized contacts must be able to be presented in a separated group "Prioritized list".
+The content list must be able to be sorted based on filter matching.
+Back-end must be able to manage user profiles based on whether or not user has logged-in with Facebook account and accepted the usage of Facebook proxy app.
+Back-end must be able to send notifications about birthdays and life events for user's friends.
+Back-end must be able to send notifications when a user logs in/logs out of application.
+Back-end must be able to perform dynamic updates to the friends list via silent notifications in case of social graph updates.
+Back-end must be able to notify the user that his gift choice was sent.
+Back-end must be able to notify the user that a gift has been bought for him/her.
+Back-end must be able to provide server-side personalization of content based on Telco data for a specific user, based on selected friend and gift category.
+A previously created profile must be able to be reused based on the client device IMSI, on every login after initial, .
+Back-end must be able to perform a check to determine whether contact is a registered GiftCase user or not, for each user contact.
+Back-end must be able to periodically check user's FB profile for updates such as important "Life events" for which other users might want to purchase gifts, in order to prioritize contacts.
+Back-end must be able to register the client application with an external notification service for notification pushing.
+Back-end must be able to retrieve current status of the user (logged-in/logged out) to allow automatic logins.

@@ -1,0 +1,12 @@
+A user must be able to search for music and profiles with a keyword.
+A user must be able to create a playlist in his/her profile.
+A listener must be able to change a playlist from public to private.
+A user must be able to edit a playlist in his/her profile.
+A user must be able to change the order of the songs in the play queue.
+A listener must be able to follow and unfollow a user.
+A user must be able to edit the information of his/her profile.
+A listener must be able to view his/her newsfeed, where he/she can get informed about the latest activity of the users that he/she follows.
+An artist must be able to upload music.
+An artist must be able to view statistics about his/her audience.
+A user must be able to control the music player.
+A user must be able to view the profiles of other users.

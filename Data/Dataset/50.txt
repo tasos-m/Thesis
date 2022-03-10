@@ -1,0 +1,96 @@
+A repository manager must be able to know all the collections and objects in the DAMS for which he has custodial responsibility . 
+A repository manager must be able to update repository information in one place and be assured updates will be propagated to all relevant places . 
+A repository manager must be able to constrain curatorial access to his units assets to staff members of his unit and to DAMS managers having universal access . 
+A user must be able to list all the collections and objects in the DAMS that belong to a library unit . 
+A user must be able to contact repositories . 
+The DAMS manager must be able to list for browsing all formal collections represented in the DAMS along with the appropriate relationships . 
+A repository manager must be able to know all the collections for which he has curatorial responsibility . 
+"A repository manager must be able to compose collections ,limiting the collection to the items sharing the same provenance ,limiting the collection to represent a part of a collection has a singular provenance ,or assembly a collection from other collections and objects . "
+A repository manager must be able to say one collection is related to another collection .  
+"A repository manager must be able to describe a collection ,including its title ,it 's inclusive / bulk dates ,its language(s ) ,and many other aspects . "
+"A repository manager must be able to indicate names related to the collection either as creator ,source ,or subject . "
+A repository manager must be able to indicate subjects related to the collection . 
+A repository manager must be able to indicate other descriptions of the collection that are outside the DAMS and of probable importance to users . 
+A repository manager must be able to know all events occurring to a collection . 
+A user must be able to browse by collections in the DAMS . 
+A user must be able to limit his search to specified collection(s ) . 
+A repository manager must be able to have know all the components belonging to an object . 
+A repository manager must be able to know all the files belonging to an object . 
+"A repository manager must be able to describe an object ,including its title ,date(s ) ,language(s ) ,and other aspects . "
+A repository manager must be able to indicate names related to an object . 
+A repository manager must be able to indicate subjects that are related to an object . 
+A repository manager must be able to indicate the copyright status of an object . 
+A repository manager must be able to indicate any statutes pertinent to an object . 
+A repository manager must be able to indicate any license pertinent to an object . 
+A repository manager must be able to indicate any other rights pertinent to an object . 
+A repository manager must be able to indicate any external versions or descriptions of an object that may be of probable importance to an user . 
+A repository manager must be able to know all events done to an object over the object 's life cycle . 
+A DAMS manager must be able to know what repository an object belongs to . 
+A DAMS manager must be able to know what collection(s an object belongs to . 
+A user must be able to know what repository an object belongs to . 
+A user must be able to know what collection(s ) an object belongs to . 
+A user must be able to see all the component parts of an object . 
+A user must be able to have access to the content files for an object . 
+A user must be able to know the rights status of an object . 
+A user must be able to know about other versions of the object or its metadata that might be of use to him . 
+A repository manager must be able to represent the physical and/or logical structure of an object . 
+"A repository manager must be able to list all the components ,in their appropriate order ,for an object . "
+"A repository manager must be able to link ,when appropriate ,a component to another component or to a file . "
+"A repository manager must be able to describe each component as necessary ,including title ,date(s ) ,language(s ) ,and other facets . "
+A repository manager must be able to indicate any name that is pertinent to the component . 
+A repository manager must be able to indicate any subject that is pertinent to the component . 
+A repository manager must be able to indicate if the component has a copyright status different than that of of the object as a whole . 
+"A repository manager must be able to indicate if a statute pertains to the component ,apart from the object as a whole . "
+"A repository manager must be able to indicate if a license pertains to the component ,apart from the object as a whole . "
+"A repository manager must be able to indicate if other rights pertain to the component ,apart from the object as a whole . "
+A repository manager must be able to know all events occurring to a component over its life cycle . 
+A DAMS manager must be able to present in their assigned order all components comprising an object . 
+A user must be able to see and navigate the component hierarchy of an object . 
+A repository manager must be able to know all the content files in the DAMS for his repository 's objects . 
+A repository manager must be able to associate a content file with either an object or an object component . 
+A repository manager must be able to know any event that occurred to a content file for any of his repository 's objects . 
+"A DAMS manager must be able to indicate to preservation managers aspects of a master file useful for monitoring its integrity ,and impending obsolescence ,including file size ,creation date ,file format and format version . "
+A DAMS manager must be able to indicate to preservation managers the checksum method for each master file for a given object . 
+A DAMS manager must be able to indicate the source - capture information for a file where it is useful to do so . 
+A user must be able to have access to content files that comprise an object . 
+"A repository manager must be able to provide a title ,in all useful forms ,for his repository 's collections ,objects ,and object components . "
+"A repository manager must be able to know any changes occurring to titles for repository 's collections ,objects ,and object components . "
+"A DAMS manager must be able to present collections ,objects ,and object components by title . "
+"A user must be able to search collections ,objects ,and object components by title . "
+"A repository manager must be able to indicate for an object or object component the place of publication ,the publisher ,edition ,etc . ,when pertinent . "
+"A repository manager must be able to know of any changes made to the origin Info for an object ,including its component parts . "
+"A user must be able to know for an object or its component parts the place of publication ,the publisher ,etc . "
+"A repository manager must be able to describe various facets of a collection ,object ,or object component that are not addressable via title ,date ,name ,and subject entities . "
+"A repository manager must be able to know of all modifications made to notes for his repository 's collections ,objects ,or object components . "
+"A user must be able to know about various facets of a collection ,object ,or object component ,such as scope and content ,various identifiers ,conditions governing use / access ,etc .  "
+"A repository manager must be able to indicate the language(s ) for present in a collection ,object ,or object component . "
+"A repository manager must be able to know of any changes made to language(s ) indicated for a collection ,object ,or object component . "
+"A user must be able to scope his searches for collections ,objects ,or object components to a specific language . "
+A repository manager must be able to register a name record for each unique identity associated with his repository 's collections and objects . 
+A user must be able to search by for collections and objects by name . 
+"A repository manager must be able to indicate that a name pertinent to a collection ,object ,or object component has a specific role ,such as illustrator ,photographer ,etc . "
+"A user must be able to scope by searches by name to a specific role such as illustrator ,photographer ,etc . "
+"A repository manager must be able to indicate all subjects that are pertinent to a collection ,object ,or object component . "
+"A user must be able to search for collections ,objects ,and object components by pertinent such headings ,including title ,topic ,genre / form ,geographical name ,function ,occupation ,name ,cartographics ,etc . "
+A repository manager must be able to indicate the geo - coordinates for any resource that believe useful to an end user . 
+"A user must be able to see the geographical context of a collection ,object ,or object component ,where pertinent . "
+A repository manager must be able to indicate all other pertinent versions or descriptions of a resource that are external to the DAMS . 
+A user must be able to know of all other pertinent versions or descriptions of the resource . 
+A repository manager must be able to know if the checksum for any of his repository 's content files that has changed . 
+"A DAMS manager must be able to know ,via the preservation manager ,of all files for which the checksum has changed since last registered . "
+"A repository manager must be able to know ,where pertinent ,the hardware and software used to generate a content file . "
+A DAMS manager must be able to know what objects or object components are still under copyright and can not be displayed without either a license or incurring risk . 
+A DAMS manager must be able to know when copyright for an object or object component is likely to expire per jurisdictional copyright statute . 
+"A DAMS manager must be able to know when the copyright status for an object or object component is modified ,either manually or automatically . "
+A DAMS manager must be able to know all the statutes pertinent to an object or object component . 
+A DAMS manager must be able to know when the pertinence of a statute to a object or object component is scheduled to expire . 
+A DAMS manager must be able to know if copyrighted content has an applicable license . 
+A DAMS manager must be able to know if an object or its component is subject to a library policy that restricts access in any way . 
+"A DAMS manager must be able to know if application of a library policy to an object or object component has been modified ,either manually or automatically . "
+A DAMS manager must be able to know all the uses for an object or object component that are permitted or restricted per the rights status of the object or object component . 
+A DAMS manager must be able to know the dates for when a permission or restriction is active . 
+A DAMS manager must be able to know when permitted and restricted acts and/or their active dates are modified . 
+A DAMS manager must be able to track all events scheduled for recording in the DAMS . 
+A DAMS manager must be able to know the agent(s ) responsible for carrying out an event . 
+A DAMS manager must be able to know when the event occurred . 
+"A DAMS manager must be able to know the outcome of the event ,e.g. ,object NN was deleted . "

@@ -1,0 +1,10 @@
+The user must be able to hear the alarm when the temperature in the kitchen is above 30
+The user must be able to hear a song from the virtual smart device when motion is detected in the toilet
+The user must be able to have the thermostat automatically turned off when the humidity is above 40 in the salon
+The user must be able to hear a warning message from the virtual smart device when the pressure is above 20 in bedroom 1
+The user must be able to have the water valve automatically closed when motion is detected in the garden
+The user must be able to give the command Close Lights and have the lights automatically turned off in bedroom 2
+The user must be able to see the smart lamp show red when the temperature in the salon is above 40
+The user must be able to give the command Lower the lights and change the intensity of the lights in bedroom 1
+The user must be able to have the lights automatically switched on when motion is detected in the kitchen
+The user must be able to hear a greeting message from the virtual smart device when motion is detected in the salon

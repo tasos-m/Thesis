@@ -1,0 +1,31 @@
+The user must be able to login to the system.
+The superuser must be able to logout.
+The user must be able to die.
+The user must be able to consume food.
+The user must be able to select the type of food to eat.
+The user must be able to drink alcohol.
+The user must be able to select the type of alcohol to drink.
+The user must be able to entertain oneself.
+The user must be able to select a type of entertainment.
+The user must be able to sleep.
+The user must be able to wake up.
+The user must be able to speak.
+The user must be able to understand data.
+The user must be able to recall data.
+The user must be able to interact with the environment.
+The user must be able to interact with other users.
+The environment administrator must be able to draw the environment.
+The environment administrator must be able to set time in the environment.
+The system must be able to allow movement of objects in the environment.
+The superuser and the One must be able to login to the system at will.
+The superuser must be able to upgrade a user to superuser.
+The superuser must be able to defeat the law of gravity.
+The superuser must be able to have access to priviledged entities.
+The One must be able to see future events.
+The One must be able to communicate with the Architect.
+The One must be able to defeat the law of gravity and fly.
+The One must be able to have access to all system data.
+The administrator must be able to disconnect users.
+The administrator must be able to have access to all system data.
+The administrator must be able to change the system's physical laws.
+The administrator must be able to add and delete the system's physical law.

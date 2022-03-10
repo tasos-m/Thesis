@@ -1,0 +1,111 @@
+A public user must be able to search for information . 
+"A Public User must be able to obtain publicly available information concerning properties ,County services ,processes and other general information . "
+A ProspectiveApplicant must be able to research requirements and to select a service . 
+A ProspectiveApplicant must be able to find the relevant service and/or application type to initiate via the online portal . 
+An Applicant must be able to Request PreApplication Assistance . 
+An Applicant must be able to receive a response to a request for a meeting or information That is a result of the preapplication assistance . 
+A Customer must be able to Create a Customer Portal User Account . 
+A Customer must be able to log on to the Customer Portal and perform transactions That first require user authentication . 
+An Applicant must be able to Submit Application . 
+"An Applicant must be able to provide his information ,plans and/or documents to initiate a transaction with the County . "
+An Applicant must be able to Submit Supporting Documentation . 
+An Applicant must be able to satisfy documentation requirements for his application . 
+An Applicant must be able to Pay Fee . 
+An Applicant must be able to satisfy outstanding charge associated with the service requested or received from the County . 
+An Applicant must be able to Check the Status of a transaction . 
+"An Applicant must be able to understand where the Provisioning of his service is in the process ,such as information related to service levels ,fees ,plan review ,permit ,or inspection results . "
+An Applicant must be able to Modify his Application . 
+An Applicant must be able to successfully change information on an application . 
+A Staff member must be able to Perform a Completeness Review . 
+A Staff member must be able to Record an Internal Note . 
+A Staff member must be able to share information with other Staff collaborating on the record . 
+A Staff member must be able to Assign an Application for Detailed Review . 
+A Staff member must be able to review the for compliance and subsequently approved or denied . 
+A Staff member must be able to Apply a Hold . 
+A Staff member must be able to prevent progression through the workflow or other actions in the system until the issue is resolved . 
+A Staff member must be able to Remove a Hold . 
+A Staff member must be able to allow progression through the workflow or other actions in the system now the issue has been resolved . 
+A Staff member must be able to Send a Formal Response to Applicant . 
+A Staff member must be able to satisfy communication and records responsibilities . 
+A Staff member must be able to Track the Draft Proffers . 
+A Staff member must be able to preserve the history of draft proffer statements submitted by the Applicant . 
+A Staff member must be able to Manage Approved Proffers . 
+A Staff member must be able to ensure compliance with and satisfaction of the proffer in the future . 
+A Staff member must be able to Manage Ordinances . 
+A Staff member must be able to maintain accurate ordinance information in the System . 
+A Staff member must be able to Schedule a Meeting . 
+A Staff member must be able to bring the required parties together at a specific date and time to address an issue . 
+A staff member must be able to denote an application with a Final Action status .
+A Planning Staff member must be able to conduct plan amendments and planning studies . 
+"A Planning Staff member must be able to record work in process ,outcome ,and location - based information related to the Plan(s ) . "
+A Planning Staff member must be able to Generate Planning . 
+"A Planning Staff member must be able to access ,analyze and/or export the needed information in the format A Planning Staff member requesteds . "
+A Planning Staff member must be able to Evaluate Consistency with the Comprehensive Plan . 
+A Planning Staff member must be able to complete his required review of a plan set and/or application . 
+A Staff member must be able to Perform a Staff Review . 
+A Staff member must be able to validate compliance of an application with the Zoning Ordinance and impact  the approval and denial of the application accordingly . 
+A Zoning Staff member must be able to Process the Requests for Zoning Information . 
+A Zoning Staff member must be able to capture his response to the request in the system and also send a communication from the system to the Applicant . 
+A Zoning Staff member must be able to Issue the Zoning . 
+A Zoning Staff member must be able to satisfy an Applicant 's request for service That has proven to be eligible and in compliance with the Zoning Ordinance . 
+A Staff member must be able to Develop a Staff Report . 
+A Staff member must be able to publish and distribute the report according to business rules . 
+A Staff member must be able to Manage Hearing Calendars . 
+A Staff member must be able to track hearing - related activities and due dates . 
+A Staff member must be able to Assign a Hearing Date . 
+A Staff member must be able to present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures . 
+A Staff member must be able to Manage Affidavits . 
+A Staff member must be able to ensure compliance with the requirements prior to the hearing . 
+An Applicant must be able to Satisfy Hearing Requirements . 
+An Applicant must be able to ensure all pre - hearing Requirements are satisfied in time for the hearing . 
+A Staff member must be able to support hearing execution . 
+A Staff member must be able to Capture a Hearing Decision . 
+A Staff member must be able to enforce the system . 
+A Staff member must be able to Process the Appeals . 
+A Staff member must be able to track the outcome and record the impact on the relevant records . 
+A Plan Review Staff member must be able to Assign Plans for Review . 
+A Plan Review Staff member must be able to ensure plans has been assigned to the appropriate Plan Reviewer . 
+A Plan Review Staff Supervisor must be able to Manage Plan Reviewer Workload . 
+A Plan Review Staff Supervisor must be able to monitor and effectively adjust workload as necessary and ensure service levels are met 
+An Applicant must be able to Request a Plan Review Meeting . 
+An Applicant must be able to meet with the Plan Review Staff regarding the plan review . 
+A Plan Review Staff member must be able to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome . 
+A Plan Review Staff member must be able to Review Plans . 
+"A Plan Review Staff member must be able to review them for compliance and either approve ,or fail or deny the plans and record any conditions ,clearances ,or corrections needed from the Applicant . "
+An Applicant must be able to Resubmit Plans . 
+An Applicant must be able to review revised plans . 
+A Plan Review Staff Member must be able to Review the Code Modifications submitted by the Applicant . 
+"A Plan Review Staff Member must be able to review the request and if approved ,associate it with the appropriate project . "
+A Plan Review Staff member must be able to Track the Completion of Required Plan Reviews . 
+"A Plan Review Staff member must be able to ensure all plan review tasks are completed ,results has been sent to the Applicant and any downstream steps are initiated Such has a final review or payment for permit issuance . "
+A Development Staff member must be able to Issue a Development . 
+A Development Staff member must be able to grant the request to the Applicant to begin work 
+A Staff member must be able to Manage Bonds . 
+A Staff member must be able to track and manage bonds throughout the lifecycle of the project until release . 
+An Applicant must be able to Complete Building Development Project . 
+An Applicant must be able to receive any posted bond and/or obtain occupancy . 
+An Applicant must be able to Complete Building Development Project . 
+An Applicant must be able to receive any posted bond and/or obtain occupancy . 
+A Customer must be able to Request Inspection . 
+An Inspection Staff member must be able to Create an Inspection . 
+An Inspection Staff member must be able to schedule and assign the inspection . 
+An Inspection Staff Supervisor must be able to Assign Inspections . 
+An Inspection Staff Supervisor must be able to make sure the appropriate Inspector receives the work . 
+An Inspection Supervisor must be able to Manage Inspector Workload . 
+An Inspection Supervisor must be able to meet service level and quality requirements . 
+An Inspector must be able to Conduct Inspections . 
+An Inspector must be able to validate Customer compliance with code and regulations and provide results of the inspection to the Customer . 
+An Enforcement Staff member must be able to Issue a Notice of Violation . 
+An Enforcement Staff member must be able to provide formal communication to the responsible party . 
+A l Staff member must be able to search for Property information . 
+"A l Staff member must be able to obtain all associated current and historic owners ,permits ,and applications . "
+A Staff member must be able to be notified when Geospatial attributes change . 
+A Staff member must be able to ensure A Staff member is reviewing the permit / application to the most current data and appropriate standards . 
+A County Staff Member must be able to create a custom query or report outside of the common querying or reporting functionality . 
+A County Staff Member must be able to fulfill a request . 
+A Staff member must be able to create each condo unit . 
+A Staff member must be able to associate it to the child parcel and address after the condominiums are recorded in the system . 
+A Technical Staff member must be able to update the GIS Property Management . 
+A Technical Staff member must be able to successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists . 
+A Staff member must be able to send or post citations and fines . 
+A Staff member must be able to successfully send the Notice Of Violation document to the property owner and log information about the action . 

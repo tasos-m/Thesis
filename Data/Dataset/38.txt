@@ -1,0 +1,105 @@
+A team member must be able to see the first iteration of beta up on cloud.gov . 
+A developer must be able to have the subdomain beta.nsf.gov be set up . 
+A developer must be able to deploy a beta site to it . 
+"A stakeholder must be able to have a decision on whether or not the blog aggregator may work for beta ,and if not what will . "
+An NSF employee must be able to understand the process of switching the cloud.gov hosting plan over from prototype to FISMA low . 
+A stakeholder must be able to see the results of user research . 
+A designer must be able to have a new social media wireframe . 
+A designer must be able to begin implementing design . 
+A team member must be able to have a prioritized list of features and elements of a future social element page . 
+A team member must be able to work with the engineers to determine feasibility . 
+A team member must be able to determine a design direction for the beta social page . 
+A user researcher must be able to test the user research plan . 
+A user researcher must be able to have the finalized OLPA task script . 
+A user researcher must be able to begin testing with internal users . 
+A content editor must be able to easily find and edit content .
+A research participant must be able to make sure that the appearance of the prototype does not distract from the workflow . 
+A research participant must be able to complete the user interview .
+A user researcher must be able to have the WIG prototype . 
+A user researcher must be able to finalize the second task script . 
+A user must be able to add a video to his article . 
+A team member must be able to meet with DIS / cloud.gov . 
+A team member must be able to determine the requirements for the beta.nsf.gov ATO . 
+A user researcher must be able to have a list of priority workflow candidates that we might test . 
+A team member must be able to understand what the MVP should look like . 
+A team member must be able to begin understanding workflow needs as They pertain to any CMS decision . 
+An NSF administrator must be able to shadow the CMS implementation . 
+An NSF administrator must be able to learn as the prototype is developed further . 
+A team member must be able to have an updated acquisitions roadmap . 
+An NSF employee must be able to have an updated roadmap document . 
+An NSF employee must be able to see prioritized areas to focus on for the next few months and beyond . 
+A team member must be able to understand how time off overlaps with plans around the user research . 
+A researcher must be able to develop the user research protocol for internal workflows . 
+A CMS administrator must be able to have roles . 
+A CMS administrator must be able to assign them to his users . 
+An NSF employee must be able to narrow down the universe of CMS options and identify / prioritize key considerations for getting to the next step . 
+An NSF employee must be able to have a final workshop to identify key lessons and features for the content management system decision . 
+A CMS SME must be able to see the webmaster workflow report . 
+A CMS SME must be able to understand how This might impact current direction . 
+An NSF employee must be able to understand work performed . 
+A researcher must be able to recruit for the last round of user research . 
+A user researcher must be able to continue scheduling interviews for hypothesis # 1 . 
+An NSF employee must be able to have high - level strategy recommendations to implement in conjunction with the new CMS . 
+An NSF employee must be able to have editorial-planning recommendations . 
+An NSF employee must be able to understand how They might impact an eventual CMS / future web presence . 
+An NSF employee must be able to know how brand guidelines are developed and maintained . 
+An NSF employee must be able to incorporate them throughout the project . 
+An NSF employee must be able to know how visual design directions were developed . 
+An NSF employee must be able to make better design decisions in the future . 
+A team member must be able to know what the first hypothesis is . 
+A team member must be able to start developing a prototype to test . 
+A content designer must be able to develop a better understanding of NSF 's content types and editorial plan . 
+A content designer must be able to make more informed Recommendations going forward . 
+A team member must be able to have a prototype strategy . 
+A content designer must be able to demonstrate the value of user - centered content design to ensure it 's an integral part of our recommendations . 
+A user researcher must be able to know when outreach to lists is successful . 
+A user researcher must be able to plan on a new release to the next listserv on the priority list . 
+An NSF employee must be able to schedule regular in-person check-ins . 
+A developer must be able to know what the three initial hypotheses are . 
+A developer must be able to plan work around development of prototypes . 
+A workshop attendee must be able to have a summary of what we learned . 
+A workshop attendee must be able to understand our next steps and how They apply to him . 
+A designer must be able to know what early indications of hypotheses might be . 
+A designer must be able to start planning for the first prototype . 
+A team member must be able to have a schedule of more coworking slots . 
+A team member must be able to work in tandem with the rest of the team on a more regular basis . 
+An NSF person interested in attending user interviews must be able to know when they are scheduled and the type of user that will be interviewed . 
+An NSF member of the team must be able to have a place where he can access all the related reports and documentation . 
+An NSF member must be able to refer to it easily now and in the future . 
+A team member must be able to know when the mid-point checkin is and what will be covered . 
+An NSF employee must be able to join Github . 
+An NSF employee must be able to participate in the issues as assigned . 
+An NSF employee must be able to learn about Github . 
+An NSF employee must be able to participate in the issues as assigned . 
+A user researcher must be able to begin identifying interview participants . 
+A user researcher must be able to understand what Educators and science influencers must be able to have from a future nsf.gov website . 
+A VisualDesigner must be able to concept different styles for the nsf.gov website . 
+A user researcher must be able to set up a website recruitment test . 
+A user researcher must be able to see if We must be able to recruit users in real time from the website . 
+A web recruiter manager must be able to deploy it on more pages . 
+A VisualDesigner must be able to create a moodboard to aid with visual design concepts for the nsf.gov website . 
+A workshop attendee must be able to see a summary on major findings from the event . 
+A user researcher must be able to make sure the correct NSF people are invited to user interviews . 
+A user researcher must be able to begin drafting a research plan . 
+A user researcher must be able to begin recruiting participants . 
+A content editor must be able to add videos from Brightcove . 
+An author must be able to indent and outdent content . 
+A VisualDesigner must be able to demonstrate the value of visual design to the NSF project team . 
+A team member must be able to know what visual design related tasks we might must be able to plan for this sprint . 
+A team member must be able to assign tasks as necessary . 
+A team member must be able to have recruiting-email templates ready to go . 
+A team member must be able to start recruiting interviewees ASAP . 
+An NSF employee must be able to see how the user recruitment form looks and behaves on a sample page . 
+An NSF employee must be able to understand the impact the Recruitment will have on the NSF page . 
+A potential research participant must be able to learn about the research and leave his contact information . 
+A team member must be able to have a high-level sense of the project timeline . 
+A team member must be able to plan his work . 
+A site administrator must be able to understand how other similar organizations are handling visual design . 
+A site administrator must be able to make informed decisions about What appears to work well and What does n't . 
+A team member must be able to have a platform that allows him to rapidly prototype HTML ideas . 
+A site administrator must be able to understand how other similar organizations are handling content . 
+A user researcher must be able to conduct a user definition workshop with NSF . 
+An NSF employee must be able to know where the initial in-person meeting will be . 
+A designer must be able to have a style/design/content guide . 
+A team member must be able to know when meetings are . 
+A team member must be able to understand how work moves between UX / content > visual design > front end dev for a sprint cycle . 

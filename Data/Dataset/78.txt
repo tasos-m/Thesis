@@ -1,0 +1,11 @@
+Every user must be able to be registered as an Employee or as an Employer.
+An Employer must be able to submit a Job-Ad.
+An Employee must be able to search Job-Ad by category or/and keyword.
+An Employee must be able to declare his interest for a Job-Ad.
+A User must be able to send a message to another User, after a declaration of interest was sent.
+An Employer must be able to confirm an Employee for a Job-ad.
+An Employee must be able to rate an Employer after confirmation
+An Employer must be able to rate an Employee after confirmation
+The System must be able to notify the user.
+A User must be able to update his/her profile information.
+Each User must be able to  have a profile page.

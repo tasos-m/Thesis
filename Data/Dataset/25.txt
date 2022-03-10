@@ -1,0 +1,19 @@
+The user must be able to manipulate multiple catalogs.
+The user must be able to divide design patterns into multiple categories.
+The user must be able to create patterns.
+The user must be able to edit patterns.
+The user must be able to delete patterns.
+The user must be able to assign keywords to patterns.
+The user must be able to search the patterns by key, full-text or categories.
+The user must be able to compare the different patterns.
+The user must be able to view and navigate through related patterns.
+The user must be able to create, edit and delete pattern variants.
+The system must be able to assign a design pattern to multiple categories.
+The system must be able to have an interface for adding, editing and deleting multiple descriptions of design patterns.
+The system must be able to compare different design patterns.
+The system must be able to categorize software patterns in a tree-like structure.
+The system must be able to import a figure of the pattern structure.
+The system must be able to import a figure describing the pattern relations.
+The system must be able to provide search for patterns by keyword, (sub)category, full-text search.
+The system must be able to provide an interface for defining pattern keywords.
+The system must be able to provide navigation capabilities for navigating through related patterns.

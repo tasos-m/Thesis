@@ -1,0 +1,121 @@
+A PI must be able to properly record all metadata . 
+A researcher must be able to indicate where his data will be stored during the project and where after the project . 
+A researcher must be able to import metadata that he captureds with a metadata tool . 
+A data manager must be able to develop more detailed usage and support scenarios with researchers . 
+A repository owner must be able to check the planned provenance of the data that will be submitted at the end of a project . 
+A repository owner must be able to calculate necessary submission fees and check whether It belongs to our target group . 
+An IT manager must be able to know about IT resource requirements early in the project lifecycle . 
+An IT manager must be able to enable resource acquisition planning . 
+A PI must be able to plan what kind of data he must be able to record and store . 
+An IT staff member must be able to know the security requirements of the data . 
+A data manager must be able to have the description of collected data sets that are used or updated throughout the project lifecycle . 
+A researcher must be able to know which topics are mandatory and similar in all DMPs . 
+A data manager must be able to know what the content of the data is . 
+A data manager must be able to decide to which collection or repository the Data fits . 
+A PI must be able to record information about his DMP . 
+A legalofficer must be able to know about data sensitivity . 
+A legalofficer must be able to establish sharing options . 
+A data librarian must be able to extract pointers from the DMP to metadata held in other systems . 
+An IT staff member must be able to have an estimate of the produced data volume . 
+An IT staff member must be able to plan the overall storage consumption . 
+An administrator must be able to know who funded the project and their requirements . 
+An administrator must be able to track the funder specific obligations . 
+An archivemanager must be able to know the legal status of data . 
+An archivemanager must be able to apply the legal requirements accordingly . 
+A data manager must be able to know which kind of data types will be produced or collected . 
+A data manager must be able to determine what basic support services and functionalities are required . 
+An IT staff member must be able to know which kind of data types will be produced or collected . 
+An archivemanager must be able to know in advance the conservation period of data . 
+A data manager must be able to document all rights necessary for managing the data . 
+A data manager must be able to curate and preserve the data . 
+A data manager must be able to know what the content of the data is . 
+A data manager must be able to check whether the necessary Expertise for maintaining intellectual reusability is available . 
+A research head must be able to access to the persistent identifiers of datasets provided in the DMP . 
+A funder must be able to read the costs for data management from the DMP . 
+A researcher must be able to have the DMP prepopulate information that he has already entered in other institutional systems . 
+A stakeholder must be able to know when the data management plan was created or updated . 
+A stakeholder must be able to know who is responsible for the DMP . 
+A stakeholder must be able to have references to the project proposal . 
+A stakeholder must be able to look up further general information . 
+A metadata manager must be able to have a short description of project . 
+A rector must be able to know how many data will be stored . 
+A rector must be able to plan long term resources . 
+A data manager must be able to know the time plan for collecting data . 
+A data manager must be able to plan the data management . 
+A data librarian must be able to import administrative information regarding a project into DMP . 
+A data librarian must be able to prepopulate the DMP . 
+A manager must be able to know about all resources and services used for the data . 
+A manager must be able to estimate the true cost of the project . 
+An archivemanager must be able to reuse the information regarding file format . 
+An archivemanager must be able to apply automated checks for the file validation . 
+A researcher must be able to know how many resources are needed during the project . 
+A researcher must be able to calculate costs . 
+A researcher must be able to extract the description of the data collected . 
+A researcher must be able to record research publications in the institutional repository or CRIS with DMP records . 
+A researcher must be able to generate reports of research output resulting from a project . 
+A researcher must be able to link research publications in the institutional repository or CRIS with DMP records . 
+A researcher must be able to store agreements relating to third party data used in a project . 
+An ethics manager must be able to be informed about the data . 
+An ethics manager must be able to check for sensitivity of data . 
+A repository operator must be able to know about the kind of data . 
+A repository operator must be able to evaluate the storage size and system . 
+A researcher must be able to know about costs . 
+A researcher must be able to plan his research . 
+A repository manager must be able to have details on the type of data . 
+A repository manager must be able to check if the archiving must be able to be arranged . 
+An IT officer must be able to know how secure data is . 
+An IT officer must be able to ensure legal compliance . 
+A funder must be able to know how secure data is . 
+A funder must be able to ensure legal compliance . 
+A Research Centre Director must be able to receive regular summary reports of research data . 
+A Research Centre Director must be able to understand trends in data use among staff and postgraduate students . 
+A Postgraduate Convenor must be able to receive regular summary reports of research data . 
+A Postgraduate Convenor must be able to understand trends in data use among staff and postgraduate students . 
+A research support officer must be able to ensure compliance to the funders ’ rules . 
+A research support officer must be able to ensure all costs will be accepted . 
+A funder must be able to check all the repositories mentioned in a DMP . 
+A funder must be able to verify whether the Project has followed our funding rules . 
+A PI must be able to plan what kind of data he must be able to store . 
+A PI must be able to ensure It will be possible to store it . 
+A PI must be able to know how secure data is . 
+A PI must be able to ensure legal compliance . 
+A Director of Research Integrity must be able to access reports containing details of research projects in which data are classified as low or highlys sensitive . 
+A Director must be able to confirm security protocols are applied to these data . 
+An archive must be able to get information about the volume of data to preserve at an early stage . 
+An archive must be able to provide the adequate storage infrastructure . 
+A researcher must be able to know how long it will take to archive . 
+A researcher must be able to plan further steps . 
+A PI must be able to know who owns the data . 
+A data manager must be able to have references to documentation of the data and its creation process . 
+An archivemanager must be able to make sure that detailed metadata are associated to data . 
+A data manager must be able to know which kind of data types will be produced or collected . 
+A data manager must be able to ensure the necessary technical Resources and technical know - how is available . 
+An IT staff member must be able to know which kind of data types will be produced or collected . 
+An IT staff member must be able to ensure the necessary technical Resources and technical know - how is available . 
+An IT staff member must be able to know how the data is used . 
+An IT staff member must be able to determine what kind of basic services and functionalities are required . 
+A data manager must be able to know whether the collected data depends on other data sets from his own or other institutions . 
+An IT staff member must be able to know which formats are used . 
+An IT staff member must be able to determine what kind of technical services and functionalities are required . 
+An IT staff member must be able to know with which software or technology the data is produced or used . 
+A data manager must be able to know which information is necessary to re - use the data . 
+A data manager must be able to know which formats are used . 
+A research evaluation manager must be able to ensure all data are quoted correctly with our affiliation . 
+An administrator must be able to check that all data has the appropriate security level . 
+An administrator must be able to demonstrate compliance . 
+A data manager must be able to know the security requirements of the data . 
+A institutional data steward must be able to extract the data sets that are submitted to external repositories . 
+A institutional data steward must be able to add them to an institutional data catalogue . 
+An institutional data manager must be able to know about the privacy and security requirements of the data . 
+An institutional data manager must be able to plan the right storage system and sharing permissions . 
+A researcher must be able to see the sections on costing by other researchers in his department . 
+A researcher must be able to see the sections on roles submitted by other researchers in his department . 
+A researcher must be able to see the sections on responsibilities submitted by other researchers in his department . 
+A faculty data steward must be able to see the sections on costing . 
+A faculty data steward must be able to see the sections on roles . 
+A faculty data steward must be able to see the sections on responsibilities . 
+A data manager must be able to clarify the necessary rights for re - using the data . 
+A researcher must be able to record his intention to share data he has collected under terms of a particular licence . 
+A data manager must be able to plan the anonymization of data . 
+A repository manager must be able to have metadata in additional languages . 
+A data manager must be able to know whether the DMP was approved . 

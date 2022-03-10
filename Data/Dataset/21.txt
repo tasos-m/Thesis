@@ -1,0 +1,25 @@
+The user must be able to login through DNA authentication.
+The user must be able to register.
+The user must be able to logout.
+The system must be able to delete users.
+The system must be able to allow access only to extraterestrial users.
+The system must be able to sound an alarm, if a human user logs in
+The system must be able to locate the terminal where login was attempted.
+The system must be able to force logout, if a malfunction occurs.
+The pilot must be able to start and stop the system through a voice call.
+The pilot must be able to navigate the system through a 3d screen. 
+The pilot must be able to control the vehicle through voice calls.
+The system must be able to validate the correct positioning of the pilot.
+The system must be able to inform the pilot on fuel consumption.
+The system must be able to be able to monitor the surrounding space through radars.
+The system must be able to warn the pilot if a collision is probable.
+The system must be able to provide the pilot with vital information on the vehicle.
+The pilot must be able to activate and deactivate the auto pilot.
+The pilot must be able to sound an alarm. 
+The system must be able to provide users with the ability to contact other users.
+The weapon manager must be able to manage weapons.
+The system must be able to provide information on weapons to the weapon manager.
+The system must be able to provide information on hostile vehicles to the weapon manager.
+The system must be able to provide information on friendly vehicles to the weapon manager. 
+The system must be able to simulate the route of ammunition.
+The system must be able to warn, if an attack takes place.

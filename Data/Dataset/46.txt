@@ -1,0 +1,94 @@
+A anonymoususer must be able to view a list of sponsors . 
+A anonymoususer must be able to thank all the awesome sponsors . 
+A anonymoususer must be able to view a list of user profiles . 
+A trainingcoordinator must be able to email all the trainers at once from the website for info and updates . 
+A attendee must be able to have a very clear map where the buildings and rooms are . 
+A trainer must be able to edit his training node himself . 
+A trainee must be able to limit to one registration per day per authenticated user . 
+A trainingcoordinator must be able to have an admin view that helps track registration status for each attendee . 
+A attendee must be able to be added to a training waitlist . 
+A trainee must be able to must accept the cancellation terms with a checkbox . 
+A trainingcoordinator must be able to tie in a cancellation deadline to whatever registration / cancellation workflow exists . 
+"A trainee must be able to add to ""my schedule"" if there is a schedule feature on the site . "
+A trainee must be able to see which trainings he has signed up for . 
+A trainer must be able to have a view that is attached to their training node that shows all attendee information Trainers can see all class attendance at first because there are so little trainers and they are trusted with privacy . 
+A trainingcoordinator must be able to have an admin view where all trainee information is shown and can be filtered to show a single training session . 
+A anonymoususer must be able to have a dedicated page for each class to learn more about the offering The following information must be shown . 
+A anonymoususer must be able to choose the right class 
+The Trainer must be able to tweet and promote their class .
+A anonymoususer must be able to have the training options clearly marked for the following information . 
+A anonymoususer must be able to shop for training all with one page AND find their class on on one page . 
+A anonymoususer must be able to have a training landing page with an intro section and a list of all training offerings and promote call for trainings . 
+A anonymoususer must be able to shop for training all with one page and We must be able to have a call for trainings for selection . 
+A anonymoususer must be able to have a link on the home page to a list of training options . 
+A administrator must be able to refund sponsorship money that was processed via stripe . 
+A authenticateduser must be able to find a link on the sponsorships page to become a $ 350 level sponsor . 
+A authenticateduser must be able to pay for and become a sponsor role . 
+A anonymoususer must be able to See a list of attendees associated with this company . 
+A authenticateduser must be able to identify himself as and pay for a $ 350 company sponsorship . 
+A authenticateduser must be able to easily become a sponsor at this level without having to interface with badcamp personnel to get a sponsorship . 
+A administrator must be able to create and maintain venues . 
+A administrator must be able to provide location details to help Users find what They 're looking for . 
+A anonymoususer must be able to view venue details . 
+A anonymoususer must be able to see a list of the sessions associated with sponsor attendees . 
+A authenticateduser must be able to See a payment page to pay for his individual sponsorships as the third step of the registration process . 
+A administrator must be able to assign sponsors to events . 
+A anonymoususer must be able to see all events . 
+A authenticateduser must be able to Enter payment information and has his card charged for an individual sponsorship . 
+A authenticateduser must be able to pay for an individual sponsorship . 
+A sponsor must be able to link BADCamp attendees to his sponsorship page . 
+A authenticateduser must be able to update his user profile . 
+A anonymoususer must be able to sign up for the BADCamp newsletter . 
+A administrator must be able to tag his blog posts for consumption by Drupal Planet . 
+A administrator must be able to create blog posts . 
+A administrator must be able to share the latest information about BADCamp with the public . 
+A anonymoususer must be able to read the blog . 
+A sponsor must be able to sponsor a summit that matches his brand . 
+A sponsor must be able to get exposure to potential customers and otherwise tout his Drupal credentials . 
+A attendee must be able to register for a summit . 
+A attendee must be able to reserve his seat at the summit . 
+A attendee must be able to get detailed directions to the summit venue . 
+A attendee must be able to get to the summit easily on the day of the event . 
+A attendee must be able to see what summits he is signed up for . 
+A attendee must be able to confirm his attendence and prevent himself from accidentally double - booking with a training or another summit . 
+A summit coordinator must be able to see a list of attendees signed up for his summit . 
+A summit coordinator must be able to communicate with his attendees by email prior to the event . 
+A summit coordinator must be able to list basic information about his summit . 
+A summit coordinator must be able to inform potential attendees on why They should attend his summit . 
+A summit coordinator must be able to list sponsors for his summit . 
+A summit coordinator must be able to make sure Sponsors feel rewarded and will be interested in sponsoring in future years . 
+A summit coordinator must be able to list an agenda for his summit . 
+A summit coordinator must be able to entice attendees and give positive feedback to presenters to encourage participation . 
+A anonymoususer must be able to see how many seats are left for the summit . 
+A anonymoususer must be able to see specific details on summits . 
+A anonymoususer must be able to see a list of all the summits . 
+A anonymoususer must be able to learn about sponsorship levels . 
+A anonymoususer must be able to determine the right level of sponsorship for his organization . 
+A authenticateduser must be able to use a WYSIWYG editor for all long . 
+A sponsor must be able to link to his sponsorship profile from his job listings . 
+Recruits must be able to learn more about his organization . 
+A anonymoususer must be able to learn about posting jobs as a sponsor and contact the sponsorship person . 
+A anonymoususer must be able to post his job listing on the BADCamp site . 
+A sponsor must be able to post a job . 
+A authenticateduser must be able to view the job board . 
+A administrator must be able to assign a room to a time slot and a location . 
+A anonymoususer must be able to see the schedule . 
+A anonymoususer must be able to see the final list of sessions approved . 
+A administrator must be able to bulk approve sessions as accepted . 
+A administrator must be able to mark a session as accepted . 
+A administrator must be able to populate the schedule . 
+A anonymoususer must be able to receive a notification when sessions has been evaluated . 
+A anonymoususer must be able to receive a notification when he submits a session . 
+A authenticateduser must be able to edit his session . 
+A anonymoususer must be able to register to speak at BADCamp . 
+A authenticateduser must be able to submit a session at BADCAMP . 
+A authenticateduser must be able to get his Session evaluated . 
+A sponsor must be able to personalize his sponsorship page . 
+A sponsor must be able to promote his brand . 
+A anonymoususer must be able to see a list of all the summits that include when they are . 
+A authenticateduser must be able to Be offered several choices of idividual sponsorship on the second page of registration . 
+A anonymoususer must be able to easily find a link in the menu that links to the registration form . 
+A anonymoususer must be able to fill out a user registration form . 
+A anonymoususer must be able to register for the camp and get an account on the website . 
+A anonymoususer must be able to find session information . 
+A anonymoususer must be able to go to a session .

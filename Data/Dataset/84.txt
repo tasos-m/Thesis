@@ -1,0 +1,34 @@
+The user must be able to create a stixoiman account
+The user must be able to login to the system
+The user must be able to navigate to available bets
+The user must be able to select the betting category
+the user must be able to see the betting odds of each bet
+The user must be able to see his open bets
+The user must be able to see his arranged bets
+The user must be able to see the cashed out bets
+The user must be able to search for a bet
+the user must be able to place bets
+The user must be able to see his remaining money
+the user must be able to deposit money to its own account
+The user must be able to see every option for every bet
+The system must be able to recommend the most popular bet of the day
+The user must be able to contact to communicate with Stixoiman via Viber
+The user must be able to send an Email
+The user must be able to use the live chat
+The user must be able to see his inbox
+The user must be able to fix the settings
+The user must be able to select in which language he wants his app
+The admin must be able to pause a bet
+the admin must be able to change the odds of a bet
+The user must be able to build a bet
+The user must be able to withdraw money
+the user must be able to see schedules for all games
+the user must be able to see the results of the games
+the user must be able to see account movements
+the user must be able to place a long bet
+the user must be able to select the way of depositing money
+the user must be able to see the stats of the teams or players before placing a bet
+the user must be able to play casino games
+The user must be able to navigate to top casino games
+the user must be able to play live casino
+the system must be able to send notifications to users

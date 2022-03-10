@@ -1,0 +1,10 @@
+The user must be able to get notified by the smart lamb effector when motion is detected in the saloon area.
+The user must be able to have the heat automatically opened when temperature is below 20 in the bedroom1 area.
+The user must be able to have the plants in the garden automatically watered when temperature in the saloon is above 35.
+The user must be able to have the heat automatically opened when the humidity in kitchen is above 50.
+The user must be able to have the smart device play a specific song when motion is detected in bedroom1.
+The user must be able to get notified by the alarm when gas in saloon is above 20.
+The user must be able to have the lights in toilet on when motion is detected in the toilet.
+The user must be able to have the water value automatically closed when humidity in saloon area is above 60.
+The user must be able to have the alarm on when motion is detected in bedroom2.
+The user must be able to give a command in order to close the lights in bedroom1 in the smart device.

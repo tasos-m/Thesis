@@ -1,0 +1,27 @@
+The user must be able to create a new user account
+The user must be able to edit the password of his account
+The user must be able to login to the application
+The user must be able to logout of the application
+The administrator user must be able to view all user accounts
+The administrator user must be able to delete a user account
+The user must be able to create a new Blog
+The user must be able to set the title, description, address and theme of his Blog
+The user must be able to set his Blog's visibility to public
+The user must be able to set his Blog's visibility to private
+The user must be able to view all his Blogs
+The user must be able to create a new Post
+The user must be able to set the title and the content of his Post
+The user must be able to delete his Post
+The user must be able to publish his Post
+The user must be able to view all his Posts
+The guest user must be able to write a Comment for a Post
+The guest user must be able to edit his Comment
+The user must be able to view all the Comments of his Posts
+The user must be able to delete a Comment
+The user must be able to approve a Comment
+The user must be able to set a Comment as spam
+The user must be able to create a new Page with static information
+The user must be able to edit his Page
+The user must be able to delete his Page
+The user must be able to view the traffic for his Blog
+The user must be able to follow other Blogs' activity

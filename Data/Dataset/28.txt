@@ -1,0 +1,35 @@
+The user must be able to login to the system.
+The user must be able to register to the system.
+The user must be able to logout from the system.
+The system must be able to authenticate the user upon login.
+The user must be able to edit his personal data.
+The user must be able to select a player.
+The user must be able to edit a player.
+The user must be able to buy equipment for his player.
+The system must be able to provide a map of the terrain in order for the user to be able to navigate.
+The user must be able to chat with other players.
+The user must be able to control his player.
+The user must be able to monitor his player.
+The user must be able to join a group.
+The system must be able to promote a user to group leader.
+The group leader must be able to ban a user.
+The user must be able to pause, save and exit.
+The system must be able to provide a history of facts to the user.
+The system must be able to provide stats to the user.
+The system must be able to provide indicators on the health, hunger, tireness, need for sleep of the player. 
+The user must be able to delete his account.
+The user must be able to exchange equipment and money with other users.
+Ths user must be able to categorize other users as friends or enemies.
+The user must be able to buy and sell buildings for his player.
+The user must be able to buy and sell goods for his player.
+The user must be able to exchange his player with another user.
+The user must be able to free his player.
+The user must be able to inherit another player, if his player dies.
+The system must be able to define war zones.
+The user must be able to call another user to combat.
+The user must be able to train on new weapons.
+The user must be able to retrieve his password through email.
+The system administrator must be able to record game data, keep statistics, backup data.
+The system administrator must be able to control the correct functioning of the players.
+The system administrator must be able to punish or ban user, if they violate game rules.
+The user must be able to follow his group rules.

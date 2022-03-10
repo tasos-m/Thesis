@@ -1,0 +1,10 @@
+System must be able to automatically create references to copied content and insert them into user's content.
+System must be able to automatically collect content that is currently being written or edited using online tools .
+System must be able to automatically collect basic context if user is using MediaWiki for creating or editing content
+System must be able to automatically collect advanced context if user is using Moodle or WikiPres for creating or editing content
+System must be able to automatically collect slides of presentation that is currently being edited using WikiPres.
+System must be able to automatically send collected content and basic context to Zemanta.
+System must be able to receive results of processing the content (keywords) from Zemanta.
+System must be able to display received keywords sorted by priority.
+System must be able to search Delicious, Wikipedia and other content sources for relevant content based on keywords, basic and advanced context.
+System must be able to display results of searching (links) Delicious, Wikipedia and other content sources, sorted by priority.

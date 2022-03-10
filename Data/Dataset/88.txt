@@ -1,0 +1,37 @@
+the user must be able to create an account
+the user must be able to navigate through music tracks
+the user must be able to create own playlists
+the user must be able to add tracks in playlists
+the user must be able to follow other users' playlists
+the user must be able to rearrange own playlists
+the user must be able to delete tracks from own playlists
+the user must be able to delete tracks from own favorites
+the artist must be able to create a profile
+the administrator must be able to verify the artist
+the artist must be able to upload own tracks
+the artist must be able to create own playlists
+the artist must be able to keep track of own account's popularity
+the podcaster must be able to have a validated account
+the podcaster must be able to upload older podcast-episodes
+the podcaster must be able to keep track of own account's traffic
+the podcaster must be able to create theme-based playlists of own podcasts
+the podcaster must be able to rearrange own playlists
+the podcaster must be able to delete own podcast-episodes
+the administrator must be able to validate users' accounts
+the administrator must be able to delete accounts that do not comply with the rules
+the administrator must be able to have access to users' data
+the administrator must be able to create starter playlists
+the administrator must be able to rearrange starter playlists
+the administrator must be able to delete starter playlists
+the administrator must be able to contact users
+the administrator must be able to keep track of acounts' traffic
+the administrator must be able to categorize different music genres
+the administrator must be able to rearrange suggested playlists
+The user must be able to handle own history as another playlist
+the free user must be able to watch the whole advertisement
+the premium user must be able to have access to the whole content, ad-free
+the user must be able to cancel own's premium membership
+the user must be able to view the homepage
+the administrator must be able to keep the homepage up-to-date
+the user must be able to navigate through the homepage's sections
+the user must be able to add content from homepage to own's playlists

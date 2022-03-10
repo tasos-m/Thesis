@@ -1,0 +1,80 @@
+A user must be able to click on the address and visit Google Maps in a new tab. 
+A user must be able to anonymously view public information . 
+A user must be able to enter his zip code and get a list of nearby recycling facilities . 
+A user must be able to get the hours of each recycling facility . 
+A user must be able to arrange drop - offs on his off days or during after - work hours . 
+A user must be able to have a flexible pick up time . 
+A user must be able to more conveniently use the website . 
+A user must be able to select different types of recyclable waste . 
+A user must be able to find an optimal route and schedule . 
+A user must be able to add donation centers as favorites on his profile . 
+A user must be able to view them later . 
+A user must be able to give his email ID . 
+A user must be able to receive notifications for new events as they are posted . 
+A user must be able to view a map display of the public recycling bins around his area . 
+A user must be able to view a map display of the special waste drop off sites around his area . 
+A user must be able to view the safe disposal events currently being organised around his area . 
+A user must be able to choose a flexible pick up time . 
+A user must be able to more conveniently use the website . 
+A user must be able to view user documentation for the website . 
+A user must be able to get feedback when he enters an invalid zip code . 
+A user must be able to create an acocunt . 
+A user must be able to create his own profile . 
+An admin must be able to add or remove recycling facilities ' information . 
+An admin must be able to read users ' feedback and complaints . 
+An admin must be able to add more features and keep improving the service he provides to them . 
+A user must be able to check transaction history and keep a record of it . 
+A user must be able to have a great UI and UX from the sites . 
+A user must be able to access the site and do all the other stuffs on all of his electronic devices . 
+An admin must be able to block specific users based on IP address . 
+An admin must be able to prevent spamming on the websites . 
+An admin must be able to view a dashboard that monitors all the sites ' statuses . 
+An admin must be able to have a sense of what People are doing on our sites and know the service status . 
+An admin must be able to have all data encrypted . 
+An executive must be able to have full access to data related to his company . 
+An employee must be able to access the route planning system during work . 
+An employee from the HR department must be able to have access to the full information of all employees working for this business . 
+A developer must be able to access an API from the website . 
+A user must be able to receive tempting rewards . 
+A user must be able to have his personal information kept securely in the database of the website . 
+An admin must be able to handle all users ' activities . 
+A company must be able to have a website that is easy to use . 
+A company must be able to upload or delete stuff step by step . 
+An employee must be able to get quick notifications . 
+An employee must be able to process cases the first time . 
+A company accountant must be able to view all available activity fees online . 
+A company accountant must be able to easily create a bill statement . 
+A developer must be able to use bootstrap in the process of developing . 
+A developer must be able to easily design his website . 
+A developer must be able to attend some UI / UX lessons . 
+A developer must be able to develop an awesome and beautiful features website . 
+A user must be able to view all locations of recycling centers on a map . 
+A user must be able to check which routes to take to drop off waste . 
+A user must be able to upload his week 's schedule . 
+A user must be able to get recommendations for recycling centers That best fit his availability . 
+A user must be able to link his email account to his profile . 
+A user must be able to get a temporary password in case he forgets his own one . 
+A user must be able to contact the administrators . 
+A user must be able to give feedback or ask for help . 
+An admin must be able to add recycling center information . 
+An admin must be able to keep the database up - to - date over time . 
+An admin must be able to view user error logs . 
+An admin must be able to fix or review any issues are being faced by users of the system . 
+An admin must be able to onboard recycling centers on the platform . 
+An admin must be able to increase information accuracy . 
+A superuser must be able to update the recycling center information . 
+A superuser must be able to provide the latest information about the recycling center . 
+A superuser must be able to view users ' stats . 
+A superuser must be able to view in real - time how many Users has visited his recycling center information and their recyclable waste . 
+A superuser must be able to reply to user questions . 
+A superuser must be able to answer any questions about his recycling center . 
+An admin must be able to have a dashboard that shows usage stats and locations . 
+An admin must be able to identify the neighbourhoods with the largest number of drop - offs and to try getting more facilities involved . 
+An admin must be able to communicate directly with facilities . 
+An admin must be able to keep them updated about features We has on our website . 
+A user must be able to browse through the list of facolities and see which ones are environment . 
+A recycling facility representative must be able to update his information and the type of material he accepts . 
+A recycling facility representative must be able to avoid any miscommunication with users . 
+A recycling facility representative must be able to have access to user stats and schedules . 
+A recycling facility representative must be able to adjust his hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials . 
+A recycling facility must be able to communicate directly with the site admin and convey any issues or concerns he has . 

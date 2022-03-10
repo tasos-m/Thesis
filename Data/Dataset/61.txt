@@ -1,0 +1,30 @@
+The logged-in user must be able to place an order.
+The logged-in user must be able to edit his order.
+The logged-in user must be able to cancel his order.
+The logged-in user must be able to see the available restaurants in his area.
+The logged-in user must be able to select a food category.
+The logged-in user must be able to select a payment method.
+The logged-in user must be able to select nearby restaurants
+The logged-in user must be able to sort restaurants by price range.
+The logged-in user must be able to sort restaurants by reviews.
+The logged-in user must be able to view his profile.
+The logged-in user must be able to review a restaurant.
+The logged-in user must be able to edit his profile.
+The logged-in user must be able to add special comments for his order.
+The logged-in user must be able to see the state of his order.
+The logged-in user must be able to see previous orders.
+The logged-in user must be able to add a restaurant to his list of favourite preferences.
+The logged-in user must be able to add more than one adresses to his profile.
+The logged-in user must be able to edit an adress in his profile.
+The logged-in user must be able to chat with the Efood support team.
+The logged-in user must be able to see the menu of his selected restaurant.
+The logged-in user must be able to choose products for his order from the restaurant menu.
+The logged-in user must be able to choose his order to be delivered.
+The logged-in user must be able to choose his order to be prepared for takeaway.
+The logged-in user must be able to add/remove ingredients from a product.
+The logged-in user must be able to edit a review he has made
+The logged-in user must be able to see other users reviews.
+The logged-in user must be able to edit his card.
+The logged-in user must be able to add multiple cards as payment methods.
+The logged-in user must be able to use discount coupons.
+The logged-in user must be able to repeat a previous order.

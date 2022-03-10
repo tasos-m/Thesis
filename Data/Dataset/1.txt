@@ -1,0 +1,36 @@
+The Registered User must be able to create the new auction.
+Registered users must be able to have a login area.
+Non-registered Users must be able to have a registry area.
+Users must be able to view the auctions.
+Users must be able to view auctions in particular categories.
+Users must be able to search for auctions.
+Registered Users must be able to rate and comment the auctioneer and his product, when the product has been delivered.
+Registered Users must be able to place bids.
+Registered User must be able to buy item due "Buy it now".
+Registered Users must be able to contact auctions owners.
+The System must be able to display few related auctions according to the one currently displayed to the User.
+The System must be able to include simple feedback system in order to allow Users to send emails to Administrator or Moderators.
+Registered User must be able to view profile of other Users.
+Users must be able to display details of particular auction.
+Registered User must be able to edit his auctions.
+Moderator must be able to manage Users accounts.
+Moderator must be able to suspend Users accounts.
+Moderator must be able to delete Users accounts.
+Moderators must be able to delete auctions.
+The Registered User must be able to manage his auctions.
+The Registered User must be able to set notification details for his auctions.
+The Registered User must be able to delete his auctions.
+The Registered User must be able to add an auction to his account.
+Registered User must be able to add other Users to "Favourite Users".
+Moderator must be able to remove bids from auction.
+Business Manager must be able to generate predefined statistic reports.
+Administrator must be able to manage categories.
+Administrator must be able to place auction on title page.
+Administrator must be able to manage user's and moderator's accounts.
+Administrator must be able to add user's and moderator's accounts.
+Administrator must be able to delete user's and moderator's accounts.
+The user must be able to be notified if he has been over bid.
+Administrator must be able to manage banners for various purposes. 
+The Registered user must be able to have a range of maximum amount for each bid.
+The system must be able to provide the list of users bidding a current auction with the list of their bids.
+Users must be able to view the FAQ section.

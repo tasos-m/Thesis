@@ -1,0 +1,11 @@
+The user must be able to preview a product
+The user must be able to search for a product
+The user must be able to navigate through the product categories
+The user must be able to select product quantity
+The user must be able to edit product quantity
+The user must be able to add a product to the cart
+The user must be able to delete a product from the cart
+The user must be able to check out a cart
+The user must be able to store a cart
+The user must be able to add and delete a product to his/her favorites
+The user must be able to chat to a salesman

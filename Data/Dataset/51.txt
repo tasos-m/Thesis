@@ -1,0 +1,120 @@
+An archivist must be able to apply a license or rights statement . 
+An archivist must be able to mark individual files as restricted . 
+An archivist must be able to mark groups of files as restricted . 
+An archivist must be able to restrict a file from view . 
+An archivist must be able to restrict a group of files from view . 
+An archivist must be able to set a date on which restrictions will be removed from a file . 
+An archivist must be able to add restriction end date information to files . 
+An archivist must be able to share files when They become open . 
+An archivist must be able to add detailed restrictions to groups of files . 
+An archivist must be able to restrict access to some files by IP address . 
+An archivist must be able to restrict access to certain files by user . 
+An archivist must be able to know if a photo has already been scanned . 
+An archivist must be able to select existing rights statuses and statements . 
+An archivist must be able to redact information in digital files for a period of time . 
+An archivist must be able to have an online form for licensing archival material . 
+the Process is more transparent and some of the back and forth must be able to be eliminated . 
+An archivist must be able to batch edit metadata about files . 
+An archivist must be able to upload a single file . 
+An archivist must be able to upload groups of files . 
+An archivist must be able to automatically create access copies of files . 
+An archivist must be able to automatically generate technical metadata . 
+An assistant archivist must be able to upload staff generated working papers . 
+An archivist must be able to distinguish between digital objects digitized to preservation standards and those created for access purposes only . 
+An archivist must be able to link electronic versions of researchers ' publications to citations . 
+An archivist must be able to upload scans of images created while answering research requests . 
+An archivist must be able to create quality scans of images and documents . 
+An archivist must be able to automatically create access derivatives of digital objects . 
+An archivist must be able to automatically assign unique identifiers to material he scans . 
+An archivist must be able to automatically embed metadata in file headers . 
+An archivist must be able to rotate images . 
+An archivist must be able to apply automatic contrast and level operations to a scanned file . 
+An archivist must be able to perform contrast . 
+A donor representative must be able to supply incremental accruals to new and existing collections . 
+An archivist must be able to manage scans of archival material created for educational visits . 
+An archivist must be able to manage loan documentation . 
+A researcher must be able to generate structured citation data . 
+A researcher must be able to share a link to a file on social media . 
+A researcher must be able to understand the copyright status of the image . 
+A researcher must be able to clear citation information on each document . 
+A researcher must be able to share reports he ' ve written . 
+A researcher must be able to download a file . 
+A researcher must be able to download reports . 
+A researcher must be able to locate photographs and documents that he can share on social media . 
+A researcher must be able to request analog versions of digital objects . 
+A researcher must be able to order copies of photos . 
+A researcher must be able to receive a notification if something he requests in the reading room or for duplication is already digitized . 
+An archivist must be able to make information about rights available to researchers and donors . 
+An archivist must be able to ensure that emails sent about specific objects contain accurate citation information . 
+A researcher must be able to stream audio and video files in his web browser . 
+A researcher must be able to export descriptive data in a common format . 
+An archivist must be able to track use of a photo . 
+An archivist must be able to see what a particular user has downloaded . 
+An archivist must be able to track use of assets . 
+An archivist must be able to provide access to digital copies of unprocessed material . 
+Donors must be able to access things they have given us . 
+An archivist must be able to make as much archival material as possible available for use . 
+An archivist must be able to use archival content on the RAC website . 
+An archivist must be able to integrate our collections into our web presence . 
+A donor representative must be able to access the descriptive information about the images scanned for his institutions needs . 
+A donor representative must be able to look at images that has been scanned from his collection . 
+A researcher must be able to search all files by keyword . 
+A researcher must be able to search by keyword . 
+A researcher must be able to learn What already exists digitally and avoid placing additional duplication requests . 
+A researcher must be able to see common material across collections . 
+A researcher must be able to browse through files in a collection . 
+An archivist must be able to browse through files in a collection . 
+An archivist must be able to search all files by keyword . 
+An archivist must be able to upload inventories . 
+An archivist must be able to search by tag . 
+An archivist must be able to access the digital files on the X - drive . 
+An assistant archivist must be able to easily access interdepartmental forms . 
+An archivist must be able to have electronic versions of the collection files available for staff use . 
+A researcher must be able to search across photo collection images . 
+A researcher must be able to prepare presentations . 
+A researcher must be able to search using structured data . 
+A researcher must be able to access tagged working papers . 
+A researcher must be able to access educational outreach materials . 
+A researcher must be able to make connections with institutions . 
+A researcher must be able to have accurate cross - collection citation information . 
+A researcher must be able to access digitized archival materials without mediation . 
+An archivist must be able to distinguish between images scanned in color or black and white . 
+A researcher must be able to ask a question about a specific file . 
+A researcher must be able to search OCRed text in all available digitized textual documents . 
+A researcher must be able to know the date on which something was digitized . 
+A researcher must be able to keyword search across all of an RF program officer 's scanned diaries . 
+A researcher must be able to more efficiently locate diary entries relevant to his research . 
+An archivist must be able to access inventories for unprocessed collections . 
+An archivist must be able to provide reference services to donors . 
+A researcher must be able to view thumbnails of photos . 
+A researcher must be able to know when only part of a folder has been digitized . 
+A donor representative must be able to see thumbnails of images . 
+An researcher must be able to view film clips . 
+An researcher must be able to see excerpts of films . 
+An archivist must be able to search images by photographer . 
+An archivist must be able to search images by people represented in them . 
+An archivist must be able to search images by place the photo was taken . 
+An archivist must be able to search images by rights . 
+An archivist must be able to search index cards and other non - public finding aids . 
+An archivist must be able to provide better research assistance . 
+An archivist must be able to view collection files . 
+An archivist must be able to gain background information for processing a collection . 
+An archivist must be able to view physical locations for non - archival material . 
+An archivist must be able to provide research services to donors . 
+An archivist must be able to find files that can not be made publicly available . 
+An archivist must be able to easily access everything 's been digitized . 
+An archivist must be able to access metadata and visual representations of index cards . 
+An archivist must be able to use information to assist researchers . 
+An archivist must be able to search individual material types . 
+An archivist must be able to search images by uploading an image . 
+An administrator must be able to create user groups . 
+An administrator must be able to control user permissions . 
+An administrator must be able to create user roles . 
+An administrator must be able to group users by role . 
+An administrator must be able to assign RAC staff to different user groups . 
+An administrator must be able to Control read and write access . 
+An administrator must be able to assign rights to user groups or roles . 
+An administrator must be able to allow users to log in using Active Directory credentials . 
+An administrator must be able to have researchers reset their own passwords . 
+An administrator must be able to limit who can see certain metadata fields . 
+An administrator must be able to show or hide things from display based on user groups . 

@@ -1,0 +1,10 @@
+Users must be able to register themselves into the system in order to publish information in the Forum.
+User must be able to ask for a tour depending on his preferences.
+System must be able to provide information about the existing routes and sections of the museum.
+The administrator must be able to login in the system in order to fulfill his functions.
+The application must be able to provide a search tool.
+User must be able to buy souvenirs through the portal.
+User must be able to ask for a graphical information in the museum map.
+The system must be able to generate Statistics for the administrator.
+The museum staff must be able to login into the system in order to use it.
+Administrator must be able to modify the contents of the portal.

@@ -1,0 +1,123 @@
+Auctioneer System
+BuySafe
+Car Gossip
+E-Health Service
+EasyTV
+GiftCase
+HelpMe
+HotSpotManagement
+Lets Help Bo
+Open Museum
+ProjectLibrary
+ProjectMedical
+ProjectNews
+ProjectPhoto
+ProjectPlay
+ProjectStore
+RestMaps
+Restmarks
+SCaseReqs
+Search4Yummy
+ShrimpShip
+SmartCar
+SmartCart
+SmartGo
+Software Patterns
+Taraxacum
+TheMatrix
+TheOthers
+WikiPres
+WOQ
+dataset 1
+g02-federalspending
+g03-loudoun
+g04-recycling
+g05-openspending
+g08-frictionless
+g10-scrumalliance
+g11-nsf
+g12-camperplus
+g13-planningpoker
+g14-datahub
+g16-mis
+g17-cask
+g18-neurohub
+g19-alfred
+g21-badcamp
+g22-rdadmp
+g23-archivesspace
+g24-unibath
+g25-duraspace
+g26-racdam
+g27-culrepo
+g28-zooniverse
+Erasmus2020
+RSE2020-THMMY
+RSE2020-Gmail
+RSE2020-Youtube
+RSE2020-Youtube2
+RSE2020-Shazam
+RSE2020-Blog
+RSE2020-efood
+RSE2020-Twitter
+RSE2020-Dropbox
+DiabetesProject
+Project mob (team 20)
+Tourista
+Fitness box
+Ulearn
+Foodman
+Healthicle
+e-Med
+Shotgun!
+myDimos
+eSoula
+VICK
+ViruSeeker
+Ether
+What can you do?
+Relief app
+Whatsapp
+Google Translate
+Efood
+E-Banking
+Stixoiman
+YouTube
+Pinterest
+TeroCoupons
+Tsagidi project (SPOTIFY APP)
+OTT TV
+Eshop demo project
+Tsagidi Project NodeRed
+Tsolakis Project Nodered
+Mikrouli project Nodered
+Gionavis project Nodered
+Patsika project Nodered
+Nastos project NodeRed
+Kalpakidis project Nodered
+Alexiou project Nodered
+SE2021 demo project
+WalkMe
+SE 2021 Project - 2
+LSP Management
+Proaid - Team 7
+SE 2021 Project - 5
+SE 2021 Project - 6
+SE 2021 Project - 7
+Self-Checkout Terminal
+Movinder
+weFeed
+Walkio
+NewsPub
+SE 2021 Project - 14
+SE 2021 Project - 15
+SE 2021 Project - 16
+SE 2021 Project - 17
+Book Warehouse
+BookLand
+Rapix
+EVPoint-SE 2021 Project - 21
+Travelink
+SE 2021 Project - 24
+SE 2021 Project - 25
+Safe Swim

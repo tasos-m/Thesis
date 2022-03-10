@@ -1,0 +1,30 @@
+The user must be able to create an event and their account is elevated to host privileges.
+The host must be able to update the the event.
+The host must be able to delete the event.
+The user must be able to register a user account.
+The user must be able to login to the system.
+The user must be able to change the password of his/her account.
+The user must be able to change his/her public nickname.
+The administrator must be able to delete a user created event.
+The administrator must be able to ban a user.
+The administrator must be able to rate users who create events.
+The user must be able to join an event.
+The user must be able to leave an event.
+The user must be able to rate an event.
+The user must be able to add other users to his/her event as a co-organizer.
+The user must be able to ask the user who created the event to change date or location.
+A user must be able to see the rating of a user who creates events.
+The user who created the event must be able to upload photos from the event.
+The user must be able to mark himself/herself on the photo from event.
+The user must be able to download photos from an event.
+The user who created an event must be able to send email updates to users who joined the event.
+The system automatically must be able to send email notifications to users attending an event if event details change.
+User must be able to comment on event if the user has joined the event.
+User must be able to share events on other social media platforms.
+A user who created an event must be able to share their event on other social media platforms.
+The user who created the event must be able to assign fees for his/her event.
+Users must be able to pay event fees through the system.
+Administrator must be able to verify users who applied to create events.
+Users who want to create events must be able to request verification from administrator.
+Users who create events must be able to collect payment from the system.
+Users must be able to get refunded from events.

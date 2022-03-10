@@ -1,0 +1,124 @@
+A Data user must be able to have the 12 - 19 - 2017 deletions processed . 
+A UI designer must be able to redesign the Resources page . 
+The Resources page must be able to match the new Broker design styles . 
+A UI designer must be able to report to the Agencies about user testing . 
+A UI designer must be able to move on to round 2 of DABS or FABS landing page edits . 
+A UI designer must be able to move on to round 2 of Homepage edits . 
+A UI designer must be able to move on to round 3 of the Help page edits . 
+A Developer must be able to log better . 
+A Developer must be able to troubleshoot issues with particular submissions and functions . 
+A Developer must be able to add the updates on a FABS submission to be modified when the publishStatus changes . 
+A Developer must be able to know when the Status of the submission has changed . 
+A DevOps engineer must be able to have New Relic provide useful data across all applications . 
+A UI designer must be able to move on to round 2 of the Help page edits . 
+A UI designer must be able to move on to round 2 of Homepage edits . 
+A UI designer must be able to get approvals from leadership . 
+A Broker user must be able to Upload and Validate the error message to have accurate text . 
+A Broker user must be able to have the D1 file generation synced with the FPDS data load . 
+A Broker user must be able not to regenerate a file if no data has been updated . 
+A Website user must be able to access published FABS files . 
+A Website user must be able to see the new files as They come in . 
+USAspending must be able to only send grant records to owner system . 
+A Developer must be able to update the Broker validation rule table to account for the rule updates in DB-2213 . 
+A Developer must be able to add the GTAS window data to the database . 
+A Developer must be able to ensure the site is locked down during the GTAS submission period . 
+A Developer must be able to have D Files generation requests managed and cached . 
+A user must be able to access the raw agency published files from FABS via USAspending . 
+An Agency user must be able to include a large number of flexfields without performance impact . 
+A Broker user must be able to have create content mockups . 
+A Broker user must be able to submit his data efficiently . 
+A UI designer must be able to track the issues that come up in Tech Thursday . 
+An Owner must be able to create a user testing summary from the UI SME . 
+An Owner must be able to know what UI improvements we will follow through on . 
+A UI designer must be able to begin user testing . 
+A UI designer must be able to validate stakeholder UI improvement requests . 
+A UI designer must be able to schedule user testing . 
+A UI designer must be able to give the testers advanced notice to ensure buy - in . 
+An Owner must be able to design a schedule from the UI SME . 
+An Owner must be able to know the potential timeline of the UI improvements wanted . 
+An Owner must be able to design an audit from the UI SME . 
+A Developer must be able to prevent users from double publishing FABS submissions after refreshing 
+A data user must be able to receive updates to FABS records . 
+An Agency user must be able to include a large number of flexfields without performance impact . 
+A Developer must be able to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header . 
+An agency user must be able to ensure that deleted FSRS records are not included in submissions . 
+A website user must be able to see updated financial assistance data daily . 
+A user must be able to have the publish button in FABS deactivate after he clicks it while the derivations are happening . 
+A Developer must be able to ensure that attempts to correct or delete non - existent records do n't create new published data . 
+An Owner must be able to reset the environment to only take Staging MAX permissions . 
+An Owner must be able to ensure the FABS Testers no longer has access . 
+A user must be able to have the flexfields in his submission file appear in the warning and error files when the only error is a missing required element . 
+A user must be able to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict . 
+An agency user must be able to have the FABS validation rules accept zero and blank for loan records . 
+An Agency user must be able to have FABS deployed into production . 
+An Agency user must be able to submit his Financial Assistance data . 
+A Developer must be able to clarify to users what exactly is triggering the CFDA error code in each case . 
+A Developer must be able to have his domain models indexed properly . 
+A Developer must be able to get validation results back in a reasonable amount of time . 
+An agency user must be able to have the FABS validation rules accept zero and blank for non - loan records . 
+A broker team member must be able to make some updates to the SQL codes for clarity . 
+An agency user must be able to have all derived data elements derived properly . 
+A broker team member must be able to add the 00 * * * * * and 00FORGN PPoPCode cases to the derivation logic . 
+A data user must be able to see the office names derived from office codes . 
+A data user must be able to have appropriate context for understanding them . 
+A broker user must be able to have the historical FABS loader derive fields . 
+"A broker team member must be able to ensure the Broker resources ,validations ,and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1 . "
+A Developer must be able to have the data loaded from historical FABS include the FREC derivations . 
+A Developer must be able to have consistent FREC data for USASpending.gov . 
+A user must be able not to see NASA grants displayed as contracts . 
+"A user must be able to have the DUNS validations accept records whose ActionTypes are B ,C ,or D and the DUNS is registered in SAM ,even though it may have expired . "
+"A user must be able to have the DUNS validations accept records whose ActionDates are before the current registration date in SAM ,but after the initial registration date . "
+A broker team member must be able to derive FundingAgencyCode . 
+An agency user must be able to have the maximum length allowed for LegalEntityAddressLine3 match Schema v1.1 . 
+An agency user must be able to use the schema v1.1 headers in his FABS file . 
+A agency user must be able to map the FederalActionObligation properly to the Atom Feed . 
+A Broker user must be able to have PPoPZIP+4 work the same as the Legal Entity ZIP validations . 
+A FABS user must be able to link the SAMPLE FILE on the . 
+A FABS user must be able to have an accurate reference for his agency submissions . 
+An Agency user must be able to have FPDS data up - to - date daily . 
+A user must be able to access the raw agency published files from FABS via USAspending . 
+A Developer must be able to determine how agencies will generate and validate D Files from FABS and FPDS data . 
+A user must be able to generate and validate D Files from FABS and FPDS data . 
+An Agency user must be able to have the header information box show updated date AND time . 
+An Agency user must be able to receive a more helpful file - level error when he uploads a file with the wrong extension . 
+A tester must be able to have access to test features in environments other than Staging . 
+A tester must be able to test any nonProd feature in any environment . 
+A FABS user must be able to submission errors to accurately represent FABS errors . 
+A FABS user must be able to have the frontend URLs more accurately reflect the page he is accessing . 
+An Agency user must be able to have historical FPDS data loaded . 
+An Agency user must be able to accurately see who created a submission . 
+An agency user must be able to get File F in the correct format . 
+An Agency user must be able to better understand his file - level errors . 
+A Developer must be able to provide FABS groups that function under the FREC paradigm . 
+A tester must be able to ensure that FABS is deriving fields properly through a robust test file plus a follow up check . 
+An owner must be able to have only zero-padded fields. 
+An owner must be able to justify padding . 
+A Broker user must be able to submit records for individual recipients without receiving a DUNS error . 
+A user must be able to have more information about how many rows will be published prior to deciding whether to publish . 
+A Developer must be able to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision . 
+A FABS user must be able to submit a citywide as a PPoPZIP and pass validations . 
+A Broker user must be able to have updated error codes that accurately reflect the logic and provide enough information . 
+A Broker user must be able to fix his submission . 
+An agency user must be able to leave off the last 4 digits of the ZIP without an error . 
+An agency user must be able to complete his submissions . 
+A FABS user must be able to make sure the historical data includes all necessary columns . 
+A data user must be able to access two additional fields from the FPDS data pull . 
+A FABS user must be able to have additional helpful info in the submission dashboard . 
+A FABS user must be able to better manage submissions and IG requests . 
+A FABS user must be able to download the uploaded FABS file . 
+A FABS user must be able to get the uploaded file . 
+A Developer must be able to quickly access Broker application data . 
+A Developer must be able to investigate issues . 
+A Developer must be able to determine the best way to load historical FPDS data . 
+A Developer must be able to load all FPDS data since 2007 . 
+A FABS user must be able to have the language on FABS pages appropriate for him . 
+A FABS user must be able to have the appropriate information for his application . 
+A FABS user must be able to have read-only access to DABS . 
+A FABS user must be able to view DABS pages without wanting two sets of permissions . 
+A FABS user must be able to have his validations run in a reasonable amount of time . 
+A FABS user must be able to see correct status labels on the Submission Dashboard . 
+A FABS user must be able to quickly see his submission history . 
+An agency user must be able to know when the submission periods start and end . 
+An agency user must be able to have a landing page navigate to either FABS or DABS pages . 
+An agency user must be able to access both sides of the site . 
+An agency user must be able to submit his data elements surrounded by quotation marks . 

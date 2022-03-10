@@ -1,0 +1,225 @@
+The system must be able to have a MDI form that allows for the viewing of the graph and the data table . 
+The system must be able to display Events in a vertical table by time . 
+The system must be able to display the Events in a graph by time . 
+Internal and external users must be able to access the Disputes System .
+The Disputes System must be able to prevent users from accessing any dispute cases that do not belong to their cardholder base . 
+The Disputes System must be able to facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users . 
+The Disputes System must be able to provide different levels of access with regard to disputes case initiation and follow - up actions . 
+The Disputes System must be able to provide view access capability for authorized users of the application . 
+The Disputes System must be able to provide update access capability for authorized users of the application . 
+The Disputes System must be able to allow the users to select disputable transactions ( based on the age of the transaction ) from a user interface and initiate a dispute ( ticket retrieval request or chargeback notification ) on the selected transaction . 
+The Disputes System must be able to provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant . 
+The Disputes System must be able to provide the user the ability to create or initiate a ticket retrieval request . 
+The Disputes System must be able to allow the user to create three unique types of ticket retrieval requests . 
+The Disputes System must be able to prevent external users from requesting original receipts . 
+The Disputes System must be able to provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information ; the dispute case number the type of retrieval requested ( copy original or portfolio ) and the date that the merchant response is due . 
+The Disputes System must be able to allow the user to create or initiate a chargeback request . 
+The Disputes System must be able to provide a confirmation to the user upon the creation of a chargeback request . 
+The Disputes System must be able to prevent the creation of duplicate dispute requests 100 % of the time . 
+The Disputes System must be able to accurately provide a list of possible reason codes for a given transaction . 
+The Disputes System must be able to provide the ability to view existing dispute cases . 
+The Disputes System must be able to provide Search functionality . 
+The user must be able to view a list of all disputes cases that meet the entered search criteria . 
+The Disputes System must be able to provide the users the ability to view the history of all activities that have occurred on the dispute case . 
+The Dispute System must be able to provide the users with the ability to follow up on a dispute case via follow - up actions . 
+The Disputes System must be able to record the name of the user and the date for any activity that creates or modifies the disputes case in the system . 
+The user must be able to search for the preferred repair facility using vehicle vehicle location and radius in miles . 
+The vehicle data must be able to include vehicle year make and model . 
+The vehicle location must be able to include street address city state and zipcode . 
+The system must be able to resolve the zipcode for the street address city and state if zipcode is unknown . 
+The system must be able to locate the preferred repair facility with the highest ratings for the input criteria . 
+The adjuster must be able to enter the preferred repair facility on the estimate assignment . 
+The adjuster must be able to override the preferred repair facitlity on the estimate assignment . 
+The user must be able to view the preferred repair facility .
+The system must be able to return a list of repair facilities within the radius if the preferred repair facility can not be determined . 
+The estimator must be able to search for available recycled parts using damaged vehicle parts information . 
+The estimator must be able to search for available recycled parts using a list of preferred parts suppliers . 
+The system must be able to search for available recycled parts for the supplied vehicle parts and suppliers . 
+The estimator must be able to search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers . 
+The system must be able to retain the available recycled parts and suppliers returned from the search . 
+The user must be able to view the available recycled parts information and their suppliers .
+The estimator must be able to apply selected recycled parts to the collision estimate . 
+The estimator must be able to not apply recycled parts to the collision estimate if no available parts are returned . 
+The adjuster must be able to review the collision estimate . 
+The adjuster must be able to request a recycled parts audit of the collision estimate . 
+The system must be able to retreive The recycled parts search results provided to the estimator . 
+The system must be able to generate an audit report based on the available recycled parts and the collision estimate . 
+The audit report must be able to include the total number of recycled parts used in the estimate . 
+The audit report must be able to include the number of available recycled parts from the original search results . 
+The audit report must be able to include the percentage of available recycled parts used in the estimate . 
+The audit report must be able to include the total score of the audit which sums the indivual line items . 
+The user must be able to display the audit report .
+The user must be able to view the preferred repair facility ratings . 
+The system must be able to display a blank set of ratings if there are not ratings yet defined . 
+The user must be able to enter new ratings based on the audit report . 
+The ratings must be able to be from a scale of 1 - 10 . 
+The ratings must be able to include categories for attempted use of recycled parts and actual use of recycled parts . 
+The user must be able to save the preferred repair facility ratings . 
+The system must be able to save the preferred repair facility ratings .
+The product must be able to record meeting entries . 
+The product must be able to notify employees of meeting invitations . 
+The product must be able to have the ability to send meeting reminders to employees . 
+The product must be able to assign the organizers contact information to each meeting they create . 
+The product must be able to record meeting acknowledgements . 
+The product must be able to store new conference rooms . 
+The product must be able to update existing conference rooms . 
+The product must be able to delete conference rooms . 
+The product must be able to store new room equipment . 
+The product must be able to update existing room equipment . 
+The product must be able to delete room equipment . 
+The product must be able to allow an organizer to invite other employees to meetings . 
+The product must be able to record the transportation status of equipment reserved . 
+The product must be able to display a map of the company building showing conference room locations . 
+The product must be able to record updated meeting agendas . 
+The product must be able to send a meeting confirmation to the meeting organizer . 
+The product must be able to display room equipment according to search parameters . 
+The product must be able to display conference rooms according to search parameters . 
+The product must be able to record different meeting types . 
+The product must be able to record all the equipment that has been reserved . 
+The product must be able to notify building personnel of equipment transport requests . 
+The product must be able to allow priviledged users to view meeting schedules in multiple reporting views . 
+The product must be able to send meeting notifications via different kinds of end - user specified methods . 
+The product must be able to have a customizable Look and Feel . 
+The product must be able to have an intuitive user interface . 
+The product must be able to display an available status for unreserved conference rooms . 
+The System must be able to allow generation of Inventory Quantity Adjustment documents on demand . 
+The System must be able to allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time . 
+The IQA subsystem must be able to take into account current inventory status and adjust inventory of substitutionary ingredients accordingly . 
+The System must be able to allow entering storing and modifying product formulas . 
+Product formulas must be able to allow use of semi - products which have own formulas . 
+Product formula ingredients must be able to allow defining substitutionary ingredients . 
+Product formula substitutionary ingredients must be able to be entered automatically by the PFE subsystem . 
+Formula substitutionary ingredients must be able to be kept in persisted order . 
+Product must be able to allow entering storing and modifying product menus used by POS terminals . 
+Pme Subsystem must be able to allow building product menus based on the list of products kept in the accounting system . 
+Pme Subsystem must be able to allow keeping submenus within menus and products within submenus in a managed and persisted order . 
+Pme Subsystem must be able to allow for a product to exist in more than one submenu . 
+The RMS System must be able to have Windows XP look and feel and use GUI futures making its use intuitive . 
+The System must be able to generate Inventory Quantity Adjustment document based on product daily sales data and product formulas . 
+The System must be able to generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available . 
+The website must be able to allow customers to search for movies by title actor or director . 
+Website must be able to request and authorize credit card payment before allowing a user to stream a movie . 
+Website must be able to allow customers to browse movies by categories entered in by izogn administrator . 
+Website must be able to allow customers to view reviews of selected movies by other customers . 
+Website must be able to allow customers to add their own movie review for a selected movie . 
+Website must be able to allow the Izogn administrator to approve a review posted by a customer . 
+System must be able to allow customers to pay for a streaming movie with a pre - paid card . 
+Website must be able to allow customers to purchase pre - paid cards of $ 5 $ 10 or $ 20 value either by credit card or mail - in payment option . 
+System must be able to automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website . 
+System must be able to allow users to update their billing and contact information via the My Account section of the website . 
+Only registered customers must be able to purchase streaming movies . 
+Website must be able to support free trial periods with various parameters set by the Izogn Manager . 
+The administrator must be able to access daily usage statistics .
+The owner must be able to have free access to all of the streaming movies . 
+The vendor must be able to verify the invalid lead . 
+Vendor must be able to submit a credit validation record to be applied to the enterprise billing system . 
+The system must be able to supply the lead data and score to the enterprise system if a lead is scored to the high range . 
+The product must be able to validate all leads received by the web service for valid data . 
+The product must be able to insert all leads captured by the web service . 
+The product must be able to compile both contact and academic scoring information for a total score . 
+The product must be able to use the parameters supplied by corporate and schools to score part of the lead . 
+The product must be able to return the lead data supplied to the vendor along with the reason of rejection . 
+The product must be able to have an interface in which lead data parameters can be maintained . 
+The product must be able to verify the users authentication and rights to make parameter updates . 
+The product must be able to store any potential lead duplicates returned by the enterprise system . 
+The product must be able to maintain a list of players . 
+The product must be able to allow a user to identify himself or herself as a player . 
+The product must be able to make the players assigned to the game unavailable for selection from the list of players by the time a game has been initiated . 
+The product must be able to allow a user to remove himself or herself from the list of players at any time . 
+The product must be able to make inactive players unavailable for selection from the list of players . 
+The product must be able to remove players who have been inactive for 24 hours from the list of players . 
+The product must be able to allow a player to initiate a game by selecting another available player from the list of players . 
+The product must be able to display a defensive grid to each player by the time a game is initiated . 
+The product must be able to display an offensive grid to each player by the time a game is initiated . 
+The product must be able to prevent a player from viewing the offensive or defensive grids of the other player . 
+The product must be able to allow each player to position their 5 ships on their respective defensive grids by the time a game is initiated . 
+The product must be able to allow a player to position ships horizontally on their grid . 
+The product must be able to allow the player to position ships vertically on their grid . 
+The product must be able to allow the player to position ships diagonally on their grid . 
+The product must be able to prevent the player from overlapping ships on their grid . 
+The product must be able to define the status of each player for the first turn by the time both players have positioned their 5 ships on their defensive grids . 
+The product must be able to maintain the status of each player for a turn either offensive or defensive . 
+The product must be able to notify each player of his or her status at the start of each turn . 
+The product must be able to allow the offensive player to define a shot for each turn . 
+The product must be able to examine the defensive grid of the defensive player to determine whether the shot was a hit or miss for each shot . 
+The product must be able to notify the players whether the shot was a hit or miss for each shot . 
+The product must be able to mark the shot as a hit or miss on the defensive grid of the defensive player for each shot . 
+The product must be able to mark the shot as a hit or miss on the offensive grid of the offensive player for each shot . 
+The product must be able to notify the players that the ship was sunk by the time the hit results in sinking a ship . 
+The product must be able to mark the ship as sunk on the defensive grid of the defensive player by the time the hit results in sinking a ship . 
+The product must be able to indicate the type of ship sunk on the defensive grid of the defensive player by the time the hit results in sinking a ship . 
+The product must be able to mark the ship as sunk on the offensive grid of the offensive player by the time the hit results in sinking a ship . 
+The product must be able to allow the offensive player to define a shot if the shot was marked as a hit . 
+The product must be able to change the status of the offensive player to defensive if the shot was marked as a miss . 
+The product must be able to change the status of the defensive player to offensive if the shot was marked as a miss . 
+The product must be able to continue to assign turns until the game is ended . 
+The product must be able to end a game when a hit by the offensive player results in sinking the last of the defensive players ships which had not been previously marked as sunk . 
+The product must be able to allow a player to end a game at any time during the game . 
+The product must be able to notify the players that the game is ended.
+The product must be able to allow each player to identify himself or herself as an available player in the list of players by the time a game is ended . 
+The product must be able to allow each player to remove himself or herself from the list of players by the time a game is ended . 
+The system must be able to allow a real estate agent to query MLS information . 
+The user must be able to get driving directions to a selected property . 
+The user must be able to download appointments and contact information for clients . 
+The system must be able to display clear property images in the search results . 
+The system must be able to call the seller or buyer to schedule an appointment . 
+The realtor must be able to retrieve a map showing property locations for a specified area . 
+The system must be able to notify the realtor when a seller or buyer responds to an appointment request . 
+The product must be able to allow the user to save the property search results . 
+A cohort must be able to be associated to one Program of Study offered by the department . 
+Program Administrators and Nursing Staff Members must be able to add a listing of students to a cohort . 
+Program Administrators and Nursing Staff Members must be able to add a single student to a cohort . 
+Program Administrators and Nursing Staff Members must be able to specify the preferred sequence of classes for a given cohort . 
+Program Administrators and Nursing Staff Members must be able to specify which quarter that class will be offered for each class within a sequence for a cohort . 
+Program Administrators and Nursing Staff Members must be able to specify which quarter that class will be offered for each class within a sequence for a cohort . 
+Program Administrators and Nursing Staff Members must be able to add new classes to a sequence of classes . 
+The system must be able to display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications . 
+The system must be able to link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications . 
+The system must be able to allow modification of the display . 
+The system must be able to offer a display of all the Events in the exercise . 
+The system must be able to filter data by : Venues and Key Events . 
+The system must be able to allow a user to define the time segments . 
+The system must be able to display the local and exercise time in separate clocks . 
+The system must be able to offer the ability to pause and resume the refresh of data . 
+The system must be able to provide charts for the Activity or Event actual versus assumed time . 
+The system must be able to use the stored e - mail addresses as a primary means of communicating information to affected parties . 
+The system must be able to display Events or Activities.
+The display must be able to have two regions: left 2/3 of the display is graphical right 1/3 of the display is a data table
+The table side of the display must be able to be split into 2 regions: sequential and temporal.
+The top 1/4 of the table must be able to hold events that are to occur sequentially.
+The bottom 3/4 of the table must be able to hold events that occur according to its relevance to current time.
+The system must be able to color code events according to their variance from current time.
+The system must be able to provide a history report of changes made to the Activity or Event data
+The system must be able to update or create new property listings in the MLS
+Realtor must be able to generate a CMA report based on property criteria
+Program Administrators and Nursing Staff Members must be able to add clinical classes or sections to a sequence of classes
+Program Administrators and Nursing Staff Members must be able to add a new cohort to the system identified by start month and year.
+Program Administrators and Nursing Staff Members must be able to add new classes for the nursing department into the system.
+A class must be able to be either non-clinical or clinical .
+A non-clinical class must be able to specify the course name lecture room requirements and instructor needs.
+Program Administrators and Nursing Staff Members must be able to create a new Program of Study.
+A Program of Study must be able to consist of a program name and listing of required classes that must be completed.
+Program Administrators and Nursing Staff Members must be able to specify which classes are required for a Program of Study
+The system must be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators and Nursing Staff Members planning purposes.
+Program Administrators and Nursing Staff Members must be able to add a new clinical site into the system.
+Program Administrators and Nursing Staff Members must be able to add a new clinical lab section for an existing clinical class into the System.
+A clinical lab section must be able to include the clinical site name, the class instructor, day and time of the lab .
+Program Administrators and Nursing Staff Members must be able to add a student who has registered for a clinical class to a clinical lab section for that class.
+The system must be able to allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.
+The system must be able to allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.
+Program Administrators and Nursing Staff Members must be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.
+A Program Administrator/Nursing Staff Member must be able to add a new nursing student to the system.
+A staff member must be able to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.
+The system must be able to display a printable summary for individual cohorts which must be able to include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+The system must be able to display a printable summary for individual clinical sites which must be able to include information on labs being held at that site for the given quarter
+The system must be able to display a printable summary for individual clinical labs which must be able to include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.
+The system must be able to display a printable summary for individual nursing students which must be able to include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.
+The system must be able to display a printable summary of the system log.
+The system must be able to contain contact information (email and phone number) for all people relevant to the system including (but not limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.
+The system must be able to notify affected parties when changes occur affecting cohorts including but not limited to changes to the sequence for a cohort�s program of study and changes to a given week�s schedule (lab cancelled this week due to instructor illness).
+The system must be able to notify affected parties when changes occur affecting specific students including but not limited to changing a student�s status from full time to part time and moving a student to a different clinical section.
+Program Administrators and Nursing Staff Members must be able to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort must be able to be taking specific classes.
+Program Administrators and Nursing Staff Members must be able to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.
+Program Administrators and Nursing Staff Members must be able to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.
+Program Administrators and Nursing Staff Members must be able to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.
+Program Administrators and Nursing Staff Members must be able to modify information relating to a Nursing Student including student ID student name phone number email status (full time or part time) and program of study.

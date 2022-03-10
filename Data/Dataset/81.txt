@@ -1,0 +1,23 @@
+The user must be able to login to their account
+The user must be able to make an account
+The user must be able to type text in the source box
+The user must be able to select the language in the source text
+The user must be able to select the language in the translated text
+The user must be able to see a history of their submitted translation requests
+The user must be able to use voice input for the source text
+The user must be able to save their translation requests
+The user must be able to submit suggestions for translations
+The user must be able to see translations of individual words from their submitted text
+The user must be able to listen to the translated text
+The user must be able to leave feedback
+The system must be able to recognize the language of the source text
+The system must be able to recognize names and not translate them
+The system must be able to receive translation recommendations from users
+The system must be able to generate a sound output of the translated text
+The administrator must be able to update the language databases
+The administrator must be able to add recommendations to the databases
+The administrator must be able to delete recommendations
+The administrator must be able to view the user feedback
+The system must be able to manage the administrator accounts
+The administrator must be able to manage the user accounts
+The administrator must be able to delete feedback

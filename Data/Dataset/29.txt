@@ -1,0 +1,6 @@
+The application must be able to export the ODP document to WikiMarkup format while retaining text formatting and images.
+The application must be able to export the slides as images for reading or commenting.
+The application must be able to enable automatic importing in the Wiki app and customization of the structure of Wiki pages according to presentation structure.
+The application must be able to store original ODP metadata (slide titles, presentation structure) and the original ODP file, thus allowing easier exporting back to ODP, while exporting from ODP to Wiki.
+The slide editing must be able to support "power user" capabilities, WYSIWG is optional.
+The application must be able to export Wiki back to ODP, retaining the images, text formatting, comments and other content changes.

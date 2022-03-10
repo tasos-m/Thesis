@@ -1,0 +1,11 @@
+A registered user must be able to see the programs' list.
+A registered user must be able to see the programs' page.
+A customer-user must be able to see his/her bookings.
+A customer-user must be able to cancel a booking of his/her.
+A customer-user must be able to activate/deactivate his/her notifications.
+A customer-user must be able to make a booking.
+A customer-user must be able to rate a program.
+A secretary-user must be able to add a program.
+A secretary-user must be able to delete a program.
+A secretary-user must be able to edit a program.
+A secretary-user must be able to send notifications.

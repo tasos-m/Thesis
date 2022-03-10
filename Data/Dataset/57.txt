@@ -1,0 +1,38 @@
+The user must be able to register
+The registered user must be able to login
+The logged-in user must be able to logout
+The logged-in user must be able to update his information
+The logged-in user must be able to delete his account
+The user must be able to search logged-in users
+The user must be able to search for a video
+The user must be able to select a video
+The user must be able to watch a video
+The user must be able to pause the video
+The user must be able to unpause the video
+The user must be able to enable the sound
+The user must be able to disable the sound
+The user must be able to regulate the sound volume
+The user must be able to change playback speed
+The user must be able to change video quality
+The user must be able to move forward at a selected time
+The logged-in user must be able to comment on video
+The logged-in user must be able to like the video
+The logged-in user must be able to share the video
+The logged-in user must be able to reply to a comment
+The logged-in user must be able to report a video
+The logged-in user must be able to subscribe to a channel
+The user must be able to watch video in full screen
+The user must be able to enable subs
+The user must be able to copy the video's URL at a selected time
+The user must be able to enable autoplay
+The user must be able to disable autoplay
+The logged-in user must be able to add a video
+The logged-in user must be able to create a playlist
+The logged-in user must be able to remove his video
+The logged-in user must be able to edit his video
+The logged-in user must be able to like a comment
+The logged-in user must be able to dislike a video
+The logged-in user must be able to dislike a comment
+The video uploader must be able to disable comments
+The video uploader must be able to enable comments
+The video uploader must be able to add subtitles

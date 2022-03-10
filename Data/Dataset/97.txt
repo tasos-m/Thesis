@@ -1,0 +1,14 @@
+The user must be able to enter voice commands.
+The user must be able to control the lights with voice command.
+The user must be able to control the lights by proximity.
+The user must be able to set the color of the smart lamps.
+The user must be able to set the brightness of the smart lamps.
+The user must be able to water the garden by voice command.
+The user must be able to turn on the kitchen by voice command.
+The user must be able to control the alarm by voice command.
+The user must be able to check the air quality by voice command.
+The user must be able to check the temperature by voice command.
+The system must be able to receive voice commands.
+The system must be able to generate voice from text.
+The system must be able to read the sensor data.
+The system must be able to change the effectors state.

@@ -1,0 +1,10 @@
+The user must be able to get waked up by a song,he/she chose in youtube, played by Alexa, at the time and days he chose.
+The user must be able to get a vocal reminder, he/she chose, by Alexa about an activity e.g. shopping at a time and a day he/she chose.
+The user must be able to get notified by an alarm when there is a gas leaked in the kitchen.
+The user must be able to have the kitchen device automatically closed when there is a gas leaked in the kitchen.
+The user must be able to have the thermostat automatically opened when the temperature in bedroom 1 is below 20 C.
+The user must be able to have the thermostat automatically closed when the temperature in bedroom 1 is over 25 C.
+The user must be able to have the lights in toilet automatically opened when he/she enters the toilet.
+The user must be able to to have the central water valve opened when he/she enters the toilet.
+The user must be able to control the intensity of the smart lamp in the salon in order to make the room more friendly for an activity e.g. reading , using vocal commands to Alexa .
+The user must be able to close the lights in bedroom 2 with vocal commands to Alexa.

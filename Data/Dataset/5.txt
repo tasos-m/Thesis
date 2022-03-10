@@ -1,0 +1,24 @@
+Doctors must be able to edit their public information.
+Doctors must be able to create patient accounts and delete those accounts.
+Doctors must be able to add, modify and delete patient medical notes.
+Doctors must be able to add and delete patient's measured vital parameters.
+Doctors must be able to define and edit mandatory parameters for patients.
+Doctors must be able to define and edit parameters ranges for patients.
+Doctors must be able to send alarms to first aid team with patient's name, location, alarm level and diagnosis.
+Doctors must be able to access patient's medical notes, vital parameters and images or files (on web).
+Patients must be able to add a new measurement of vital parameters.
+Patients must be able to update their location.
+Patients must be able to send alarms using a mobile application to first aid team without providing any information.
+The alarm must be able to contain the current GPS location of the patient.
+Patients must be able to change their personal login password.
+First aid must be able to access the personal information of patient related to alarm received.
+First aid must be able to get a list of alarms in web application.
+First aid must be able to delete alarms when they are acted upon, in web application.
+Mobile application must be able to display patient's medical notes (without images or others attachment files), all measurements of patient's vital parameters to the doctor in charge.
+Mobile application must be able to allow patient to input a new measurement of his vital parameters, and force him to input mandatory vital parameters (if defined).
+Web application must be able to display patient's medical notes (with images or others attachment files), all measurements of vital parameters to the doctor in charge of the patient.
+Web application must be able to allow patient to input a new measurement of his vital parameters, and force him to input mandatory vital parameters (if defined).
+Web application must be able to allow patients to input their address and update location.
+The service must be able to encapsulate storage (database).
+The service must be able to communicate with mobile and web application, exchanging data.
+The service must be able to calculate possible notifications from patient inputs based on defined alarm levels and alert doctor (via email) when it detects that one of the patient's vital parameters is outside of normal range.

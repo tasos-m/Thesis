@@ -1,0 +1,28 @@
+a guest user must be able to sign up
+a guest user must be able to login
+a guest user must be able to see already existing threads
+a guest user must be able to see the date a thread was created
+a guest user must be able to see the time a thread was created
+a guest user must be able to see the time a comment was created
+a logged-in user must be able to send a personal message to another logged-in user
+a logged-in user must be able to see his/her personal messages
+a logged-in user must be able to see already existing threads
+a logged-in user must be able to create a thread
+a logged-in user must be able to comment on a thread
+a logged-in user must be able to reply on a comment
+a logged-in user must be able to see the date a thread was created
+a logged-in user must be able to see the time a thread was created
+a logged-in user must be able to see the date a comment was created
+a logged-in user must be able to see the time a comment was created
+a logged-in user must be able to see attached files
+a logged-in user must be able to download attached files on comments
+a logged-in user must be able to attach a file on his/her comment
+a logged-in user must be able to download attached files in the "downloads" session
+a logged-in user must be able to upload a file
+a logged-in user must be able to change the nickname of his/her account
+an administrator must be able to delete a comment
+an administrator must be able to delete a thread
+an administrator must be able to move a comment to a more apropriate thread
+an administrator must be able to approve a file upload in the "downloads" session
+an administrator must be able to delete an attached file
+an administrator must be able to ban a logged-in user

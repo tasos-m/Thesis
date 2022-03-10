@@ -1,0 +1,25 @@
+The user must be able to place an order
+The user must be able to define own address
+The user must be able to navigate available restaurants
+The user must be able to create an efood account
+The user must be able to login to the system
+The user must be able to pay own order
+The user must be able to submit a review
+The user must be able to read restaurant reviews
+The user must be able to comment on own order
+The user must be able to search for a restaurant
+The system must be able to provide recommendations to the user
+The user must be able to see previous orders
+The user must be able to select a previous order to be executed again
+The user must be able to navigate through the selected restaurant menu
+The user must be able to check the status of own order
+The system must be able to categorize restaurants based on type of cuisine
+The restaurant owner must be able to register own restaurant
+The restaurant owner must be able to accept an order
+The restaurant owner must be able to update the status of an order
+The restaurant user must be able to upload own menu
+The system must be able to show restaurants that serve user-specific locations
+The system must be able to show advertisements
+The administrator must be able to delete a restaurant
+The administrator must the able to delete an offensive comment
+The administrator must be able to validate a restaurant registration

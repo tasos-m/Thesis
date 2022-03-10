@@ -1,0 +1,9 @@
+Teachers must be able to browse as well as create topic or course with the possibility to add and manipulate material or resources as per need.
+Teachers must be able to easily create exercise on a selected topic or course.
+Teachers must be able to add and manipulate file resources with respect to specific course or a topic.
+Teachers must be able to create flash cards.
+The students must be able to browse and search a topic in any domain.
+Students must have the ability to write notes and could also take printouts of them.
+The students must be able to create flash cards and share them among others.
+The students must be able to do some exercises.
+The systems must be able to show results at the end highlighting score.

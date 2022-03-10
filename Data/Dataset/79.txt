@@ -1,0 +1,17 @@
+The user must be able to search for a product in the store.
+The user must be able to select the desired region for inventorying. This may include multiple selections (checkbox).
+We must be able to define the regions (e.g. refridgerators, clothes, Region A, Region B,...)
+The user must be able to see the map of the environment
+The user must be able to select the mode of operation (SLAM or localization)
+The user must be able to select a single point in the map for the robot to go
+The user must be able to set multiple waypoints in the map for the robot to go
+The user must be able to see the localized products
+The user must be able to search for a specific product type (e.g. coca-colas)
+The user must be able to zoom-in or zoom-out the map
+The user must be able to provide a rough estimation of the current pose of the robot, so as to assist the localization process
+The user (admin) must be able to set the maximum speed of the robot
+The user must be able to store routines (places or points that robot must go to) using names
+The user must be able to set deploy times for a routine
+The user must be able to edit the elements of a routine
+The user must be able to delete a routine
+The user must be able to drop the current map and ask for remapping

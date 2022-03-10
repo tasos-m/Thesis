@@ -1,0 +1,19 @@
+The system must be able to provide a list of movies sorted by type.
+The system must be able to project a selected movie.
+The system must be able to pause a playing movie.
+The system must be able to stop a playing movie.
+The system must be able to record a playing movie.
+The system must be able to return to the menu when a movie is playing.
+The system must be able to provide an option menu for a selected movie.
+The system must be able to provide the ability to select subtitles for a selected movie.
+The system must be able to provide a list of TV channels.
+The user must be able to select a TV channel.
+The system must be able to provide a list of program categories for a selected TV channel.
+The system must be able to provide the weekly program for a selected channel.
+The system must be able to project a selected program. 
+The system must be able to pause and stop a playing program.
+The system must be able to forward and rewind a playing program.
+The system must be able to record a playing program.
+The system must be able to pause and stop a playing VC.
+The system must be able to forward and rewind a playing VC.
+The system must be able to record a playing VC.

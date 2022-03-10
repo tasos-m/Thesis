@@ -1,0 +1,67 @@
+A collection curator must be able to see the scheduled records deletion date be displayed on the item and component pages . 
+"A repository manager must be able to track who is financially responsible for each item in the repository ,who should probably be a person contact including name ,phone ,email ,maybe title and address . "
+A repository manager must be able t run a report periodically showing the storage consumed by each financial contact . 
+A collection curator must be able to map an item or items from one collection to another . 
+A faculty member must be able to add a date delimiter to a search string . 
+"A faculty member must be able to limit a search to return only results from before ,after ,or between a given date or dates . "
+A developer must be able to determine if we can use the in - built Fedora 4 event audit services . 
+A DPC must be able to have events created when a publication is published and unpublished . 
+A DPC must be able to record when and why something was made unavailable . 
+A repository manager must be able to specify the remote replication policy for each collection . 
+A repository manager must be able to elect to either replicate remotely or not and possibly beyond the primary remote site . 
+A collection curator must be able to have the repository queue his collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface . 
+A collection curator must be able to have a summary of all remote replication status at collection level on his dashboard . 
+"A collection curator must be able to have his collection be encrypted with a key maintained on that server ,a checksum made and stored of the encrypted file ,and the encrypted file replicated to our remote storage site . "
+A collection curator must be able to lift an embargo for an object in a simple way . 
+"A repoadmin must be able to have Symplectic Elements bidirectionally communicate and integrate with DDR ,which provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for . "
+A collection curator must be able to have items be made available under the permissions they were configured once the embargo date has been reached . 
+A collection curator must be able to create deposit forms specific to the collection . 
+A collection curator must be able to allow some collections the option of setting an embargo date at deposit . 
+A collection curator must be able to have item metadata to be discoverable while the item is under embargo . 
+A collection curator must be able to have the item to be allowed under the access permissions set on the object after the embargo data is reached . 
+"A repoadmin must be able to have users to be presented with a license or a selection of licenses ,specific to the collection ,and deposit to be denied if the submitter does not accept the license . "
+A repoadmin must be able to have the license be recorded in metadata and displayed alongside the item . 
+A DigitalRecords Archivist must be able to have a method to batch ingest ETDs we receive from ProQuest . 
+"A DigitalRecords Archivist must be able to have the batch ingest tool to recognize and set embargoes ,permissions for embargoed items should be allow everyone to view metadata ,and collection curator and repository administrators to download the files . "
+A DigitalRecords Archivist must be able to have the repository to lift embargoes on the release date and set the access controls to the configuration set on item on that date . 
+A visitor must be able to see the embargo status and release date clearly displayed and perhaps highlighted in some way . 
+"A DigitalRecords Archivist must be able to have a method to add and remove multiple people to deposit groups in specific collections ,to set a date that the deposit window closes ,and to have these permissions conferred on these depositors should pick up on the collection 's default permission . "
+A DigitalRecords Archivist must be able to edit the length of embargoes . 
+A DigitalRecords Archivist must be able to expose the descriptive record for each ETD item for re - use external to Fedora . 
+A DigitalRecords Archivist must be able to grant embargo privileges to other repository administrators . 
+A DigitalRecords Archivist must be able to have a method to add and remove individual people from deposit groups . 
+A collection curator must be able to have a tool to perform author authority control . 
+A collection curator must be able to move items from one collection to another . 
+A repoadmin must be able to expose repository contents via OAI - PMH . 
+A DigitalRecords Archivist must be able to view and download summary embargo metadata for all ETDs in the repository . 
+"A batch submitter must be able to provide his data and metadata in a simple ,documented format to the repository staff for ingest . "
+"Repository manager must be able to view authenticated , active and anonymous users . "
+A repository manager must be able to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime . 
+A repository manager must be able to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides . 
+"A repository manager must be able to view a dashboard statistics about collections size including a list of collections ,the number of items and components in each ,total storage consumed by each collection ,visualization of deposit activity . "
+A collection curator must be able to see a dashboard widget showing a summary of recent submissions to his collection . 
+A repoadmin must be able to continue to provide access to the repository in the event that the server fails . 
+A repoadmin must be able to provide the server SLA to data contributors . 
+A repoadmin must be able to update the repository index without disrupting access to the public interface . 
+A repoadmin must be able to provide a Linked Data interface to the repository . 
+A repoadmin must be able to have Symplectic Elements to communicate bidirectionally with the repository . 
+A developer must be able to upgrade to Fedora 4 and migrate our applications and data . 
+A collection curator must be able to have metadata changes made to items with repository - assigned DOIs to be propagated to the EZID . 
+A collection curator must be able to canonically identify authors and creators of his items by unique identifier . 
+A collection curator must be able to see the referers for visitors who use resolver - abstracted links to reach his items . 
+A data contributor must be able to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans . 
+"A depositor must be able to get feedback post - ingest alerting him if files he submitteds do not conform to their format specifications ,if they are not valid ,or if they are not wellformed . "
+A batch submitter must be able to access documentation describing the folder ingest process . 
+A depositor must be able to see what kinds of things the repository accepts and what formats are accepted and recommended . 
+"A depositor must be able to easily find information about which data can be assigned a DOI ,how to get one ,and what metadata are required . "
+A collection curator must be able to create groups of users to manage permissions in the repository in an easy way . 
+A collection curator must be able to restrict access to his collection or items to Duke IP addresses . 
+A collection curator must be able to have users contact him directly from the repository request access to restricted objects . 
+A collection owner must be able to have submitters to his collection to be unable to modify existing items in that collection . 
+A superuser must be able to enter and exit the superuser scope . 
+A collection curator must be able to change permissions on one or more items simultaneously 
+"A collection curator must be able to require authentication to access objects unless the request is coming from a whitelisted IP address ,list of addresses . "
+A repository manager must be able to view available versions of an object and restore a version from the staff interface . 
+A collection curator must be able to view the permission on his objects all together . 
+A non - Duke researcher must be able to describe his team and mine 's objects in the repository after they 've been deposited if we 've been assigned permission to edit metadata . 
+"A faculty member must be able to go to his repository dashboard to manage members of his classes ,grant submit permissions by pasting in a list of NetIDs ,see confirmation that DDR recognizes the NetIDs ,ability to manually remove permissions ,ability to set begin and end dates for a submission window ,and a has a status screen to clearly illustrate who has and has n't submitted . "

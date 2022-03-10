@@ -1,0 +1,29 @@
+The user must be able to have the lights turned on in the salon when there is motion there.
+The user must be able to have a greeting message playing from the smart device when something moves in the salon.
+The user must be able to have the heat turned on when the temperature in the salon is below 20 degrees.
+The user must be able to have the heat turned off when the temperature in the salon is over 25 degrees.
+The user must be able to have the salons smart lamp coloured red when the temperature in the salon is over 24 degrees.
+The user must be able to have the salons smart lamp coloured green when the temperature in the salon is between 21 and 24 degrees.
+The user must be able to have the salons smart lamp coloured blue when the temperature in the salon is below 21 degrees.
+The user must be able to open the gardens water valve for 10 minutes to water the plants.
+The user must be able to have the salons smart lamp intensity set to 50 when the humidity in the salon is under 40.
+The user must be able to have the salons smart lamp intensity set to 150 when the humidity in the salon is between 40 and 60.
+The user must be able to have the salons smart lamp intensity set to 250 when the humidity in the salon is over 60.
+The user must be able to turn on the salons lights with a voice command.
+The user must be able to turn off the salons lights with a voice command.
+The user must be able to hear song "B" when the salons temperature is 23 degrees.
+The user must be able to hear a song "A" when the salons temperature is below 19 degrees.
+The user must be able to hear song "C" when the salons temperature is over 26 degrees.
+The user must be able to hear the weather conditions from the smart device when he asks with a voice command.
+The user must be able to have the alarm enabled and a warning message played via the smart device when the kitchen's gas value is over 50.
+The user must be able to have the bedroom2s(childrens room) smart lamp coloured blue when the temperature in the bedroom2 is below 22 degrees.
+The user must be able to have the heat turned on when the temperature in the bedroom2 is below 22 degrees.
+The user must be able to have the bedroom2s(childrens room) smart lamp coloured green when the temperature in the bedroom2 is between 22 and 26 degrees.
+The user must be able to have the bedroom2s(childrens room) smart lamp coloured red when the temperature in the bedroom2 is over 26 degrees.
+The user must be able to have the heat turned off when the temperature in the bedroom2 is over 26 degrees.
+The user must be able to have the bedroom1s smart lamp coloured blue when the humidity in the bedroom1 is below 40%.
+The user must be able to have the heat turned on when the humidity in the bedroom1 is below 20%.
+The user must be able to have the bedroom1s smart lamp coloured green when the humidity in the bedroom1 is between 40% and 60%.
+The user must be able to have the bedroom1s smart lamp coloured red when the humidity in the bedroom1 is over 60%.
+The user must be able to hear song D when the temperature in the kitchen is over 27 degrees.
+The user must be able to have the kitchens lights turned on when the temperature in the kitchen is over 27 degrees.

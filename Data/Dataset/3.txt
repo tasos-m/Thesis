@@ -1,0 +1,13 @@
+A taxi must be able to notify the server of its location continuously.
+A taxi must be able to get its zone information from the server.
+A taxi must be able to change its status.
+A customer must be able to place an order for a taxi.
+A taxi must be able to receive a customer order.
+The customer must be able to get taxi info, after the taxi is selected.
+Driver must be able to send messages to report risks on the road.
+Driver must be able to receive messages to be informed of risks on the road.
+Traffic simulator must be able to simulate the movement of the cars in a determinate zone on the map.
+ICD simulator must be able to receive messages from other cars via DSRC protocol.
+ICD simulator must be able to send messages to Android application via bluetooth.
+ICD simulator must be able to receive messages from Android application via bluetooth.
+ICD simulator must be able to send messages to other cars via DSRC protocol.

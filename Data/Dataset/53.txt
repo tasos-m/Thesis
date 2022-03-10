@@ -1,0 +1,61 @@
+A user must be able to search and discover music using content identification or fingerprinting . 
+A user must be able to search and discover music based on his profile . 
+A user must be able to search and discover music based on other users similar to himself . 
+A user must be able to search and discover music or ringback tones similar to a given music video based on content similarity . 
+A user must be able to search and discover music by exploiting enriched metadata and image tags . 
+"A user must be able to find related artists ,new genre ,or other relevant listening path . "
+A user must be able to upload tagged videos and has tags available for all further processing steps . 
+A user must be able to view thumbnail sequences of video segments . 
+A user must be able to get info about similar video items and segments . 
+A user must be able to get info about perceptually similar video items and segments . 
+A user must be able to receive content recommendations from similar profiles . 
+A user must be able to receive content recommendations based on most relevant news events in his area . 
+"A user must be able to identify persons in videos ,and receive related information about them . "
+"A user must be able to identify products in videos ,and receive related information about them . "
+"A user must be able to identify broadcaster logos in videos ,and receive related information about them . "
+"A user must be able to identify brands in videos ,and receive related information about them . "
+A user must be able to take a picture or upload an image . 
+"A user must be able to walk around , access content using a geographical map and be informed if there are videos covering the area ,monuments or any other relevant point of interest . "
+A user must be able to search content items using automatic speech recognition . 
+"An admin must be able to see ,validate and edit segmentation of videos . "
+An admin must be able to annotate news video segments and extract a topic for each segment . 
+An admin must be able to filter and rank videos based on A / V quality aspects . 
+An admin must be able to get a quick assessment of whether audio material has been edited before the upload . 
+An admin must be able to prefilter nudity content . 
+An admin must be able to prefilter content using search based on low­level asset information . 
+An admin must be able to automatically validated the ingested contents for copyright infringement . 
+An admin must be able to prefilter the content using search on high­level asset information such as metadata and tags either recognized by the system of provided by the user . 
+"A Zooniverse admin must be able to assess how interesting or appealing or complex a picture is based on automated analysis ,citizen annotations ,and comments on Talk . "
+"A Zooniverse admin must be able to detect when a scientist should be prompted to look at a subject ,based on annotations and information from Talk comments . "
+A Zooniverse admin must be able to identify volunteer types . 
+A Zooniverse admin must be able to preclassify the Galaxy Zoo images using simple low­level image features . 
+A Zooniverse admin must be able to automatically detect Snapshot Serengeti images with no classifiable animals in them . 
+A Zooniverse admin must be able to perform automatic image series detection for the case of timestamping malfunction in Snapshot Serengeti images . 
+A Zooniverse admin must be able to perform automatic animal species preclassification in Snapshot Serengeti . 
+A Zooniverse admin must be able to perform automatic animal attribute preclassification in Snapshot Serengeti . 
+A Zooniverse admin must be able to perform automatic animal number detection in Snapshot Serengeti . 
+A Zooniverse admin must be able to perform automatic segmentation or localization of plankton in Plankton Portal . 
+A Zooniverse admin must be able to automatically detect Plankton Portal images with no classifiable plankton in them . 
+A Zooniverse admin must be able to perform automatic detection of plankton size or orientation in Plankton Portal images . 
+A Zooniverse admin must be able to perform automatic preclassification of plankton species in Plankton Portal images . 
+A Zooniverse admin must be able to perform automatic worm motion analysis to reduce video duration in Worm Watch Lab . 
+A Zooniverse admin must be able to automatically detect the time in a Worm Watch Lab video where the worm lays an egg . 
+"A Zooniverse admin must be able to detect important features such as areas of flooding ,damage ,temporary shelters ,blocked roads etc in the satellite images . "
+A Zooniverse admin must be able to assess the probability / weight of a volunteer ’s classification based on their experience . 
+A Zooniverse admin must be able to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors . 
+A Zooniverse admin must be able to detect moving and transient objects in the images . 
+A Zooniverse admin must be able to remove background noise and distracting sounds from the audio files . 
+A Zooniverse admin must be able to group whale calls that are similar . 
+A Zooniverse admin must be able to identify the number of whales heard in a single audio file . 
+A Zooniverse admin must be able to know when he should interrupt a volunteer . 
+"A Zooniverse admin must be able to know whether he should interrupt a volunteer with text ,an image ,or a video . "
+A Zooniverse admin must be able to know when he should educate a volunteer . 
+"A Zooniverse admin must be able to know whether he should educate a volunteer with text ,an image ,or a video . "
+A Zooniverse admin must be able to know which piece of education he should give to a volunteer . 
+A Zooniverse admin must be able to know when a volunteer has made an interesting comment on a subject . 
+A Zooniverse admin must be able to know when Zoonibot should comment on a subject . 
+A Zooniverse admin must be able to know when Zoonibot should give an explanation . 
+A Zooniverse admin must be able to know what Zoonibot should say to a volunteer . 
+A Zooniverse admin must be able to group subjects by similarity . 
+A Zooniverse admin must be able to recommend different projects to volunteers based on their previous experiences . 
+An admin must be able to see a summary of articles . 

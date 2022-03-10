@@ -1,0 +1,60 @@
+A moderator must be able to create a new game by entering a name and an optional description . 
+A moderator must be able to start inviting estimators . 
+A moderator must be able to invite estimators by giving them a URL where they can access the game . 
+A moderator must be able to start a round by entering an item in a single multi - line text field . 
+A moderator must be able to see all items we try to estimate this session . 
+A moderator must be able to add an item to the list of items to be estimated . 
+A moderator must be able to edit an item in the list of items to be estimated . 
+A moderator must be able to delete an item from the list of items to be estimated . 
+A moderator must be able to show all estimates immediately . 
+A moderator must be able to accept the average of all estimates . 
+A moderator must be able to have the estimate field filled in automatically if all estimators show the same card. 
+A moderator must be able to enter the agreed-upon estimate . 
+A moderator must be able to estimate a story we estimated earlier in the session again . 
+A moderator must be able to import stories from a spreadsheet . 
+A moderator must be able to copy and paste stories from a spreadsheet . 
+A moderator must be able to browse through previous games . 
+A moderator must be able to view a transcript of a game . 
+A moderator must be able to see the stories and estimates . 
+A moderator must be able to export a transcript of a game as a HTML file . 
+A moderator must be able to save the stories and estimates locally . 
+A moderator must be able to export a transcript of a game as a CSV file . 
+A moderator must be able to further process the stories and estimates . 
+A moderator must be able to delete a game . 
+A moderator must be able to create an account for the application by entering his name . 
+A moderator must be able to log in using his account name and password . 
+A moderator must be able to change his account details . 
+A moderator must be able to keep his account details up - to - date . 
+A moderator must be able to delete his account . 
+A moderator must be able to see dates and times in his local timezone . 
+A moderator must be able to get a password reminder by email . 
+A moderator must be able to select whether to have the team estimate with . 
+A moderator must be able to invite up to 15 estimators . 
+An estimator must be able to join a game by entering his name on the page he receiveds the URL for . 
+An estimator must be able to see the item we ’re estimating . 
+An estimator must be able to see all items we will try to estimate this session . 
+A participant must be able to immediately see that an estimate has been given by a specific estimator . 
+A participant must be able to be shown all estimates at the same time after all estimators has given their estimate . 
+A participant must be able to change his estimate up until the last person selects a card and all are shown . 
+A participant must be able to see each estimator 's prior estimates for the story being estimated . 
+A participant must be able to see who gave what estimates during the current round . 
+A participant must be able to start a two-minute countdown timer that all participants can see . 
+A participant must be able to limit the time spent discussing the estimates when A participant thinks We ’ ve talked long enough . 
+A participant must be able to have the two-minute timer reset itself as soon as we all play an estimate . 
+A participant must be able to scroll back through the stories and estimates from prior rounds . 
+A participant must be able to always has the cards in the same order across multiple draws . 
+A participant must be able to change his estimate as long as the draw has not been completed . 
+A participant must be able to have a small thumbnail photo displayed near where his cards are played . 
+A developer must be able to have written a site which is compliant with XHTML and CSS standards . 
+A developer must be able to have a list of definitions for commonly used terms . 
+A developer must be able to have created database indexes . 
+A developer must be able to have the application function correctly in Internet Explorer 6 and 7 . 
+A developer must be able to have the site comply with the W3C accessibility guidelines where possible . 
+People with accessibility issues must be able to use the application . 
+A user must be able to have the application respond quickly to his actions . 
+A user must be able to use Unicode . 
+A user must be able to use any language he likes . 
+A user must be able to see sensible and predictable URLs . 
+A user must be able to have nice error pages when something goes wrong . 
+A Researcher must be able to have results stored in a non - identifiable way . 
+A Mike must be able to see some metrics on use of the game . 

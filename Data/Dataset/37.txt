@@ -1,0 +1,113 @@
+A site member must be able to describe himself on his own page in a semi - structured way . 
+A site member must be able to fill out an application to become a Certified Scrum Practitioner . 
+A site member must be able to earn designation . 
+A Practitioner must be able to include additional details about him in his profile page . 
+A Practitioner must be able to showcase his experience . 
+A site member must be able to fill out an application to become a Certified Scrum Trainer . 
+A site member must be able to teach CSM and CSPO courses and certify others . 
+A Trainer must be able to include additional details in his profile page about him . 
+A Practitioner must be able to write an article for the site with a small graphic shown with the article showing his CSP or CST status . 
+A trainer must be able to list his upcoming classes in his profile and include a link to a detailed page about each . 
+A site member must be able to view the profiles of other members . 
+A site member must be able to search for profiles based on a few fields . 
+A site member must be able to mark his profile as private in which case only his name will appear . 
+A site member must be able to mark his email address as private even if the rest of his profile is not . 
+A site member must be able to send an email to any member via a form . 
+A site administrator must be able to read practicing and training applications and approve or reject them . 
+A site administrator must be able to edit any site member profile . 
+A site administrator must be able to correct problems for members . 
+A site visitor must be able to read current news on the home page . 
+A site visitor must be able to access old news that is no longer on the home page . 
+A site visitor must be able to access things A site visitor remembers from the past or Others mention to him . 
+A site visitor must be able to email news items to the editor . 
+A site editor must be able to set the following dates on a news item . 
+A site member must be able to subscribe to an RSS feed of news . 
+A site editor must be able to assign priority numbers to news items . 
+A site visitor must be able to see a list of all upcoming Certification Courses and can page through them if there are a lot . 
+A site visitor must be able to see a list of all upcoming Other Courses and can page through them if necessary . 
+A site visitor must be able to see a list of all upcoming Events . 
+A site visitor must be able to decide if A site visitor must be able to attend any . 
+A trainer must be able to create a new course or event . 
+A trainer must be able to create an Other Course or Event he is charged a listing fee for that activity . 
+A site administrator must be able to create an Other Course or Event that is not charged a listing fee . 
+A site administrator must be able to set the listing fee per Other Course or Event . 
+A trainer must be able to update one of his existing courses or events . 
+A trainer must be able to delete one of his courses or events . 
+A trainer must be able to copy one of his courses or events . 
+A site admin must be able to delete any course or event . 
+A site admin must be able to remove things That will no longer occur . 
+A site editor must be able to update any course or event . 
+A trainer must be able to correctly classify anything was entered incorrectly . 
+A site visitor must be able to have an advanced search option that lets him fill in a form of search criteria . 
+A site visitor must be able to view a course he can click on the trainer 's name and be taken to the trainer 's profile . 
+A site visitor must be able to read more about a trainer before registering for a course . 
+A site visitor must be able to subscribe to an RSS feed of upcoming courses and events . 
+A site visitor must be able to read FAQs . 
+A site visitor must be able to get quick answers . 
+A site editor must be able to maintain a FAQ section . 
+A site visitor must be able to do a full-text search of the FAQs . 
+A site visitor must be able to find an answer quickly . 
+A site member must be able to download the latest training material and methodology PDFs . 
+A visitor must be able to download presentations . 
+A site member must be able to scroll through a listing of jobs . 
+A recruiter must be able to post a help wanted ad . 
+A recruiter must be able to attract candidates . 
+A site admin must be able to approve each help wanted ad before it gets to the site . 
+A site admin must be able to be emailed whenever a job is submitted . 
+A site member must be able to subscribe to an RSS feed of jobs available . 
+A site admin must be able to edit and delete help wanted ads . 
+A site admin must be able to correct small problems or make sure each Ad complies with site guidelines . 
+A site admin must be able to stop publishing jobs on the site 30 days after being posted . 
+A recruiter must be able to extend an ad for another 30 days by visiting the site and updating the posting . 
+An advertiser must be able to be emailed a reminder seven day before an ad is about to expire . 
+An advertiser must be able to go extend the ad . 
+A site visitor must be able to read a new article on the front page about once a week . 
+The site editor must be able to include a teaser with each article . 
+A site member who has read a teaser on the front page must be able to read the entire article . 
+A site member must be able to finish articles That appeal to him . 
+The site editor must be able to add an article to the site . 
+A site editor must be able to set start publishing dates . 
+A site editor must be able to designate whether or not an ever makes the home page . 
+The site editor must be able to have pretty good control over how the article . 
+A site visitor must be able to click the link from the article teaser to take him directly to the body of the article . 
+A site editor must be able to indicate whether an article is publicly available or for members only . 
+A site visitor must be able to read some of your articles . 
+A site member must be able to have full access to all articles . 
+A site visitor must be able to subscribe to an RSS feed of articles . 
+A site visitor must be able to post comments about articles . 
+A site editor must be able to have a prominent area on the home page where he can put special announcements not necessarily news or articles . 
+A site editor must be able to have some flexibility as to where things appear . 
+A site editor must be able to accommodate different types of content . 
+A trainer must be able to see the upcoming courses .
+A site visitor must be able to see new content when he comes to the site . 
+A site visitor must be able to have articles that interest him and are easy to get to . 
+A site visitor must be able to know as he glances around the home page what on earth a CSM is and why he 'd must be able to be one . 
+A site visitor must be able to go the home page quickly and easily . 
+A site visitor must be able to see a list of the most popular items on the site . 
+A trainer must be able to be assured that no one can submit the same answers multiple time and skew his results . 
+A site admin must be able to see the results for each trainer and averages for the class . 
+A site admin must be able to identify any outliers or possible problems . 
+A site visitor must be able to see a trainer 's rating . 
+A trainer must be able to show his rating up on his profile page . 
+A site visitor must be able to view a section of the website that teaches him the basics of what Scrum is . 
+A site visitor must be able to learn quickly . 
+A site editor must be able to create the content of the What Is Scrum section . 
+"A site visitor must be able to view lists on the site of all Certified Scrum Masters ,Practitioners ,Trainers ,and Certified Scrum Product Owners . "
+A CSM must be able to have his name listed in the registry without becoming a member of the site . 
+A trainer must be able to load an Excel file into the site . 
+A site admin must be able to view all classes in a pending state . 
+A site admin must be able to move people in a trainer 's class from a pending state to the registry once he has received proof of payment from the trainer . 
+A CSM must be able to be sent an email welcoming him to the Scrum Alliance and with instructions to register or activate his membership once his name has been loaded to the registry . 
+A site editor must be able to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners . 
+A company must be able to join the Scrum Alliance by paying a corporate membership fee . 
+A company must be able to show the company 's support of Scrum . 
+A corporatesponsor must be able to display his logo on a corporate sponsors page . 
+A corporatesponsor must be able to make his logo randomly appear on the home page . 
+A CSM must be able to be charged a fee once he is approved for Practitioner status . 
+A CST must be able to pay an annual fee . 
+A site administrator must be able to set the annual fees for members . 
+A member must be able to receive a reminder and a link . 
+A member must be able to renew his membership . 
+A member must be able to have the system email him a new password or a password reminder since i has short - term memory problems . 
+A trainer must be able to read information of relevance only to trainers . 
+A site editor must be able to post information in a trainers .

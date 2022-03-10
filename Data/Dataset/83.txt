@@ -1,0 +1,42 @@
+The user must be a able to secure login to the system with a quick login pin
+The user must be able to create an account
+The user must be able to secure login to the system with his username and password
+The user must be able to reset his password
+The user must be able to reset his quick login pin
+The user must be able to see all previous transactions
+The user must be able to see recent transactions
+The user must be able to see the available balance
+The user must be able to see how much money he spent this month
+The user must be able to make a transaction
+The user must be able to navigate possible transactions
+The user must be able to choose a transaction
+The user must be able to pay bill
+The user must be able to deposit money to his cards
+The user must be able to deposit money to other accounts
+The user must be able to place an instant cash order
+The user must be able to see notifications
+The user must be able to search for older transactions
+The user must be able to see all his cards
+The user must be able to notify the system if he lost his card
+The system must be able to send notifications
+The user must be able to see categories of his expenses
+The user must be able to see the locations of bank branches and ATM's
+The system must be able to receive the location of the user
+The administrator must be able to validate user's account information
+The administrator must be able to change user's account information
+The administrator must be able to block a card
+The administrator must be able to delete a card
+The system must be able to block a card
+The adminstrator must be able to unblock a card
+The adminstrator must be able to register a new user account
+The administrator must be able to see a user's transactions
+The user must be able to deposit money to other cards
+The user must be able to notify the system if he forgot his quick login pin
+The user must be a able to confirm a transaction with his quick login pin
+The user must be able to see categories of bills
+The user must be able to choose a category of bill
+The user must be able to see all the providers in a category of a bill
+The user must be able to choose a providers in a category of a bill
+The user must be able submit a code for a bill payment
+The system must be able to send one time passwords to users through SMS
+The user must be able to submit an one time password when he make an instant cash order

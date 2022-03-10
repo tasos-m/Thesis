@@ -1,0 +1,17 @@
+the app must be able to be installed on a smartphone
+the appmust be able to be connected to a device (alexa)
+the app must be able to have access to user's info
+the user must be able to allow the app to have control over other apps (like spotify)
+the app must be able to sync with all the sensors
+the app must be able to notify the user of possible errors
+the device must be able to have different attention states (recording, analyzing, replying)
+the device must be able to have audio input and output
+the app must be able to be connected to the internet
+the app must be able to support silencing alerts, adjusting volume and stopping media when internet connectivity is unavailable
+the device must be able to have a wake-word
+the device must be able to have a microphone-off state
+the device must be able to support enabling and disabling microphones when internet connectivity is unavailable
+the device must be able to control all the sensors (through the app)
+the user must be able to set timer
+the user must be able to cancel timer
+the user must be able to reset timer

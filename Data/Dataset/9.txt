@@ -1,0 +1,26 @@
+All the users must be able to have access to the system with username and password
+The system must be able to provide the functionality to manage users (CRUD)
+The machine operator must be able to see the list of his work orders
+The machine operator must be able to update the status of his work orders (e.g. finished)
+The machine operator must be able to view which work orders have been updated
+The machine operator must be able to be advised when there is a change in his work orders
+The system must be able to provide a work order pool where the machine operators must be able to select a work order to complete.
+The system must be able to provide the functionality to manage work orders (CRUD)
+The system must be able to provide templates for the creation of work orders
+The system must be able to provide the possibility to book a spare part from a warehouse
+The machine operator must be able to view the list of his bookings
+The system must be able to provide the searching functionality for spare parts
+The system must be able to provide the functionality to manage spare parts (CRUD)
+The system must be able to provide the functionality to manage the tunnels in the mine (CRUD)
+The system must be able to provide the functionality to manage the hotspots (e.g. warehouse, vehicle, user) in the mine (CRUD)
+The system must be able to provide the functionality to view the map of the mine
+The system must be able to provide the functionality to view the hotspots on one floor of the mine
+The system must be able to calculate and show the shortest path from the user current position to the selected destination (e.g. warehouse).
+The system must be able to provide private access to all the users
+The system must be able to provide the booking functionality for the machine operators.
+The system must be able to provide the view of the shortest and safest route from location a to location b (e.g. mine exit, warehouse. working position).
+The system must be able to provide the functionalities to view the work orders for the machine operator.
+The system must be able to provide the functionalities for the production supervisor to create, edit and delete work orders .
+The system must be able to provide the functionalities to View the state of all work orders
+The system must be able to provide the functionalities to create, edit and delete spare parts in inventory
+The system must be able to provide the functionalities to add, update and delete user accounts

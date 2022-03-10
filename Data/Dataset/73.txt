@@ -1,0 +1,11 @@
+A logged-in user must be able to submit a new issue.
+A logged-in user must be able to view all public issues.
+A logged-in user must be able to vote a public issue.
+A logged-in user must be able to view the full content of a public issue.
+A logged-in user must be able to apply filters on public issues.
+A logged-in user must be able to view his pending issues.
+A logged-in user must be able to edit one of his pending issues.
+An administrator must be able to view all issues.
+An administrator must be able to apply filters on public issues.
+An administrator must be able to manage categories.
+An administrator must be able to manage an issue.
