@@ -15,6 +15,9 @@ _Aristotle University of Thessaloniki, Greece_
 
 _February 2022_
 
+## Thesis Report in Greek
+You can read the Thesis Report [here](https://ikee.lib.auth.gr/record/337972/files/Thesis_Mouratidis_Anastasios_9040.pdf). 
+
 ## Dependencies 
 ```
 pip install pandas
